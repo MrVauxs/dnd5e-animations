@@ -36,7 +36,7 @@ async function generateAutorecUpdate(quiet = true) {
                 const xEntry = getFullVersion(x, settings[key])
 
                 /* (Bang Bang, you're a Boolean) */
-                if (!!xEntry.metaData && (xEntry.metaData.name === "D&D5e Animations" || xEntry.metaData?.default)) {
+                if (!!xEntry.metaData && (xEntry.metaData.name === "D&D5e Animations" || xEntry.metaData.name === "5e Animations" || xEntry.metaData?.default)) {
                     // If menu it exists from is blacklisted, add it to blacklisted.
                     if (game.settings.get("dnd5e-animations", "blacklist").menu.includes(key)) return blacklist[key].push(xEntry);
                     // If it's blacklisted by name, add it to blacklisted.

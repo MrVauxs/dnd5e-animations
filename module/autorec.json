@@ -1,7 +1,7 @@
 {
 	"melee": [
 		{
-			"id": 1,
+			"id": "1",
 			"label": "Axe",
 			"levels3d": {
 				"enable": false,
@@ -244,7 +244,7 @@
 			}
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"label": "Bash",
 			"levels3d": {
 				"type": "explosion",
@@ -452,7 +452,7 @@
 			}
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"label": "Beak",
 			"levels3d": {
 				"enable": false,
@@ -665,7 +665,7 @@
 			}
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"label": "Chain",
 			"levels3d": {
 				"type": "explosion",
@@ -873,7 +873,7 @@
 			}
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"label": "Club",
 			"levels3d": {
 				"enable": false,
@@ -1087,7 +1087,7 @@
 			}
 		},
 		{
-			"id": 6,
+			"id": "6",
 			"label": "Dagger",
 			"levels3d": {
 				"enable": false,
@@ -1330,7 +1330,7 @@
 			}
 		},
 		{
-			"id": 7,
+			"id": "7",
 			"label": "Falchion",
 			"levels3d": {
 				"enable": false,
@@ -1543,7 +1543,7 @@
 			}
 		},
 		{
-			"id": 8,
+			"id": "8",
 			"label": "Fist",
 			"levels3d": {
 				"enable": false,
@@ -1756,7 +1756,7 @@
 			}
 		},
 		{
-			"id": 9,
+			"id": "9",
 			"label": "Flail",
 			"levels3d": {
 				"enable": false,
@@ -1970,7 +1970,7 @@
 			}
 		},
 		{
-			"id": 10,
+			"id": "10",
 			"label": "Flurry of Blows",
 			"levels3d": {
 				"enable": false,
@@ -2213,7 +2213,7 @@
 			}
 		},
 		{
-			"id": 11,
+			"id": "11",
 			"label": "Fork",
 			"levels3d": {
 				"type": "explosion",
@@ -2421,7 +2421,7 @@
 			}
 		},
 		{
-			"id": 12,
+			"id": "12",
 			"label": "Glaive",
 			"levels3d": {
 				"enable": false,
@@ -2635,7 +2635,7 @@
 			}
 		},
 		{
-			"id": 13,
+			"id": "13",
 			"label": "Greataxe",
 			"levels3d": {
 				"enable": false,
@@ -2878,7 +2878,7 @@
 			}
 		},
 		{
-			"id": 14,
+			"id": "14",
 			"label": "Greatclub",
 			"levels3d": {
 				"enable": false,
@@ -3121,7 +3121,7 @@
 			}
 		},
 		{
-			"id": 15,
+			"id": "15",
 			"label": "Greatsword",
 			"levels3d": {
 				"enable": false,
@@ -3364,7 +3364,7 @@
 			}
 		},
 		{
-			"id": 16,
+			"id": "16",
 			"label": "Halberd",
 			"levels3d": {
 				"enable": false,
@@ -3578,7 +3578,7 @@
 			}
 		},
 		{
-			"id": 17,
+			"id": "17",
 			"label": "Hammer",
 			"levels3d": {
 				"enable": false,
@@ -3792,7 +3792,7 @@
 			}
 		},
 		{
-			"id": 18,
+			"id": "18",
 			"label": "Handaxe",
 			"levels3d": {
 				"enable": false,
@@ -4035,7 +4035,7 @@
 			}
 		},
 		{
-			"id": 19,
+			"id": "19",
 			"label": "Harpoon",
 			"levels3d": {
 				"enable": false,
@@ -4248,7 +4248,7 @@
 			}
 		},
 		{
-			"id": 20,
+			"id": "20",
 			"label": "Hoof",
 			"levels3d": {
 				"type": "explosion",
@@ -4456,7 +4456,7 @@
 			}
 		},
 		{
-			"id": 21,
+			"id": "21",
 			"label": "Hook",
 			"levels3d": {
 				"type": "explosion",
@@ -4664,7 +4664,7 @@
 			}
 		},
 		{
-			"id": 22,
+			"id": "22",
 			"label": "Hooves",
 			"levels3d": {
 				"enable": false,
@@ -4877,7 +4877,7 @@
 			}
 		},
 		{
-			"id": 23,
+			"id": "23",
 			"label": "Horn",
 			"levels3d": {
 				"enable": false,
@@ -5090,7 +5090,7 @@
 			}
 		},
 		{
-			"id": 24,
+			"id": "24",
 			"label": "Lance",
 			"levels3d": {
 				"enable": false,
@@ -5304,7 +5304,7 @@
 			}
 		},
 		{
-			"id": 25,
+			"id": "25",
 			"label": "Lasersword",
 			"levels3d": {
 				"enable": false,
@@ -5517,7 +5517,7 @@
 			}
 		},
 		{
-			"id": 26,
+			"id": "26",
 			"label": "Mace",
 			"levels3d": {
 				"enable": false,
@@ -5760,7 +5760,7 @@
 			}
 		},
 		{
-			"id": 27,
+			"id": "27",
 			"label": "Maul",
 			"levels3d": {
 				"enable": false,
@@ -6003,7 +6003,7 @@
 			}
 		},
 		{
-			"id": 28,
+			"id": "28",
 			"label": "Morningstar",
 			"levels3d": {
 				"enable": false,
@@ -6246,7 +6246,7 @@
 			}
 		},
 		{
-			"id": 29,
+			"id": "29",
 			"label": "Pick",
 			"levels3d": {
 				"enable": false,
@@ -6460,7 +6460,7 @@
 			}
 		},
 		{
-			"id": 30,
+			"id": "30",
 			"label": "Pike",
 			"levels3d": {
 				"enable": false,
@@ -6674,7 +6674,7 @@
 			}
 		},
 		{
-			"id": 31,
+			"id": "31",
 			"label": "Pincer",
 			"levels3d": {
 				"type": "explosion",
@@ -6882,7 +6882,7 @@
 			}
 		},
 		{
-			"id": 32,
+			"id": "32",
 			"label": "Pseudopod",
 			"levels3d": {
 				"type": "explosion",
@@ -7089,7 +7089,7 @@
 			}
 		},
 		{
-			"id": 33,
+			"id": "33",
 			"label": "Quarterstaff",
 			"levels3d": {
 				"enable": false,
@@ -7332,7 +7332,7 @@
 			}
 		},
 		{
-			"id": 34,
+			"id": "34",
 			"label": "Ram",
 			"levels3d": {
 				"enable": false,
@@ -7545,7 +7545,7 @@
 			}
 		},
 		{
-			"id": 35,
+			"id": "35",
 			"label": "Rapier",
 			"levels3d": {
 				"enable": false,
@@ -7788,7 +7788,7 @@
 			}
 		},
 		{
-			"id": 36,
+			"id": "36",
 			"label": "Scimitar",
 			"levels3d": {
 				"enable": false,
@@ -8031,7 +8031,7 @@
 			}
 		},
 		{
-			"id": 37,
+			"id": "37",
 			"label": "Scythe",
 			"levels3d": {
 				"type": "explosion",
@@ -8239,7 +8239,7 @@
 			}
 		},
 		{
-			"id": 38,
+			"id": "38",
 			"label": "Shillelagh",
 			"levels3d": {
 				"enable": false,
@@ -8452,7 +8452,7 @@
 			}
 		},
 		{
-			"id": 39,
+			"id": "39",
 			"label": "Shortsword",
 			"levels3d": {
 				"enable": false,
@@ -8695,7 +8695,7 @@
 			}
 		},
 		{
-			"id": 40,
+			"id": "40",
 			"label": "Sickle",
 			"levels3d": {
 				"enable": false,
@@ -8938,7 +8938,7 @@
 			}
 		},
 		{
-			"id": 41,
+			"id": "41",
 			"label": "Slam",
 			"levels3d": {
 				"enable": false,
@@ -9181,7 +9181,7 @@
 			}
 		},
 		{
-			"id": 42,
+			"id": "42",
 			"label": "Spear",
 			"levels3d": {
 				"enable": false,
@@ -9424,7 +9424,7 @@
 			}
 		},
 		{
-			"id": 43,
+			"id": "43",
 			"label": "Spike",
 			"levels3d": {
 				"type": "explosion",
@@ -9632,7 +9632,7 @@
 			}
 		},
 		{
-			"id": 44,
+			"id": "44",
 			"label": "Stab",
 			"levels3d": {
 				"type": "explosion",
@@ -9840,7 +9840,7 @@
 			}
 		},
 		{
-			"id": 45,
+			"id": "45",
 			"label": "Staff",
 			"levels3d": {
 				"enable": false,
@@ -10083,7 +10083,7 @@
 			}
 		},
 		{
-			"id": 46,
+			"id": "46",
 			"label": "Steel Wind Strike",
 			"levels3d": {
 				"enable": false,
@@ -10296,7 +10296,7 @@
 			}
 		},
 		{
-			"id": 47,
+			"id": "47",
 			"label": "Sting",
 			"levels3d": {
 				"enable": false,
@@ -10509,7 +10509,7 @@
 			}
 		},
 		{
-			"id": 48,
+			"id": "48",
 			"label": "Stinger",
 			"levels3d": {
 				"type": "explosion",
@@ -10717,7 +10717,7 @@
 			}
 		},
 		{
-			"id": 49,
+			"id": "49",
 			"label": "Stomp",
 			"levels3d": {
 				"enable": false,
@@ -10930,7 +10930,7 @@
 			}
 		},
 		{
-			"id": 50,
+			"id": "50",
 			"label": "Sword",
 			"levels3d": {
 				"enable": false,
@@ -11173,7 +11173,7 @@
 			}
 		},
 		{
-			"id": 51,
+			"id": "51",
 			"label": "Tail",
 			"levels3d": {
 				"enable": false,
@@ -11386,7 +11386,7 @@
 			}
 		},
 		{
-			"id": 52,
+			"id": "52",
 			"label": "Trident",
 			"levels3d": {
 				"enable": false,
@@ -11629,7 +11629,7 @@
 			}
 		},
 		{
-			"id": 53,
+			"id": "53",
 			"label": "Tusk",
 			"levels3d": {
 				"enable": false,
@@ -11842,7 +11842,7 @@
 			}
 		},
 		{
-			"id": 54,
+			"id": "54",
 			"label": "Unarmed Strike",
 			"levels3d": {
 				"enable": false,
@@ -12085,7 +12085,7 @@
 			}
 		},
 		{
-			"id": 55,
+			"id": "55",
 			"label": "Warhammer",
 			"levels3d": {
 				"enable": false,
@@ -12299,7 +12299,7 @@
 			}
 		},
 		{
-			"id": 56,
+			"id": "56",
 			"label": "Whip",
 			"levels3d": {
 				"enable": false,
@@ -12514,7 +12514,7 @@
 			}
 		},
 		{
-			"id": 57,
+			"id": "57",
 			"label": "Wing",
 			"levels3d": {
 				"enable": false,
@@ -12727,7 +12727,7 @@
 			}
 		},
 		{
-			"id": 58,
+			"id": "58",
 			"label": "Wrench",
 			"levels3d": {
 				"enable": false,
@@ -12940,7 +12940,7 @@
 			}
 		},
 		{
-			"id": 59,
+			"id": "59",
 			"label": "Yklwa",
 			"levels3d": {
 				"enable": false,
@@ -13185,7 +13185,7 @@
 	],
 	"range": [
 		{
-			"id": 60,
+			"id": "60",
 			"label": "Acid Arrow",
 			"levels3d": {
 				"enable": false,
@@ -13397,12 +13397,12 @@
 				"label": "Acid Arrow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 61,
+			"id": "61",
 			"label": "Acid Splash",
 			"levels3d": {
 				"enable": false,
@@ -13614,12 +13614,12 @@
 				"label": "Acid Splash",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 62,
+			"id": "62",
 			"label": "Alchemist's",
 			"levels3d": {
 				"enable": false,
@@ -13831,12 +13831,12 @@
 				"label": "Alchemist's",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 63,
+			"id": "63",
 			"label": "Antimatter Rifle",
 			"levels3d": {
 				"enable": false,
@@ -14047,12 +14047,12 @@
 				"label": "Antimatter Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 64,
+			"id": "64",
 			"label": "Arcane Burst",
 			"levels3d": {
 				"enable": false,
@@ -14264,12 +14264,12 @@
 				"label": "Arcane Burst",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 65,
+			"id": "65",
 			"label": "Beam",
 			"levels3d": {
 				"type": "explosion",
@@ -14450,12 +14450,12 @@
 				"label": "Beam",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 66,
+			"id": "66",
 			"label": "Blood Drain",
 			"levels3d": {
 				"type": "explosion",
@@ -14637,12 +14637,12 @@
 				"label": "Blood Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 67,
+			"id": "67",
 			"label": "Blowgun",
 			"levels3d": {
 				"enable": false,
@@ -14854,12 +14854,12 @@
 				"label": "Blowgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 68,
+			"id": "68",
 			"label": "Bomb",
 			"levels3d": {
 				"enable": false,
@@ -15071,12 +15071,12 @@
 				"label": "Bomb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 69,
+			"id": "69",
 			"label": "Boulder",
 			"levels3d": {
 				"enable": false,
@@ -15288,12 +15288,12 @@
 				"label": "Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 70,
+			"id": "70",
 			"label": "Bow",
 			"levels3d": {
 				"enable": false,
@@ -15506,12 +15506,12 @@
 				"label": "Bow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 71,
+			"id": "71",
 			"label": "Catapult",
 			"levels3d": {
 				"enable": false,
@@ -15723,12 +15723,12 @@
 				"label": "Catapult",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 72,
+			"id": "72",
 			"label": "Chain Lightning",
 			"levels3d": {
 				"enable": false,
@@ -15941,12 +15941,12 @@
 				"label": "Chain Lightning",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 73,
+			"id": "73",
 			"label": "Chakram",
 			"levels3d": {
 				"enable": false,
@@ -16158,12 +16158,12 @@
 				"label": "Chakram",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 74,
+			"id": "74",
 			"label": "Chaos Bolt",
 			"levels3d": {
 				"enable": false,
@@ -16375,12 +16375,12 @@
 				"label": "Chaos Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 75,
+			"id": "75",
 			"label": "Chromatic Orb",
 			"levels3d": {
 				"enable": false,
@@ -16592,12 +16592,12 @@
 				"label": "Chromatic Orb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 76,
+			"id": "76",
 			"label": "Contagion",
 			"levels3d": {
 				"type": "explosion",
@@ -16777,12 +16777,12 @@
 				"label": "Contagion",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 77,
+			"id": "77",
 			"label": "Crossbow",
 			"levels3d": {
 				"enable": false,
@@ -16995,12 +16995,12 @@
 				"label": "Crossbow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 78,
+			"id": "78",
 			"label": "Dart",
 			"levels3d": {
 				"enable": false,
@@ -17213,12 +17213,12 @@
 				"label": "Dart",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 79,
+			"id": "79",
 			"label": "Disintegrate",
 			"levels3d": {
 				"enable": false,
@@ -17430,12 +17430,12 @@
 				"label": "Disintegrate",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 80,
+			"id": "80",
 			"label": "Draining Kiss",
 			"levels3d": {
 				"type": "explosion",
@@ -17617,12 +17617,12 @@
 				"label": "Draining Kiss",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 81,
+			"id": "81",
 			"label": "Dynamite",
 			"levels3d": {
 				"enable": false,
@@ -17834,12 +17834,12 @@
 				"label": "Dynamite",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 82,
+			"id": "82",
 			"label": "Eldritch Blast",
 			"levels3d": {
 				"enable": false,
@@ -18051,12 +18051,12 @@
 				"label": "Eldritch Blast",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 83,
+			"id": "83",
 			"label": "Feeblemind",
 			"levels3d": {
 				"type": "explosion",
@@ -18235,12 +18235,12 @@
 				"label": "Feeblemind",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 84,
+			"id": "84",
 			"label": "Finger of Death",
 			"levels3d": {
 				"enable": false,
@@ -18452,12 +18452,12 @@
 				"label": "Finger of Death",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 85,
+			"id": "85",
 			"label": "Fire Bolt",
 			"levels3d": {
 				"enable": false,
@@ -18670,12 +18670,12 @@
 				"label": "Fire Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 86,
+			"id": "86",
 			"label": "Fire Ray",
 			"levels3d": {
 				"enable": false,
@@ -18887,12 +18887,12 @@
 				"label": "Fire Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 87,
+			"id": "87",
 			"label": "Fragmentation Grenade",
 			"levels3d": {
 				"enable": false,
@@ -19104,12 +19104,12 @@
 				"label": "Fragmentation Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 88,
+			"id": "88",
 			"label": "Gnomengarde Grenade",
 			"levels3d": {
 				"enable": false,
@@ -19321,12 +19321,12 @@
 				"label": "Gnomengarde Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 89,
+			"id": "89",
 			"label": "Grave Bolt",
 			"levels3d": {
 				"type": "explosion",
@@ -19507,12 +19507,12 @@
 				"label": "Grave Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 90,
+			"id": "90",
 			"label": "Grenade",
 			"levels3d": {
 				"enable": false,
@@ -19724,12 +19724,12 @@
 				"label": "Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 91,
+			"id": "91",
 			"label": "Grenade Launcher",
 			"levels3d": {
 				"enable": false,
@@ -19941,12 +19941,12 @@
 				"label": "Grenade Launcher",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 92,
+			"id": "92",
 			"label": "Guiding Bolt",
 			"levels3d": {
 				"enable": false,
@@ -20159,12 +20159,12 @@
 				"label": "Guiding Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 93,
+			"id": "93",
 			"label": "Gun",
 			"levels3d": {
 				"enable": false,
@@ -20376,12 +20376,12 @@
 				"label": "Gun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 94,
+			"id": "94",
 			"label": "Hurl Flame",
 			"levels3d": {
 				"type": "explosion",
@@ -20562,12 +20562,12 @@
 				"label": "Hurl Flame",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 95,
+			"id": "95",
 			"label": "Ice Knife",
 			"levels3d": {
 				"enable": false,
@@ -20779,12 +20779,12 @@
 				"label": "Ice Knife",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 96,
+			"id": "96",
 			"label": "Javelin",
 			"levels3d": {
 				"enable": false,
@@ -20996,12 +20996,12 @@
 				"label": "Javelin",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 97,
+			"id": "97",
 			"label": "Laser",
 			"levels3d": {
 				"enable": false,
@@ -21213,12 +21213,12 @@
 				"label": "Laser",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 98,
+			"id": "98",
 			"label": "Life Drain",
 			"levels3d": {
 				"type": "explosion",
@@ -21400,12 +21400,12 @@
 				"label": "Life Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 99,
+			"id": "99",
 			"label": "Life Transference",
 			"levels3d": {
 				"enable": false,
@@ -21617,12 +21617,12 @@
 				"label": "Life Transference",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 100,
+			"id": "100",
 			"label": "Lightning Lure",
 			"levels3d": {
 				"enable": false,
@@ -21835,12 +21835,12 @@
 				"label": "Lightning Lure",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 101,
+			"id": "101",
 			"label": "Magic Missile",
 			"levels3d": {
 				"enable": false,
@@ -22053,12 +22053,12 @@
 				"label": "Magic Missile",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 102,
+			"id": "102",
 			"label": "Magic Stone",
 			"levels3d": {
 				"enable": false,
@@ -22270,12 +22270,12 @@
 				"label": "Magic Stone",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 103,
+			"id": "103",
 			"label": "Maze",
 			"levels3d": {
 				"enable": false,
@@ -22487,12 +22487,12 @@
 				"label": "Maze",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 104,
+			"id": "104",
 			"label": "Mind Sliver",
 			"levels3d": {
 				"enable": false,
@@ -22705,12 +22705,12 @@
 				"label": "Mind Sliver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 105,
+			"id": "105",
 			"label": "Mind Spike",
 			"levels3d": {
 				"enable": false,
@@ -22922,12 +22922,12 @@
 				"label": "Mind Spike",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 106,
+			"id": "106",
 			"label": "Musket",
 			"levels3d": {
 				"enable": false,
@@ -23139,12 +23139,12 @@
 				"label": "Musket",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 107,
+			"id": "107",
 			"label": "Pistol",
 			"levels3d": {
 				"enable": false,
@@ -23356,12 +23356,12 @@
 				"label": "Pistol",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 108,
+			"id": "108",
 			"label": "Poison Spray",
 			"levels3d": {
 				"enable": false,
@@ -23574,12 +23574,12 @@
 				"label": "Poison Spray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 109,
+			"id": "109",
 			"label": "Ray",
 			"levels3d": {
 				"type": "explosion",
@@ -23758,12 +23758,12 @@
 				"label": "Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 110,
+			"id": "110",
 			"label": "Ray of Enfeeblement",
 			"levels3d": {
 				"enable": false,
@@ -23975,12 +23975,12 @@
 				"label": "Ray of Enfeeblement",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 111,
+			"id": "111",
 			"label": "Ray of Frost",
 			"levels3d": {
 				"enable": false,
@@ -24193,12 +24193,12 @@
 				"label": "Ray of Frost",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 112,
+			"id": "112",
 			"label": "Ray of Sickness",
 			"levels3d": {
 				"enable": false,
@@ -24411,12 +24411,12 @@
 				"label": "Ray of Sickness",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 113,
+			"id": "113",
 			"label": "Revolver",
 			"levels3d": {
 				"enable": false,
@@ -24628,12 +24628,12 @@
 				"label": "Revolver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 114,
+			"id": "114",
 			"label": "Rifle",
 			"levels3d": {
 				"enable": false,
@@ -24845,12 +24845,12 @@
 				"label": "Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 115,
+			"id": "115",
 			"label": "Rock",
 			"levels3d": {
 				"enable": false,
@@ -25063,12 +25063,12 @@
 				"label": "Rock",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 116,
+			"id": "116",
 			"label": "Scorching Ray",
 			"levels3d": {
 				"enable": false,
@@ -25281,12 +25281,12 @@
 				"label": "Scorching Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 117,
+			"id": "117",
 			"label": "Shotgun",
 			"levels3d": {
 				"enable": false,
@@ -25498,12 +25498,12 @@
 				"label": "Shotgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 118,
+			"id": "118",
 			"label": "Siege Boulder",
 			"levels3d": {
 				"enable": false,
@@ -25715,12 +25715,12 @@
 				"label": "Siege Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 119,
+			"id": "119",
 			"label": "Sling",
 			"levels3d": {
 				"enable": false,
@@ -25933,12 +25933,12 @@
 				"label": "Sling",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 120,
+			"id": "120",
 			"label": "Smoke Grenade",
 			"levels3d": {
 				"enable": false,
@@ -26150,12 +26150,12 @@
 				"label": "Smoke Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 121,
+			"id": "121",
 			"label": "Sun Blade",
 			"levels3d": {
 				"enable": false,
@@ -26367,12 +26367,12 @@
 				"label": "Sun Blade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 122,
+			"id": "122",
 			"label": "Tasha's Mind Whip",
 			"levels3d": {
 				"enable": false,
@@ -26585,12 +26585,12 @@
 				"label": "Tasha's Mind Whip",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 123,
+			"id": "123",
 			"label": "Telepathic Bond",
 			"levels3d": {
 				"enable": false,
@@ -26803,14 +26803,14 @@
 				"label": "Telepathic Bond",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		}
 	],
 	"ontoken": [
 		{
-			"id": 124,
+			"id": "124",
 			"label": "Absorb Elements",
 			"levels3d": {
 				"enable": false,
@@ -27002,12 +27002,12 @@
 				"label": "Absorb Elements",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 125,
+			"id": "125",
 			"label": "Action Surge",
 			"levels3d": {
 				"enable": false,
@@ -27200,12 +27200,12 @@
 				"label": "Action Surge",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 126,
+			"id": "126",
 			"label": "Aid",
 			"levels3d": {
 				"enable": false,
@@ -27397,12 +27397,12 @@
 				"label": "Aid",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 127,
+			"id": "127",
 			"label": "Alarm",
 			"levels3d": {
 				"enable": false,
@@ -27594,12 +27594,12 @@
 				"label": "Alarm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 128,
+			"id": "128",
 			"label": "Alter Self",
 			"levels3d": {
 				"enable": false,
@@ -27791,12 +27791,12 @@
 				"label": "Alter Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 129,
+			"id": "129",
 			"label": "Animal Friendship",
 			"levels3d": {
 				"enable": false,
@@ -27988,12 +27988,12 @@
 				"label": "Animal Friendship",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 130,
+			"id": "130",
 			"label": "Animal Messenger",
 			"levels3d": {
 				"enable": false,
@@ -28185,12 +28185,12 @@
 				"label": "Animal Messenger",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 131,
+			"id": "131",
 			"label": "Animal Shapes",
 			"levels3d": {
 				"type": "explosion",
@@ -28380,12 +28380,12 @@
 				"label": "Animal Shapes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 132,
+			"id": "132",
 			"label": "Animate Dead",
 			"levels3d": {
 				"enable": false,
@@ -28577,12 +28577,12 @@
 				"label": "Animate Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 133,
+			"id": "133",
 			"label": "Arcane Eye",
 			"levels3d": {
 				"enable": false,
@@ -28776,12 +28776,12 @@
 				"label": "Arcane Eye",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 134,
+			"id": "134",
 			"label": "Arcane Lock",
 			"levels3d": {
 				"enable": false,
@@ -28973,12 +28973,12 @@
 				"label": "Arcane Lock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 135,
+			"id": "135",
 			"label": "Arcane Recovery",
 			"levels3d": {
 				"enable": false,
@@ -29170,12 +29170,12 @@
 				"label": "Arcane Recovery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 136,
+			"id": "136",
 			"label": "Armor of Agathys",
 			"levels3d": {
 				"enable": false,
@@ -29368,12 +29368,12 @@
 				"label": "Armor of Agathys",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 137,
+			"id": "137",
 			"label": "Arms of Hadar",
 			"levels3d": {
 				"enable": false,
@@ -29565,12 +29565,12 @@
 				"label": "Arms of Hadar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 138,
+			"id": "138",
 			"label": "Astral Projection",
 			"levels3d": {
 				"enable": false,
@@ -29762,12 +29762,12 @@
 				"label": "Astral Projection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 139,
+			"id": "139",
 			"label": "Augury",
 			"levels3d": {
 				"enable": false,
@@ -29959,12 +29959,12 @@
 				"label": "Augury",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 140,
+			"id": "140",
 			"label": "Banishment",
 			"levels3d": {
 				"type": "explosion",
@@ -30152,12 +30152,12 @@
 				"label": "Banishment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 141,
+			"id": "141",
 			"label": "Bardic Inspiration",
 			"levels3d": {
 				"type": "explosion",
@@ -30344,12 +30344,12 @@
 				"label": "Bardic Inspiration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 142,
+			"id": "142",
 			"label": "Beacon of Hope",
 			"levels3d": {
 				"enable": false,
@@ -30541,12 +30541,12 @@
 				"label": "Beacon of Hope",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 143,
+			"id": "143",
 			"label": "Beast Sense",
 			"levels3d": {
 				"enable": false,
@@ -30738,12 +30738,12 @@
 				"label": "Beast Sense",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 144,
+			"id": "144",
 			"label": "Bestow Curse",
 			"levels3d": {
 				"enable": false,
@@ -30935,12 +30935,12 @@
 				"label": "Bestow Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 145,
+			"id": "145",
 			"label": "Bite",
 			"levels3d": {
 				"enable": false,
@@ -31162,12 +31162,12 @@
 				"label": "Bite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 146,
+			"id": "146",
 			"label": "Blade Ward",
 			"levels3d": {
 				"type": "explosion",
@@ -31365,12 +31365,12 @@
 				"label": "Blade Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 147,
+			"id": "147",
 			"label": "Blessed Healer",
 			"levels3d": {
 				"type": "explosion",
@@ -31558,12 +31558,12 @@
 				"label": "Blessed Healer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 148,
+			"id": "148",
 			"label": "Blessed Strikes",
 			"levels3d": {
 				"enable": false,
@@ -31755,12 +31755,12 @@
 				"label": "Blessed Strikes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 149,
+			"id": "149",
 			"label": "Blight",
 			"levels3d": {
 				"type": "explosion",
@@ -31948,12 +31948,12 @@
 				"label": "Blight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 150,
+			"id": "150",
 			"label": "Blindness/Deafness",
 			"levels3d": {
 				"enable": false,
@@ -32145,12 +32145,12 @@
 				"label": "Blindness/Deafness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 151,
+			"id": "151",
 			"label": "Blink",
 			"levels3d": {
 				"enable": false,
@@ -32342,12 +32342,12 @@
 				"label": "Blink",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 152,
+			"id": "152",
 			"label": "Blur",
 			"levels3d": {
 				"enable": false,
@@ -32539,12 +32539,12 @@
 				"label": "Blur",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 153,
+			"id": "153",
 			"label": "Booming Blade",
 			"levels3d": {
 				"type": "explosion",
@@ -32734,12 +32734,12 @@
 				"label": "Booming Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 154,
+			"id": "154",
 			"label": "Cause Fear",
 			"levels3d": {
 				"enable": false,
@@ -32931,12 +32931,12 @@
 				"label": "Cause Fear",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 155,
+			"id": "155",
 			"label": "Channel Divinity",
 			"levels3d": {
 				"enable": false,
@@ -33128,12 +33128,12 @@
 				"label": "Channel Divinity",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 156,
+			"id": "156",
 			"label": "Charm",
 			"levels3d": {
 				"type": "explosion",
@@ -33323,12 +33323,12 @@
 				"label": "Charm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 157,
+			"id": "157",
 			"label": "Charm Person",
 			"levels3d": {
 				"enable": false,
@@ -33520,12 +33520,12 @@
 				"label": "Charm Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 158,
+			"id": "158",
 			"label": "Children of the Night",
 			"levels3d": {
 				"type": "explosion",
@@ -33715,12 +33715,12 @@
 				"label": "Children of the Night",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 159,
+			"id": "159",
 			"label": "Chill Touch",
 			"levels3d": {
 				"enable": false,
@@ -33942,12 +33942,12 @@
 				"label": "Chill Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 160,
+			"id": "160",
 			"label": "Clairvoyance",
 			"levels3d": {
 				"enable": false,
@@ -34139,12 +34139,12 @@
 				"label": "Clairvoyance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 161,
+			"id": "161",
 			"label": "Claw",
 			"levels3d": {
 				"enable": false,
@@ -34336,12 +34336,12 @@
 				"label": "Claw",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 162,
+			"id": "162",
 			"label": "Cleansing Touch",
 			"levels3d": {
 				"enable": false,
@@ -34533,12 +34533,12 @@
 				"label": "Cleansing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 163,
+			"id": "163",
 			"label": "Command",
 			"levels3d": {
 				"enable": false,
@@ -34760,12 +34760,12 @@
 				"label": "Command",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 164,
+			"id": "164",
 			"label": "Commune",
 			"levels3d": {
 				"enable": false,
@@ -34957,12 +34957,12 @@
 				"label": "Commune",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 165,
+			"id": "165",
 			"label": "Commune with Nature",
 			"levels3d": {
 				"type": "explosion",
@@ -35151,12 +35151,12 @@
 				"label": "Commune with Nature",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 166,
+			"id": "166",
 			"label": "Compelled Duel",
 			"levels3d": {
 				"enable": false,
@@ -35348,12 +35348,12 @@
 				"label": "Compelled Duel",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 167,
+			"id": "167",
 			"label": "Comprehend Languages",
 			"levels3d": {
 				"enable": false,
@@ -35545,12 +35545,12 @@
 				"label": "Comprehend Languages",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 168,
+			"id": "168",
 			"label": "Compulsion",
 			"levels3d": {
 				"type": "explosion",
@@ -35738,12 +35738,12 @@
 				"label": "Compulsion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 169,
+			"id": "169",
 			"label": "Confusion",
 			"levels3d": {
 				"enable": false,
@@ -35935,12 +35935,12 @@
 				"label": "Confusion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 170,
+			"id": "170",
 			"label": "Conjure",
 			"levels3d": {
 				"enable": false,
@@ -36132,12 +36132,12 @@
 				"label": "Conjure",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 171,
+			"id": "171",
 			"label": "Constrict",
 			"levels3d": {
 				"enable": false,
@@ -36329,12 +36329,12 @@
 				"label": "Constrict",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 172,
+			"id": "172",
 			"label": "Contact Other Plane",
 			"levels3d": {
 				"type": "explosion",
@@ -36523,12 +36523,12 @@
 				"label": "Contact Other Plane",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 173,
+			"id": "173",
 			"label": "Contingency",
 			"levels3d": {
 				"type": "explosion",
@@ -36716,12 +36716,12 @@
 				"label": "Contingency",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 174,
+			"id": "174",
 			"label": "Continual Flame",
 			"levels3d": {
 				"enable": false,
@@ -36913,12 +36913,12 @@
 				"label": "Continual Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 175,
+			"id": "175",
 			"label": "Cordon of Arrows",
 			"levels3d": {
 				"type": "explosion",
@@ -37108,12 +37108,12 @@
 				"label": "Cordon of Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 176,
+			"id": "176",
 			"label": "Countercharm",
 			"levels3d": {
 				"enable": false,
@@ -37305,12 +37305,12 @@
 				"label": "Countercharm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 177,
+			"id": "177",
 			"label": "Counterspell",
 			"levels3d": {
 				"enable": false,
@@ -37502,12 +37502,12 @@
 				"label": "Counterspell",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 178,
+			"id": "178",
 			"label": "Create Food and Water",
 			"levels3d": {
 				"enable": false,
@@ -37699,12 +37699,12 @@
 				"label": "Create Food and Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 179,
+			"id": "179",
 			"label": "Create Undead",
 			"levels3d": {
 				"type": "explosion",
@@ -37892,12 +37892,12 @@
 				"label": "Create Undead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 180,
+			"id": "180",
 			"label": "Crown of Madness",
 			"levels3d": {
 				"enable": false,
@@ -38089,12 +38089,12 @@
 				"label": "Crown of Madness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 181,
+			"id": "181",
 			"label": "Cure Wounds",
 			"levels3d": {
 				"enable": false,
@@ -38317,12 +38317,12 @@
 				"label": "Cure Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 182,
+			"id": "182",
 			"label": "Dancing Lights",
 			"levels3d": {
 				"type": "explosion",
@@ -38512,12 +38512,12 @@
 				"label": "Dancing Lights",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 183,
+			"id": "183",
 			"label": "Darkvision",
 			"levels3d": {
 				"enable": false,
@@ -38710,12 +38710,12 @@
 				"label": "Darkvision",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 184,
+			"id": "184",
 			"label": "Death Ward",
 			"levels3d": {
 				"enable": false,
@@ -38907,12 +38907,12 @@
 				"label": "Death Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 185,
+			"id": "185",
 			"label": "Detect Thoughts",
 			"levels3d": {
 				"enable": false,
@@ -39104,12 +39104,12 @@
 				"label": "Detect Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 186,
+			"id": "186",
 			"label": "Disguise Self",
 			"levels3d": {
 				"enable": false,
@@ -39301,12 +39301,12 @@
 				"label": "Disguise Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 187,
+			"id": "187",
 			"label": "Dispel Evil and Good",
 			"levels3d": {
 				"type": "explosion",
@@ -39494,12 +39494,12 @@
 				"label": "Dispel Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 188,
+			"id": "188",
 			"label": "Dispel Magic",
 			"levels3d": {
 				"enable": false,
@@ -39691,12 +39691,12 @@
 				"label": "Dispel Magic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 189,
+			"id": "189",
 			"label": "Dissonant Whispers",
 			"levels3d": {
 				"enable": false,
@@ -39888,12 +39888,12 @@
 				"label": "Dissonant Whispers",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 190,
+			"id": "190",
 			"label": "Divination",
 			"levels3d": {
 				"enable": false,
@@ -40085,12 +40085,12 @@
 				"label": "Divination",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 191,
+			"id": "191",
 			"label": "Divine Favor",
 			"levels3d": {
 				"enable": false,
@@ -40282,12 +40282,12 @@
 				"label": "Divine Favor",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 192,
+			"id": "192",
 			"label": "Divine Intervention",
 			"levels3d": {
 				"enable": false,
@@ -40479,12 +40479,12 @@
 				"label": "Divine Intervention",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 193,
+			"id": "193",
 			"label": "Divine Smite",
 			"levels3d": {
 				"enable": false,
@@ -40676,12 +40676,12 @@
 				"label": "Divine Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 194,
+			"id": "194",
 			"label": "Divine Strike",
 			"levels3d": {
 				"enable": false,
@@ -40873,12 +40873,12 @@
 				"label": "Divine Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 195,
+			"id": "195",
 			"label": "Divine Word",
 			"levels3d": {
 				"type": "explosion",
@@ -41066,12 +41066,12 @@
 				"label": "Divine Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 196,
+			"id": "196",
 			"label": "Dominate",
 			"levels3d": {
 				"enable": false,
@@ -41263,12 +41263,12 @@
 				"label": "Dominate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 197,
+			"id": "197",
 			"label": "Dream",
 			"levels3d": {
 				"enable": false,
@@ -41460,12 +41460,12 @@
 				"label": "Dream",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 198,
+			"id": "198",
 			"label": "Dream of the Blue Veil",
 			"levels3d": {
 				"enable": false,
@@ -41657,12 +41657,12 @@
 				"label": "Dream of the Blue Veil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 199,
+			"id": "199",
 			"label": "Druidcraft",
 			"levels3d": {
 				"enable": false,
@@ -41855,12 +41855,12 @@
 				"label": "Druidcraft",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 200,
+			"id": "200",
 			"label": "Eldritch Smite",
 			"levels3d": {
 				"enable": false,
@@ -42053,12 +42053,12 @@
 				"label": "Eldritch Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 201,
+			"id": "201",
 			"label": "Elemental Weapon",
 			"levels3d": {
 				"enable": false,
@@ -42250,12 +42250,12 @@
 				"label": "Elemental Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 202,
+			"id": "202",
 			"label": "Encode Thoughts",
 			"levels3d": {
 				"enable": false,
@@ -42449,12 +42449,12 @@
 				"label": "Encode Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 203,
+			"id": "203",
 			"label": "Enhance Ability",
 			"levels3d": {
 				"enable": false,
@@ -42677,12 +42677,12 @@
 				"label": "Enhance Ability",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 204,
+			"id": "204",
 			"label": "Enlarge/Reduce",
 			"levels3d": {
 				"type": "explosion",
@@ -42872,12 +42872,12 @@
 				"label": "Enlarge/Reduce",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 205,
+			"id": "205",
 			"label": "Ensnaring Strike",
 			"levels3d": {
 				"enable": false,
@@ -43070,12 +43070,12 @@
 				"label": "Ensnaring Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 206,
+			"id": "206",
 			"label": "Enthrall",
 			"levels3d": {
 				"enable": false,
@@ -43268,12 +43268,12 @@
 				"label": "Enthrall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 207,
+			"id": "207",
 			"label": "Etherealness",
 			"levels3d": {
 				"enable": false,
@@ -43465,12 +43465,12 @@
 				"label": "Etherealness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 208,
+			"id": "208",
 			"label": "Euphoria Breath",
 			"levels3d": {
 				"type": "explosion",
@@ -43658,12 +43658,12 @@
 				"label": "Euphoria Breath",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 209,
+			"id": "209",
 			"label": "Expeditious Retreat",
 			"levels3d": {
 				"enable": false,
@@ -43886,12 +43886,12 @@
 				"label": "Expeditious Retreat",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 210,
+			"id": "210",
 			"levels3d": {
 				"type": "explosion",
 				"data": {
@@ -44082,12 +44082,12 @@
 				"label": "Extract Brain",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 211,
+			"id": "211",
 			"label": "Eyebite",
 			"levels3d": {
 				"type": "explosion",
@@ -44275,12 +44275,12 @@
 				"label": "Eyebite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 212,
+			"id": "212",
 			"label": "Faerie Fire",
 			"levels3d": {
 				"enable": false,
@@ -44472,12 +44472,12 @@
 				"label": "Faerie Fire",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 213,
+			"id": "213",
 			"label": "False Life",
 			"levels3d": {
 				"enable": false,
@@ -44669,12 +44669,12 @@
 				"label": "False Life",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 214,
+			"id": "214",
 			"label": "Feather Fall",
 			"levels3d": {
 				"enable": false,
@@ -44866,12 +44866,12 @@
 				"label": "Feather Fall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 215,
+			"id": "215",
 			"label": "Feign Death",
 			"levels3d": {
 				"enable": false,
@@ -45063,12 +45063,12 @@
 				"label": "Feign Death",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 216,
+			"id": "216",
 			"label": "Find Familiar",
 			"levels3d": {
 				"enable": false,
@@ -45260,12 +45260,12 @@
 				"label": "Find Familiar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 217,
+			"id": "217",
 			"label": "Find Steed",
 			"levels3d": {
 				"enable": false,
@@ -45457,12 +45457,12 @@
 				"label": "Find Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 218,
+			"id": "218",
 			"label": "Find the Path",
 			"levels3d": {
 				"enable": false,
@@ -45654,12 +45654,12 @@
 				"label": "Find the Path",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 219,
+			"id": "219",
 			"label": "Find Traps",
 			"levels3d": {
 				"enable": false,
@@ -45852,12 +45852,12 @@
 				"label": "Find Traps",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 220,
+			"id": "220",
 			"label": "Flame Arrows",
 			"levels3d": {
 				"enable": false,
@@ -46049,12 +46049,12 @@
 				"label": "Flame Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 221,
+			"id": "221",
 			"label": "Flame Blade",
 			"levels3d": {
 				"type": "explosion",
@@ -46260,12 +46260,12 @@
 				"label": "Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 222,
+			"id": "222",
 			"label": "Flash of Genius",
 			"levels3d": {
 				"enable": false,
@@ -46457,12 +46457,12 @@
 				"label": "Flash of Genius",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 223,
+			"id": "223",
 			"label": "Flesh to Stone",
 			"levels3d": {
 				"type": "explosion",
@@ -46652,12 +46652,12 @@
 				"label": "Flesh to Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 224,
+			"id": "224",
 			"label": "Floating Disk",
 			"levels3d": {
 				"enable": false,
@@ -46849,12 +46849,12 @@
 				"label": "Floating Disk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 225,
+			"id": "225",
 			"label": "Fly",
 			"levels3d": {
 				"enable": false,
@@ -47046,12 +47046,12 @@
 				"label": "Fly",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 226,
+			"id": "226",
 			"label": "Flyby",
 			"levels3d": {
 				"type": "explosion",
@@ -47239,12 +47239,12 @@
 				"label": "Flyby",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 227,
+			"id": "227",
 			"label": "Foresight",
 			"levels3d": {
 				"enable": false,
@@ -47439,12 +47439,12 @@
 				"label": "Foresight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 228,
+			"id": "228",
 			"label": "Freedom of Movement",
 			"levels3d": {
 				"enable": false,
@@ -47636,12 +47636,12 @@
 				"label": "Freedom of Movement",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 229,
+			"id": "229",
 			"label": "Friends",
 			"levels3d": {
 				"enable": false,
@@ -47835,12 +47835,12 @@
 				"label": "Friends",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 230,
+			"id": "230",
 			"label": "Frightful Presence",
 			"levels3d": {
 				"enable": false,
@@ -48032,12 +48032,12 @@
 				"label": "Frightful Presence",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 231,
+			"id": "231",
 			"label": "Frostbite",
 			"levels3d": {
 				"enable": false,
@@ -48230,12 +48230,12 @@
 				"label": "Frostbite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 232,
+			"id": "232",
 			"label": "Gaseous Form",
 			"levels3d": {
 				"enable": false,
@@ -48427,12 +48427,12 @@
 				"label": "Gaseous Form",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 233,
+			"id": "233",
 			"label": "Gate",
 			"levels3d": {
 				"enable": false,
@@ -48624,12 +48624,12 @@
 				"label": "Gate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 234,
+			"id": "234",
 			"label": "Gaze",
 			"levels3d": {
 				"type": "explosion",
@@ -48819,12 +48819,12 @@
 				"label": "Gaze",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 235,
+			"id": "235",
 			"label": "Geas",
 			"levels3d": {
 				"type": "explosion",
@@ -49013,12 +49013,12 @@
 				"label": "Geas",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 236,
+			"id": "236",
 			"label": "Gentle Repose",
 			"levels3d": {
 				"enable": false,
@@ -49209,12 +49209,12 @@
 				"label": "Gentle Repose",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 237,
+			"id": "237",
 			"label": "Giant Insect",
 			"levels3d": {
 				"type": "explosion",
@@ -49404,12 +49404,12 @@
 				"label": "Giant Insect",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 238,
+			"id": "238",
 			"label": "Glare",
 			"levels3d": {
 				"type": "explosion",
@@ -49599,12 +49599,12 @@
 				"label": "Glare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 239,
+			"id": "239",
 			"label": "Glyph of Warding",
 			"levels3d": {
 				"enable": false,
@@ -49796,12 +49796,12 @@
 				"label": "Glyph of Warding",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 240,
+			"id": "240",
 			"label": "Goodberry",
 			"levels3d": {
 				"enable": false,
@@ -49993,12 +49993,12 @@
 				"label": "Goodberry",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 241,
+			"id": "241",
 			"label": "Gore",
 			"levels3d": {
 				"enable": false,
@@ -50190,12 +50190,12 @@
 				"label": "Gore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 242,
+			"id": "242",
 			"label": "Grasping Vine",
 			"levels3d": {
 				"type": "explosion",
@@ -50384,12 +50384,12 @@
 				"label": "Grasping Vine",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 243,
+			"id": "243",
 			"label": "Green-Flame Blade",
 			"levels3d": {
 				"type": "explosion",
@@ -50595,12 +50595,12 @@
 				"label": "Green-Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 244,
+			"id": "244",
 			"label": "Guardian of Faith",
 			"levels3d": {
 				"type": "explosion",
@@ -50790,12 +50790,12 @@
 				"label": "Guardian of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 245,
+			"id": "245",
 			"label": "Guidance",
 			"levels3d": {
 				"type": "explosion",
@@ -50982,12 +50982,12 @@
 				"label": "Guidance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 246,
+			"id": "246",
 			"label": "Gust",
 			"levels3d": {
 				"type": "explosion",
@@ -51175,12 +51175,12 @@
 				"label": "Gust",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 247,
+			"id": "247",
 			"label": "Hail of Thorns",
 			"levels3d": {
 				"enable": false,
@@ -51373,12 +51373,12 @@
 				"label": "Hail of Thorns",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 248,
+			"id": "248",
 			"label": "Harm",
 			"levels3d": {
 				"enable": false,
@@ -51570,12 +51570,12 @@
 				"label": "Harm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 249,
+			"id": "249",
 			"label": "Haste",
 			"levels3d": {
 				"enable": false,
@@ -51767,12 +51767,12 @@
 				"label": "Haste",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 250,
+			"id": "250",
 			"label": "Heal",
 			"levels3d": {
 				"enable": false,
@@ -51964,12 +51964,12 @@
 				"label": "Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 251,
+			"id": "251",
 			"label": "Healing Touch",
 			"levels3d": {
 				"type": "explosion",
@@ -52159,12 +52159,12 @@
 				"label": "Healing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 252,
+			"id": "252",
 			"label": "Healing Word",
 			"levels3d": {
 				"enable": false,
@@ -52385,12 +52385,12 @@
 				"label": "Healing Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 253,
+			"id": "253",
 			"label": "Heat Metal",
 			"levels3d": {
 				"enable": false,
@@ -52582,12 +52582,12 @@
 				"label": "Heat Metal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 254,
+			"id": "254",
 			"label": "Hellish Rebuke",
 			"levels3d": {
 				"enable": false,
@@ -52779,12 +52779,12 @@
 				"label": "Hellish Rebuke",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 255,
+			"id": "255",
 			"label": "Heroes' Feast",
 			"levels3d": {
 				"enable": false,
@@ -52977,12 +52977,12 @@
 				"label": "Heroes' Feast",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 256,
+			"id": "256",
 			"label": "Heroism",
 			"levels3d": {
 				"enable": false,
@@ -53174,12 +53174,12 @@
 				"label": "Heroism",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 257,
+			"id": "257",
 			"label": "Hex",
 			"levels3d": {
 				"enable": false,
@@ -53371,12 +53371,12 @@
 				"label": "Hex",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 258,
+			"id": "258",
 			"label": "Hideous Laughter",
 			"levels3d": {
 				"enable": false,
@@ -53568,12 +53568,12 @@
 				"label": "Hideous Laughter",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 259,
+			"id": "259",
 			"label": "Hold Monster",
 			"levels3d": {
 				"enable": false,
@@ -53765,12 +53765,12 @@
 				"label": "Hold Monster",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 260,
+			"id": "260",
 			"label": "Hold Person",
 			"levels3d": {
 				"enable": false,
@@ -53963,12 +53963,12 @@
 				"label": "Hold Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 261,
+			"id": "261",
 			"label": "Horrifying Visage",
 			"levels3d": {
 				"type": "explosion",
@@ -54158,12 +54158,12 @@
 				"label": "Horrifying Visage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 262,
+			"id": "262",
 			"label": "Hunter's Mark",
 			"levels3d": {
 				"enable": false,
@@ -54385,12 +54385,12 @@
 				"label": "Hunter's Mark",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 263,
+			"id": "263",
 			"label": "Identify",
 			"levels3d": {
 				"enable": false,
@@ -54582,12 +54582,12 @@
 				"label": "Identify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 264,
+			"id": "264",
 			"label": "Illusory Script",
 			"levels3d": {
 				"enable": false,
@@ -54779,12 +54779,12 @@
 				"label": "Illusory Script",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 265,
+			"id": "265",
 			"label": "Immolation",
 			"levels3d": {
 				"enable": false,
@@ -54976,12 +54976,12 @@
 				"label": "Immolation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 266,
+			"id": "266",
 			"label": "Imprisonment",
 			"levels3d": {
 				"enable": false,
@@ -55173,12 +55173,12 @@
 				"label": "Imprisonment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 267,
+			"id": "267",
 			"label": "Infestation",
 			"levels3d": {
 				"enable": false,
@@ -55376,12 +55376,12 @@
 				"label": "Infestation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 268,
+			"id": "268",
 			"label": "Inflict Wounds",
 			"levels3d": {
 				"enable": false,
@@ -55573,12 +55573,12 @@
 				"label": "Inflict Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 269,
+			"id": "269",
 			"label": "Intellect Fortress",
 			"levels3d": {
 				"enable": false,
@@ -55770,12 +55770,12 @@
 				"label": "Intellect Fortress",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 270,
+			"id": "270",
 			"label": "Invisibility",
 			"levels3d": {
 				"enable": false,
@@ -55997,12 +55997,12 @@
 				"label": "Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 271,
+			"id": "271",
 			"label": "Irresistible Dance",
 			"levels3d": {
 				"enable": false,
@@ -56194,12 +56194,12 @@
 				"label": "Irresistible Dance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 272,
+			"id": "272",
 			"label": "Jump",
 			"levels3d": {
 				"enable": false,
@@ -56422,12 +56422,12 @@
 				"label": "Jump",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 273,
+			"id": "273",
 			"label": "Ki",
 			"levels3d": {
 				"enable": false,
@@ -56649,12 +56649,12 @@
 				"label": "Ki",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 274,
+			"id": "274",
 			"label": "Knock",
 			"levels3d": {
 				"enable": false,
@@ -56846,12 +56846,12 @@
 				"label": "Knock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 275,
+			"id": "275",
 			"label": "Lay on Hands",
 			"levels3d": {
 				"enable": false,
@@ -57043,12 +57043,12 @@
 				"label": "Lay on Hands",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 276,
+			"id": "276",
 			"label": "Legend Lore",
 			"levels3d": {
 				"type": "explosion",
@@ -57238,12 +57238,12 @@
 				"label": "Legend Lore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 277,
+			"id": "277",
 			"label": "Levitate",
 			"levels3d": {
 				"enable": false,
@@ -57435,12 +57435,12 @@
 				"label": "Levitate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 278,
+			"id": "278",
 			"label": "Light",
 			"levels3d": {
 				"enable": false,
@@ -57633,12 +57633,12 @@
 				"label": "Light",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 279,
+			"id": "279",
 			"label": "Lightning Arrow",
 			"levels3d": {
 				"enable": false,
@@ -57830,12 +57830,12 @@
 				"label": "Lightning Arrow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 280,
+			"id": "280",
 			"label": "Locate",
 			"levels3d": {
 				"enable": false,
@@ -58027,12 +58027,12 @@
 				"label": "Locate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 281,
+			"id": "281",
 			"label": "Longstrider",
 			"levels3d": {
 				"enable": false,
@@ -58255,12 +58255,12 @@
 				"label": "Longstrider",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 282,
+			"id": "282",
 			"label": "Mage Hand",
 			"levels3d": {
 				"enable": false,
@@ -58453,12 +58453,12 @@
 				"label": "Mage Hand",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 283,
+			"id": "283",
 			"label": "Magic Aura",
 			"levels3d": {
 				"enable": false,
@@ -58650,12 +58650,12 @@
 				"label": "Magic Aura",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 284,
+			"id": "284",
 			"label": "Magic Mouth",
 			"levels3d": {
 				"enable": false,
@@ -58847,12 +58847,12 @@
 				"label": "Magic Mouth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 285,
+			"id": "285",
 			"label": "Magic Weapon",
 			"levels3d": {
 				"enable": false,
@@ -59044,12 +59044,12 @@
 				"label": "Magic Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 286,
+			"id": "286",
 			"label": "Meld into Stone",
 			"levels3d": {
 				"enable": false,
@@ -59243,12 +59243,12 @@
 				"label": "Meld into Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 287,
+			"id": "287",
 			"label": "Mending",
 			"levels3d": {
 				"enable": false,
@@ -59442,12 +59442,12 @@
 				"label": "Mending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 288,
+			"id": "288",
 			"label": "Message",
 			"levels3d": {
 				"enable": false,
@@ -59640,12 +59640,12 @@
 				"label": "Message",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 289,
+			"id": "289",
 			"label": "Metamagic",
 			"levels3d": {
 				"enable": false,
@@ -59837,12 +59837,12 @@
 				"label": "Metamagic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 290,
+			"id": "290",
 			"label": "Mind Blank",
 			"levels3d": {
 				"type": "explosion",
@@ -60033,12 +60033,12 @@
 				"label": "Mind Blank",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 291,
+			"id": "291",
 			"label": "Minor Illusion",
 			"levels3d": {
 				"enable": false,
@@ -60232,12 +60232,12 @@
 				"label": "Minor Illusion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 292,
+			"id": "292",
 			"label": "Mirror Image",
 			"levels3d": {
 				"enable": false,
@@ -60429,12 +60429,12 @@
 				"label": "Mirror Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 293,
+			"id": "293",
 			"label": "Mislead",
 			"levels3d": {
 				"type": "explosion",
@@ -60624,12 +60624,12 @@
 				"label": "Mislead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 294,
+			"id": "294",
 			"label": "Modify Memory",
 			"levels3d": {
 				"type": "explosion",
@@ -60818,12 +60818,12 @@
 				"label": "Modify Memory",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 295,
+			"id": "295",
 			"label": "Mold Earth",
 			"levels3d": {
 				"enable": false,
@@ -61017,12 +61017,12 @@
 				"label": "Mold Earth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 296,
+			"id": "296",
 			"label": "Net",
 			"levels3d": {
 				"enable": false,
@@ -61216,12 +61216,12 @@
 				"label": "Net",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 297,
+			"id": "297",
 			"label": "Nondetection",
 			"levels3d": {
 				"enable": false,
@@ -61413,12 +61413,12 @@
 				"label": "Nondetection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 298,
+			"id": "298",
 			"label": "Passwall",
 			"levels3d": {
 				"enable": false,
@@ -61610,12 +61610,12 @@
 				"label": "Passwall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 299,
+			"id": "299",
 			"label": "Phantasmal Killer",
 			"levels3d": {
 				"type": "explosion",
@@ -61803,12 +61803,12 @@
 				"label": "Phantasmal Killer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 300,
+			"id": "300",
 			"label": "Phantom Steed",
 			"levels3d": {
 				"enable": false,
@@ -62000,12 +62000,12 @@
 				"label": "Phantom Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 301,
+			"id": "301",
 			"label": "Planar Ally",
 			"levels3d": {
 				"type": "explosion",
@@ -62193,12 +62193,12 @@
 				"label": "Planar Ally",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 302,
+			"id": "302",
 			"label": "Plane Shift",
 			"levels3d": {
 				"type": "explosion",
@@ -62386,12 +62386,12 @@
 				"label": "Plane Shift",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 303,
+			"id": "303",
 			"label": "Plant Growth",
 			"levels3d": {
 				"enable": false,
@@ -62583,12 +62583,12 @@
 				"label": "Plant Growth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 304,
+			"id": "304",
 			"label": "Polymorph",
 			"levels3d": {
 				"type": "explosion",
@@ -62778,12 +62778,12 @@
 				"label": "Polymorph",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 305,
+			"id": "305",
 			"label": "Potion of",
 			"levels3d": {
 				"type": "explosion",
@@ -62971,12 +62971,12 @@
 				"label": "Potion of",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 306,
+			"id": "306",
 			"label": "Power Word",
 			"levels3d": {
 				"enable": false,
@@ -63168,12 +63168,12 @@
 				"label": "Power Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 307,
+			"id": "307",
 			"label": "Power Word Heal",
 			"levels3d": {
 				"enable": false,
@@ -63365,12 +63365,12 @@
 				"label": "Power Word Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 308,
+			"id": "308",
 			"label": "Prayer of Healing",
 			"levels3d": {
 				"enable": false,
@@ -63562,12 +63562,12 @@
 				"label": "Prayer of Healing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 309,
+			"id": "309",
 			"label": "Prestidigitation",
 			"levels3d": {
 				"enable": false,
@@ -63760,12 +63760,12 @@
 				"label": "Prestidigitation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 310,
+			"id": "310",
 			"label": "Primal Savagery",
 			"levels3d": {
 				"enable": false,
@@ -63957,12 +63957,12 @@
 				"label": "Primal Savagery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 311,
+			"id": "311",
 			"label": "Produce Flame",
 			"levels3d": {
 				"type": "explosion",
@@ -64152,12 +64152,12 @@
 				"label": "Produce Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 312,
+			"id": "312",
 			"label": "Project Image",
 			"levels3d": {
 				"type": "explosion",
@@ -64347,12 +64347,12 @@
 				"label": "Project Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 313,
+			"id": "313",
 			"label": "Protection from Energy",
 			"levels3d": {
 				"enable": false,
@@ -64544,12 +64544,12 @@
 				"label": "Protection from Energy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 314,
+			"id": "314",
 			"label": "Protection from Evil and Good",
 			"levels3d": {
 				"enable": false,
@@ -64741,12 +64741,12 @@
 				"label": "Protection from Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 315,
+			"id": "315",
 			"label": "Protection from Poison",
 			"levels3d": {
 				"enable": false,
@@ -64938,12 +64938,12 @@
 				"label": "Protection from Poison",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 316,
+			"id": "316",
 			"label": "Rage",
 			"levels3d": {
 				"enable": false,
@@ -65135,12 +65135,12 @@
 				"label": "Rage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 317,
+			"id": "317",
 			"label": "Raise Dead",
 			"levels3d": {
 				"enable": false,
@@ -65332,12 +65332,12 @@
 				"label": "Raise Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 318,
+			"id": "318",
 			"label": "Regenerate",
 			"levels3d": {
 				"enable": false,
@@ -65529,12 +65529,12 @@
 				"label": "Regenerate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 319,
+			"id": "319",
 			"label": "Reincarnate",
 			"levels3d": {
 				"type": "explosion",
@@ -65722,12 +65722,12 @@
 				"label": "Reincarnate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 320,
+			"id": "320",
 			"label": "Remove Curse",
 			"levels3d": {
 				"enable": false,
@@ -65919,12 +65919,12 @@
 				"label": "Remove Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 321,
+			"id": "321",
 			"label": "Resilient Sphere",
 			"levels3d": {
 				"type": "explosion",
@@ -66112,12 +66112,12 @@
 				"label": "Resilient Sphere",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 322,
+			"id": "322",
 			"label": "Resistance",
 			"levels3d": {
 				"type": "explosion",
@@ -66304,12 +66304,12 @@
 				"label": "Resistance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 323,
+			"id": "323",
 			"label": "Restoration",
 			"levels3d": {
 				"enable": false,
@@ -66501,12 +66501,12 @@
 				"label": "Restoration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 324,
+			"id": "324",
 			"label": "Resurrection",
 			"levels3d": {
 				"enable": false,
@@ -66698,12 +66698,12 @@
 				"label": "Resurrection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 325,
+			"id": "325",
 			"label": "Revivify",
 			"levels3d": {
 				"enable": false,
@@ -66895,12 +66895,12 @@
 				"label": "Revivify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 326,
+			"id": "326",
 			"label": "Rope Trick",
 			"levels3d": {
 				"enable": false,
@@ -67092,12 +67092,12 @@
 				"label": "Rope Trick",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 327,
+			"id": "327",
 			"label": "Sacred Flame",
 			"levels3d": {
 				"enable": false,
@@ -67319,12 +67319,12 @@
 				"label": "Sacred Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 328,
+			"id": "328",
 			"label": "Sanctuary",
 			"levels3d": {
 				"enable": false,
@@ -67516,12 +67516,12 @@
 				"label": "Sanctuary",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 329,
+			"id": "329",
 			"label": "Sapping Sting",
 			"levels3d": {
 				"enable": false,
@@ -67715,12 +67715,12 @@
 				"label": "Sapping Sting",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 330,
+			"id": "330",
 			"label": "Scrying",
 			"levels3d": {
 				"type": "explosion",
@@ -67912,12 +67912,12 @@
 				"label": "Scrying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 331,
+			"id": "331",
 			"label": "Second Wind",
 			"levels3d": {
 				"enable": false,
@@ -68109,12 +68109,12 @@
 				"label": "Second Wind",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 332,
+			"id": "332",
 			"label": "See Invisibility",
 			"levels3d": {
 				"enable": false,
@@ -68306,12 +68306,12 @@
 				"label": "See Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 333,
+			"id": "333",
 			"label": "Seeming",
 			"levels3d": {
 				"type": "explosion",
@@ -68499,12 +68499,12 @@
 				"label": "Seeming",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 334,
+			"id": "334",
 			"label": "Sending",
 			"levels3d": {
 				"enable": false,
@@ -68696,12 +68696,12 @@
 				"label": "Sending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 335,
+			"id": "335",
 			"label": "Shadow of Moil",
 			"levels3d": {
 				"enable": false,
@@ -68893,12 +68893,12 @@
 				"label": "Shadow of Moil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 336,
+			"id": "336",
 			"label": "Shape Water",
 			"levels3d": {
 				"enable": false,
@@ -69092,12 +69092,12 @@
 				"label": "Shape Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 337,
+			"id": "337",
 			"label": "Shield of Faith",
 			"levels3d": {
 				"type": "explosion",
@@ -69296,12 +69296,12 @@
 				"label": "Shield of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 338,
+			"id": "338",
 			"label": "Shocking Grasp",
 			"levels3d": {
 				"enable": false,
@@ -69493,12 +69493,12 @@
 				"label": "Shocking Grasp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 339,
+			"id": "339",
 			"label": "Slow",
 			"levels3d": {
 				"enable": false,
@@ -69690,12 +69690,12 @@
 				"label": "Slow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 340,
+			"id": "340",
 			"label": "Smite",
 			"levels3d": {
 				"enable": false,
@@ -69887,12 +69887,12 @@
 				"label": "Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 341,
+			"id": "341",
 			"label": "Snare",
 			"levels3d": {
 				"enable": false,
@@ -70084,12 +70084,12 @@
 				"label": "Snare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 342,
+			"id": "342",
 			"label": "Sneak Attack",
 			"levels3d": {
 				"type": "explosion",
@@ -70276,12 +70276,12 @@
 				"label": "Sneak Attack",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 343,
+			"id": "343",
 			"label": "Spare the Dying",
 			"levels3d": {
 				"enable": false,
@@ -70475,12 +70475,12 @@
 				"label": "Spare the Dying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 344,
+			"id": "344",
 			"label": "Speak with Animals",
 			"levels3d": {
 				"enable": false,
@@ -70672,12 +70672,12 @@
 				"label": "Speak with Animals",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 345,
+			"id": "345",
 			"label": "Speak with Dead",
 			"levels3d": {
 				"enable": false,
@@ -70869,12 +70869,12 @@
 				"label": "Speak with Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 346,
+			"id": "346",
 			"label": "Speak with Plants",
 			"levels3d": {
 				"enable": false,
@@ -71066,12 +71066,12 @@
 				"label": "Speak with Plants",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 347,
+			"id": "347",
 			"label": "Spectral Fangs",
 			"levels3d": {
 				"type": "explosion",
@@ -71261,12 +71261,12 @@
 				"label": "Spectral Fangs",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 348,
+			"id": "348",
 			"label": "Spider Climb",
 			"levels3d": {
 				"enable": false,
@@ -71466,12 +71466,12 @@
 				"label": "Spider Climb",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 349,
+			"id": "349",
 			"label": "Spirit Shroud",
 			"levels3d": {
 				"enable": false,
@@ -71663,12 +71663,12 @@
 				"label": "Spirit Shroud",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 350,
+			"id": "350",
 			"label": "Spiritual Weapon",
 			"levels3d": {
 				"enable": false,
@@ -71860,12 +71860,12 @@
 				"label": "Spiritual Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 351,
+			"id": "351",
 			"label": "Spore",
 			"levels3d": {
 				"type": "explosion",
@@ -72053,12 +72053,12 @@
 				"label": "Spore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 352,
+			"id": "352",
 			"label": "Stone Shape",
 			"levels3d": {
 				"type": "explosion",
@@ -72248,12 +72248,12 @@
 				"label": "Stone Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 353,
+			"id": "353",
 			"label": "Stoneskin",
 			"levels3d": {
 				"enable": false,
@@ -72445,12 +72445,12 @@
 				"label": "Stoneskin",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 354,
+			"id": "354",
 			"label": "Suggestion",
 			"levels3d": {
 				"enable": false,
@@ -72647,12 +72647,12 @@
 				"label": "Suggestion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 355,
+			"id": "355",
 			"label": "Summon",
 			"levels3d": {
 				"enable": false,
@@ -72844,12 +72844,12 @@
 				"label": "Summon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 356,
+			"id": "356",
 			"label": "Swallow",
 			"levels3d": {
 				"type": "explosion",
@@ -73039,12 +73039,12 @@
 				"label": "Swallow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 357,
+			"id": "357",
 			"label": "Swift Quiver",
 			"levels3d": {
 				"type": "explosion",
@@ -73232,12 +73232,12 @@
 				"label": "Swift Quiver",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 358,
+			"id": "358",
 			"label": "Symbol",
 			"levels3d": {
 				"type": "explosion",
@@ -73427,12 +73427,12 @@
 				"label": "Symbol",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 359,
+			"id": "359",
 			"label": "Talon",
 			"levels3d": {
 				"enable": false,
@@ -73624,12 +73624,12 @@
 				"label": "Talon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 360,
+			"id": "360",
 			"label": "Tasha's Otherworldly Guise",
 			"levels3d": {
 				"enable": false,
@@ -73821,12 +73821,12 @@
 				"label": "Tasha's Otherworldly Guise",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 361,
+			"id": "361",
 			"label": "Telekinesis",
 			"levels3d": {
 				"type": "explosion",
@@ -74014,12 +74014,12 @@
 				"label": "Telekinesis",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 362,
+			"id": "362",
 			"label": "Tentacle",
 			"levels3d": {
 				"enable": false,
@@ -74211,12 +74211,12 @@
 				"label": "Tentacle",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 363,
+			"id": "363",
 			"label": "Thaumaturgy",
 			"levels3d": {
 				"enable": false,
@@ -74409,12 +74409,12 @@
 				"label": "Thaumaturgy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 364,
+			"id": "364",
 			"label": "Thorn Whip",
 			"levels3d": {
 				"type": "explosion",
@@ -74603,12 +74603,12 @@
 				"label": "Thorn Whip",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 365,
+			"id": "365",
 			"label": "Thunderclap",
 			"levels3d": {
 				"enable": false,
@@ -74801,12 +74801,12 @@
 				"label": "Thunderclap",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 366,
+			"id": "366",
 			"label": "Time Stop",
 			"levels3d": {
 				"enable": false,
@@ -74998,12 +74998,12 @@
 				"label": "Time Stop",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 367,
+			"id": "367",
 			"label": "Toll the Dead",
 			"levels3d": {
 				"enable": false,
@@ -75224,12 +75224,12 @@
 				"label": "Toll the Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 368,
+			"id": "368",
 			"label": "Tongue",
 			"levels3d": {
 				"type": "explosion",
@@ -75419,12 +75419,12 @@
 				"label": "Tongue",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 369,
+			"id": "369",
 			"label": "Tongues",
 			"levels3d": {
 				"enable": false,
@@ -75616,12 +75616,12 @@
 				"label": "Tongues",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 370,
+			"id": "370",
 			"label": "Touch",
 			"levels3d": {
 				"type": "explosion",
@@ -75809,12 +75809,12 @@
 				"label": "Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 371,
+			"id": "371",
 			"label": "Tree Stride",
 			"levels3d": {
 				"type": "explosion",
@@ -76002,12 +76002,12 @@
 				"label": "Tree Stride",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 372,
+			"id": "372",
 			"label": "True Seeing",
 			"levels3d": {
 				"enable": false,
@@ -76202,12 +76202,12 @@
 				"label": "True Seeing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 373,
+			"id": "373",
 			"label": "True Strike",
 			"levels3d": {
 				"enable": false,
@@ -76401,12 +76401,12 @@
 				"label": "True Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 374,
+			"id": "374",
 			"label": "Unseen Servant",
 			"levels3d": {
 				"enable": false,
@@ -76598,12 +76598,12 @@
 				"label": "Unseen Servant",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 375,
+			"id": "375",
 			"label": "Vampiric Touch",
 			"levels3d": {
 				"enable": false,
@@ -76795,12 +76795,12 @@
 				"label": "Vampiric Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 376,
+			"id": "376",
 			"label": "Vicious Mockery",
 			"levels3d": {
 				"enable": false,
@@ -76994,12 +76994,12 @@
 				"label": "Vicious Mockery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 377,
+			"id": "377",
 			"label": "Vigilant Blessing",
 			"levels3d": {
 				"type": "explosion",
@@ -77187,12 +77187,12 @@
 				"label": "Vigilant Blessing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 378,
+			"id": "378",
 			"label": "Vortex Warp",
 			"levels3d": {
 				"enable": false,
@@ -77384,12 +77384,12 @@
 				"label": "Vortex Warp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 379,
+			"id": "379",
 			"label": "Warding Bond",
 			"levels3d": {
 				"enable": false,
@@ -77581,12 +77581,12 @@
 				"label": "Warding Bond",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 380,
+			"id": "380",
 			"label": "Water Breathing",
 			"levels3d": {
 				"enable": false,
@@ -77778,12 +77778,12 @@
 				"label": "Water Breathing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 381,
+			"id": "381",
 			"label": "Water Walk",
 			"levels3d": {
 				"enable": false,
@@ -77975,12 +77975,12 @@
 				"label": "Water Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 382,
+			"id": "382",
 			"label": "Wild Shape",
 			"levels3d": {
 				"enable": false,
@@ -78172,12 +78172,12 @@
 				"label": "Wild Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 383,
+			"id": "383",
 			"label": "Wind Walk",
 			"levels3d": {
 				"type": "explosion",
@@ -78367,12 +78367,12 @@
 				"label": "Wind Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 384,
+			"id": "384",
 			"label": "Wish",
 			"levels3d": {
 				"type": "explosion",
@@ -78560,12 +78560,12 @@
 				"label": "Wish",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 385,
+			"id": "385",
 			"label": "Withering Touch",
 			"levels3d": {
 				"type": "explosion",
@@ -78756,12 +78756,12 @@
 				"label": "Withering Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 386,
+			"id": "386",
 			"label": "Word of Radiance",
 			"levels3d": {
 				"enable": false,
@@ -78954,12 +78954,12 @@
 				"label": "Word of Radiance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 387,
+			"id": "387",
 			"label": "Zephyr Strike",
 			"levels3d": {
 				"enable": false,
@@ -79154,14 +79154,14 @@
 				"label": "Zephyr Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		}
 	],
 	"templatefx": [
 		{
-			"id": 388,
+			"id": "388",
 			"label": "Acid Breath",
 			"macro": {
 				"enable": false,
@@ -79333,12 +79333,12 @@
 				"label": "Acid Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 389,
+			"id": "389",
 			"label": "Aganazzar's Scorcher",
 			"macro": {
 				"enable": false,
@@ -79509,12 +79509,12 @@
 				"label": "Aganazzar's Scorcher",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 390,
+			"id": "390",
 			"label": "Black Tentacles",
 			"macro": {
 				"enable": false,
@@ -79685,12 +79685,12 @@
 				"label": "Black Tentacles",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 391,
+			"id": "391",
 			"label": "Blade Barrier",
 			"macro": {
 				"enable": false,
@@ -79875,12 +79875,12 @@
 				"label": "Blade Barrier",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 392,
+			"id": "392",
 			"label": "Burning Hands",
 			"macro": {
 				"enable": false,
@@ -80051,12 +80051,12 @@
 				"label": "Burning Hands",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 393,
+			"id": "393",
 			"label": "Call Lightning",
 			"macro": {
 				"enable": false,
@@ -80227,12 +80227,12 @@
 				"label": "Call Lightning",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 394,
+			"id": "394",
 			"label": "Calm Emotions",
 			"macro": {
 				"enable": false,
@@ -80403,12 +80403,12 @@
 				"label": "Calm Emotions",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 395,
+			"id": "395",
 			"label": "Caustic Brew",
 			"macro": {
 				"enable": false,
@@ -80579,12 +80579,12 @@
 				"label": "Caustic Brew",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 396,
+			"id": "396",
 			"label": "Circle of Death",
 			"macro": {
 				"enable": false,
@@ -80753,12 +80753,12 @@
 				"label": "Circle of Death",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 397,
+			"id": "397",
 			"label": "Cloud of Daggers",
 			"macro": {
 				"enable": false,
@@ -80930,12 +80930,12 @@
 				"label": "Cloud of Daggers",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 398,
+			"id": "398",
 			"label": "Cloudkill",
 			"macro": {
 				"enable": false,
@@ -81103,12 +81103,12 @@
 				"label": "Cloudkill",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 399,
+			"id": "399",
 			"label": "Cold Breath",
 			"macro": {
 				"enable": false,
@@ -81280,12 +81280,12 @@
 				"label": "Cold Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 400,
+			"id": "400",
 			"label": "Color Spray",
 			"macro": {
 				"enable": false,
@@ -81456,12 +81456,12 @@
 				"label": "Color Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 401,
+			"id": "401",
 			"label": "Cone of Cold",
 			"macro": {
 				"enable": false,
@@ -81632,12 +81632,12 @@
 				"label": "Cone of Cold",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 402,
+			"id": "402",
 			"label": "Confusion",
 			"macro": {
 				"enable": false,
@@ -81805,12 +81805,12 @@
 				"label": "Confusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 403,
+			"id": "403",
 			"label": "Control",
 			"macro": {
 				"enable": false,
@@ -81980,12 +81980,12 @@
 				"label": "Control",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 404,
+			"id": "404",
 			"label": "Create or Destroy Water",
 			"macro": {
 				"enable": false,
@@ -82156,12 +82156,12 @@
 				"label": "Create or Destroy Water",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 405,
+			"id": "405",
 			"label": "Creation",
 			"macro": {
 				"enable": false,
@@ -82330,12 +82330,12 @@
 				"label": "Creation",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 406,
+			"id": "406",
 			"label": "Crusader's Mantle",
 			"macro": {
 				"enable": false,
@@ -82506,12 +82506,12 @@
 				"label": "Crusader's Mantle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 407,
+			"id": "407",
 			"label": "Darkness",
 			"macro": {
 				"enable": false,
@@ -82682,12 +82682,12 @@
 				"label": "Darkness",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 408,
+			"id": "408",
 			"label": "Daylight",
 			"macro": {
 				"enable": false,
@@ -82860,12 +82860,12 @@
 				"label": "Daylight",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 409,
+			"id": "409",
 			"label": "Destructive Wave",
 			"macro": {
 				"enable": false,
@@ -83034,12 +83034,12 @@
 				"label": "Destructive Wave",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 410,
+			"id": "410",
 			"label": "Earthquake",
 			"macro": {
 				"enable": false,
@@ -83211,12 +83211,12 @@
 				"label": "Earthquake",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 411,
+			"id": "411",
 			"label": "Entangle",
 			"macro": {
 				"enable": false,
@@ -83387,12 +83387,12 @@
 				"label": "Entangle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 412,
+			"id": "412",
 			"label": "Fear",
 			"macro": {
 				"enable": false,
@@ -83563,12 +83563,12 @@
 				"label": "Fear",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 413,
+			"id": "413",
 			"label": "Fire Breath",
 			"macro": {
 				"enable": false,
@@ -83740,12 +83740,12 @@
 				"label": "Fire Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 414,
+			"id": "414",
 			"label": "Fire Storm",
 			"macro": {
 				"enable": false,
@@ -83913,12 +83913,12 @@
 				"label": "Fire Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 415,
+			"id": "415",
 			"label": "Flame Strike",
 			"macro": {
 				"enable": false,
@@ -84089,12 +84089,12 @@
 				"label": "Flame Strike",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 416,
+			"id": "416",
 			"label": "Flaming Sphere",
 			"macro": {
 				"enable": false,
@@ -84265,12 +84265,12 @@
 				"label": "Flaming Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 417,
+			"id": "417",
 			"label": "Fog Cloud",
 			"macro": {
 				"enable": false,
@@ -84441,12 +84441,12 @@
 				"label": "Fog Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 418,
+			"id": "418",
 			"label": "Globe of Invulnerability",
 			"macro": {
 				"enable": false,
@@ -84618,12 +84618,12 @@
 				"label": "Globe of Invulnerability",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 419,
+			"id": "419",
 			"label": "Grease",
 			"macro": {
 				"enable": false,
@@ -84795,12 +84795,12 @@
 				"label": "Grease",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 420,
+			"id": "420",
 			"label": "Gust of Wind",
 			"macro": {
 				"enable": false,
@@ -84971,12 +84971,12 @@
 				"label": "Gust of Wind",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 421,
+			"id": "421",
 			"label": "Hallow",
 			"macro": {
 				"enable": false,
@@ -85145,12 +85145,12 @@
 				"label": "Hallow",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 422,
+			"id": "422",
 			"label": "Hallucinatory Terrain",
 			"macro": {
 				"enable": false,
@@ -85319,12 +85319,12 @@
 				"label": "Hallucinatory Terrain",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 423,
+			"id": "423",
 			"label": "Healing Spirit",
 			"macro": {
 				"enable": false,
@@ -85496,12 +85496,12 @@
 				"label": "Healing Spirit",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 424,
+			"id": "424",
 			"label": "Hunger of Hadar",
 			"macro": {
 				"enable": false,
@@ -85672,12 +85672,12 @@
 				"label": "Hunger of Hadar",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 425,
+			"id": "425",
 			"label": "Hypnotic Pattern",
 			"macro": {
 				"enable": false,
@@ -85850,12 +85850,12 @@
 				"label": "Hypnotic Pattern",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 426,
+			"id": "426",
 			"label": "Ice Storm",
 			"macro": {
 				"enable": false,
@@ -86026,12 +86026,12 @@
 				"label": "Ice Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 427,
+			"id": "427",
 			"label": "Image",
 			"macro": {
 				"enable": false,
@@ -86202,12 +86202,12 @@
 				"label": "Image",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 428,
+			"id": "428",
 			"label": "Incendiary Cloud",
 			"macro": {
 				"enable": false,
@@ -86376,12 +86376,12 @@
 				"label": "Incendiary Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 429,
+			"id": "429",
 			"label": "Insect Plague",
 			"macro": {
 				"enable": false,
@@ -86550,12 +86550,12 @@
 				"label": "Insect Plague",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 430,
+			"id": "430",
 			"label": "Lightning Bolt",
 			"macro": {
 				"enable": false,
@@ -86726,12 +86726,12 @@
 				"label": "Lightning Bolt",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 431,
+			"id": "431",
 			"label": "Lightning Breath",
 			"macro": {
 				"enable": false,
@@ -86903,12 +86903,12 @@
 				"label": "Lightning Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 432,
+			"id": "432",
 			"label": "Magic Circle",
 			"macro": {
 				"enable": false,
@@ -87079,12 +87079,12 @@
 				"label": "Magic Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 433,
+			"id": "433",
 			"label": "Mind Blast",
 			"macro": {
 				"enable": false,
@@ -87253,12 +87253,12 @@
 				"label": "Mind Blast",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 434,
+			"id": "434",
 			"label": "Mirage Arcane",
 			"macro": {
 				"enable": false,
@@ -87426,12 +87426,12 @@
 				"label": "Mirage Arcane",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 435,
+			"id": "435",
 			"label": "Moonbeam",
 			"macro": {
 				"enable": false,
@@ -87602,12 +87602,12 @@
 				"label": "Moonbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 436,
+			"id": "436",
 			"label": "Move Earth",
 			"macro": {
 				"enable": false,
@@ -87776,12 +87776,12 @@
 				"label": "Move Earth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 437,
+			"id": "437",
 			"label": "Paralyzing Breath",
 			"macro": {
 				"enable": false,
@@ -87952,12 +87952,12 @@
 				"label": "Paralyzing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 438,
+			"id": "438",
 			"label": "Phantasmal Force",
 			"macro": {
 				"enable": false,
@@ -88128,12 +88128,12 @@
 				"label": "Phantasmal Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 439,
+			"id": "439",
 			"label": "Poison Breath",
 			"macro": {
 				"enable": false,
@@ -88304,12 +88304,12 @@
 				"label": "Poison Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 440,
+			"id": "440",
 			"label": "Prismatic Spray",
 			"macro": {
 				"enable": false,
@@ -88477,12 +88477,12 @@
 				"label": "Prismatic Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 441,
+			"id": "441",
 			"label": "Prismatic Wall",
 			"macro": {
 				"enable": false,
@@ -88666,12 +88666,12 @@
 				"label": "Prismatic Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 442,
+			"id": "442",
 			"label": "Programmed Illusion",
 			"macro": {
 				"enable": false,
@@ -88840,12 +88840,12 @@
 				"label": "Programmed Illusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 443,
+			"id": "443",
 			"label": "Purify Food and Drink",
 			"macro": {
 				"enable": false,
@@ -89016,12 +89016,12 @@
 				"label": "Purify Food and Drink",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 444,
+			"id": "444",
 			"label": "Repulsion Breath",
 			"macro": {
 				"enable": false,
@@ -89192,12 +89192,12 @@
 				"label": "Repulsion Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 445,
+			"id": "445",
 			"label": "Rime's Binding Ice",
 			"macro": {
 				"enable": false,
@@ -89368,12 +89368,12 @@
 				"label": "Rime's Binding Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 446,
+			"id": "446",
 			"label": "Shatter",
 			"macro": {
 				"enable": false,
@@ -89544,12 +89544,12 @@
 				"label": "Shatter",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 447,
+			"id": "447",
 			"label": "Sickening Radiance",
 			"macro": {
 				"enable": false,
@@ -89720,12 +89720,12 @@
 				"label": "Sickening Radiance",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 448,
+			"id": "448",
 			"label": "Silence",
 			"macro": {
 				"enable": false,
@@ -89897,12 +89897,12 @@
 				"label": "Silence",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 449,
+			"id": "449",
 			"label": "Sleet Storm",
 			"macro": {
 				"enable": false,
@@ -90073,12 +90073,12 @@
 				"label": "Sleet Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 450,
+			"id": "450",
 			"label": "Slowing Breath",
 			"macro": {
 				"enable": false,
@@ -90249,12 +90249,12 @@
 				"label": "Slowing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 451,
+			"id": "451",
 			"label": "Spike Growth",
 			"macro": {
 				"enable": false,
@@ -90425,12 +90425,12 @@
 				"label": "Spike Growth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 452,
+			"id": "452",
 			"label": "Stinking Cloud",
 			"macro": {
 				"enable": false,
@@ -90601,12 +90601,12 @@
 				"label": "Stinking Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 453,
+			"id": "453",
 			"label": "Storm Sphere",
 			"macro": {
 				"enable": false,
@@ -90777,12 +90777,12 @@
 				"label": "Storm Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 454,
+			"id": "454",
 			"label": "Sunbeam",
 			"macro": {
 				"enable": false,
@@ -90951,12 +90951,12 @@
 				"label": "Sunbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 455,
+			"id": "455",
 			"label": "Sunburst",
 			"macro": {
 				"enable": false,
@@ -91128,12 +91128,12 @@
 				"label": "Sunburst",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 456,
+			"id": "456",
 			"label": "Synaptic Static",
 			"macro": {
 				"enable": false,
@@ -91304,12 +91304,12 @@
 				"label": "Synaptic Static",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 457,
+			"id": "457",
 			"label": "Teleportation Circle",
 			"macro": {
 				"enable": false,
@@ -91478,12 +91478,12 @@
 				"label": "Teleportation Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 458,
+			"id": "458",
 			"label": "Tiny Hut",
 			"macro": {
 				"enable": false,
@@ -91655,12 +91655,12 @@
 				"label": "Tiny Hut",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 459,
+			"id": "459",
 			"label": "Wall of Fire",
 			"macro": {
 				"enable": false,
@@ -91832,12 +91832,12 @@
 				"label": "Wall of Fire",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 460,
+			"id": "460",
 			"label": "Wall of Force",
 			"macro": {
 				"enable": false,
@@ -92021,12 +92021,12 @@
 				"label": "Wall of Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 461,
+			"id": "461",
 			"label": "Wall of Ice",
 			"macro": {
 				"enable": false,
@@ -92210,12 +92210,12 @@
 				"label": "Wall of Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 462,
+			"id": "462",
 			"label": "Wall of Stone",
 			"macro": {
 				"enable": false,
@@ -92399,12 +92399,12 @@
 				"label": "Wall of Stone",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 463,
+			"id": "463",
 			"label": "Wall of Thorns",
 			"macro": {
 				"enable": false,
@@ -92588,12 +92588,12 @@
 				"label": "Wall of Thorns",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 464,
+			"id": "464",
 			"label": "Weakening Breath",
 			"macro": {
 				"enable": false,
@@ -92764,12 +92764,12 @@
 				"label": "Weakening Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 465,
+			"id": "465",
 			"label": "Web",
 			"macro": {
 				"enable": false,
@@ -92940,12 +92940,12 @@
 				"label": "Web",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 466,
+			"id": "466",
 			"label": "Wind Wall",
 			"macro": {
 				"enable": false,
@@ -93117,12 +93117,12 @@
 				"label": "Wind Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 467,
+			"id": "467",
 			"label": "Wither and Bloom",
 			"macro": {
 				"enable": false,
@@ -93293,12 +93293,12 @@
 				"label": "Wither and Bloom",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 468,
+			"id": "468",
 			"label": "Zone of Truth",
 			"macro": {
 				"enable": false,
@@ -93469,14 +93469,14 @@
 				"label": "Zone of Truth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		}
 	],
 	"preset": [
 		{
-			"id": 469,
+			"id": "469",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -93661,12 +93661,12 @@
 				"label": "Conjure Barrage",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 470,
+			"id": "470",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -93849,12 +93849,12 @@
 				"label": "Delayed Blast Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 471,
+			"id": "471",
 			"data": {
 				"options": {
 					"alpha": 0,
@@ -93949,12 +93949,12 @@
 				"label": "Dimension Door",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 472,
+			"id": "472",
 			"data": {
 				"options": {
 					"alpha": 0,
@@ -94049,12 +94049,12 @@
 				"label": "Far Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 473,
+			"id": "473",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -94236,12 +94236,12 @@
 				"label": "Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 474,
+			"id": "474",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -94424,12 +94424,12 @@
 				"label": "Freezing Sphere",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 475,
+			"id": "475",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -94604,12 +94604,12 @@
 				"label": "Meteor Swarm",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 476,
+			"id": "476",
 			"data": {
 				"options": {
 					"alpha": 0,
@@ -94705,12 +94705,12 @@
 				"label": "Misty Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 477,
+			"id": "477",
 			"data": {
 				"projectile": {
 					"dbSection": "range",
@@ -94893,12 +94893,12 @@
 				"label": "Sleep",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 478,
+			"id": "478",
 			"data": {
 				"options": {
 					"alpha": 0,
@@ -94993,12 +94993,12 @@
 				"label": "Teleport",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 479,
+			"id": "479",
 			"data": {
 				"options": {
 					"alpha": 0,
@@ -95093,12 +95093,12 @@
 				"label": "Thunder Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 480,
+			"id": "480",
 			"macro": {
 				"enable": false,
 				"playWhen": "0"
@@ -95143,12 +95143,12 @@
 				"label": "Thunderwave",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 481,
+			"id": "481",
 			"data": {
 				"video": {
 					"dbSection": "range",
@@ -95193,14 +95193,14 @@
 				"label": "Witch Bolt",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		}
 	],
 	"aura": [
 		{
-			"id": 482,
+			"id": "482",
 			"label": "Antilife Shell",
 			"macro": {
 				"enable": false,
@@ -95380,12 +95380,12 @@
 				"label": "Antilife Shell",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 483,
+			"id": "483",
 			"label": "Antimagic Field",
 			"macro": {
 				"enable": false,
@@ -95565,12 +95565,12 @@
 				"label": "Antimagic Field",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 484,
+			"id": "484",
 			"label": "Aura of",
 			"macro": {
 				"enable": false,
@@ -95747,12 +95747,12 @@
 				"label": "Aura of",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 485,
+			"id": "485",
 			"label": "Aura of Vitality",
 			"macro": {
 				"enable": false,
@@ -95938,12 +95938,12 @@
 				"label": "Aura of Vitality",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 486,
+			"id": "486",
 			"label": "Circle of Power",
 			"macro": {
 				"enable": false,
@@ -96120,12 +96120,12 @@
 				"label": "Circle of Power",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 487,
+			"id": "487",
 			"label": "Detect Evil and Good",
 			"macro": {
 				"enable": false,
@@ -96305,12 +96305,12 @@
 				"label": "Detect Evil and Good",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 488,
+			"id": "488",
 			"label": "Detect Magic",
 			"macro": {
 				"enable": false,
@@ -96490,12 +96490,12 @@
 				"label": "Detect Magic",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 489,
+			"id": "489",
 			"label": "Detect Poison and Disease",
 			"macro": {
 				"enable": false,
@@ -96675,12 +96675,12 @@
 				"label": "Detect Poison and Disease",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 490,
+			"id": "490",
 			"label": "Holy Aura",
 			"macro": {
 				"enable": false,
@@ -96860,12 +96860,12 @@
 				"label": "Holy Aura",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 491,
+			"id": "491",
 			"label": "Pass without Trace",
 			"macro": {
 				"enable": false,
@@ -97045,12 +97045,12 @@
 				"label": "Pass without Trace",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		},
 		{
-			"id": 492,
+			"id": "492",
 			"label": "Spirit Guardians",
 			"macro": {
 				"enable": false,
@@ -97230,14 +97230,14 @@
 				"label": "Spirit Guardians",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "0.0.2",
+				"moduleVersion": "0.0.1",
 				"version": 1
 			}
 		}
 	],
 	"aefx": [
 		{
-			"id": 493,
+			"id": "493",
 			"label": "Bane",
 			"menu": "aefx",
 			"secondary": {
@@ -97366,7 +97366,7 @@
 			}
 		},
 		{
-			"id": 494,
+			"id": "494",
 			"label": "Barkskin",
 			"menu": "aefx",
 			"primary": {
@@ -97499,7 +97499,7 @@
 			}
 		},
 		{
-			"id": 495,
+			"id": "495",
 			"label": "Bless",
 			"menu": "aefx",
 			"macro": {
@@ -97628,7 +97628,7 @@
 			}
 		},
 		{
-			"id": 496,
+			"id": "496",
 			"label": "Chill Shield",
 			"menu": "aefx",
 			"primary": {
@@ -97761,7 +97761,7 @@
 			}
 		},
 		{
-			"id": 497,
+			"id": "497",
 			"label": "Fire Shield",
 			"menu": "aefx",
 			"primary": {
@@ -97894,7 +97894,7 @@
 			}
 		},
 		{
-			"id": 498,
+			"id": "498",
 			"label": "Mage Armor",
 			"menu": "aefx",
 			"secondary": {
@@ -98023,7 +98023,153 @@
 			}
 		},
 		{
-			"id": 499,
+			"id": "499",
+			"label": "new animation 2",
+			"activeEffectType": "ontoken",
+			"menu": "aefx",
+			"macro": {
+				"enable": false
+			},
+			"primary": {
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"isWait": false,
+					"opacity": 1,
+					"persistent": false,
+					"playbackRate": 1,
+					"playOn": "source",
+					"repeat": 1,
+					"repeatDelay": 250,
+					"size": 1,
+					"unbindAlpha": false,
+					"unbindVisibility": false,
+					"zIndex": 1
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				}
+			},
+			"secondary": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": true,
+					"isWait": false,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1.5,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"soundOnly": {
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				}
+			},
+			"source": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"isWait": true,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"metaData": {
+				"label": "new animation 2",
+				"menu": "aefx",
+				"name": "5e Animations",
+				"moduleVersion": "0.0.1",
+				"version": 1
+			}
+		},
+		{
+			"id": "500",
 			"label": "Shield",
 			"menu": "aefx",
 			"primary": {
@@ -98165,7 +98311,7 @@
 			}
 		},
 		{
-			"id": 500,
+			"id": "501",
 			"label": "Warm Shield",
 			"menu": "aefx",
 			"primary": {

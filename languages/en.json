@@ -11,6 +11,9 @@
 			"warning": "Make sure to backup your autorecognition menu! THIS PROCESS IS IRREVERSIBLE.",
 			"debugCustom": "The following effects do not exist in PF2e Animations, they are completely new and will remain in your Autorecognition Menu."
 		},
+		"notifications": {
+			"update": "D&D5e Animations v{version} loaded. Please check if you don't have new animations to be added to your autorecognition menu!"
+		},
 		"settings": {
 			"autoUpdate": {
 				"name": "Open Update Menu on Module Update",

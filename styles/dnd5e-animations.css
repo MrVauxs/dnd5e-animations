@@ -1,0 +1,29 @@
+.dnd5e-animations-autorec-update-child {
+    flex: 1;
+    border: 2px solid #6f6c66;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.dnd5e-animations-autorec-update-text {
+    text-align: center;
+}
+
+.dnd5e-animations-autorec-update-child:first-child {
+    padding-right: 10px;
+}
+
+.dnd5e-animations-autorec-update-ul {
+    column-count: 2;
+    overflow-x: scroll;
+    max-height: 400px;
+}
+
+.dnd5e-animations-autorec-update-buttons {
+    height: 36px;
+}
+
+.dnd5e-animations-muted {
+    color: #777 !important;
+}

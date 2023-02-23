@@ -13,6 +13,9 @@
 			"flags": {}
 		}
 	],
+	"styles": [
+		"styles/dnd5e-animations.css"
+	],
 	"languages": [
 		{
 			"lang": "en",
@@ -29,6 +32,16 @@
 		"module/utils.js",
 		"module/settings.js",
 		"module/updateMenu.js"
+	],
+	"packs": [
+		{
+			"label": "5e Animations Developmental Macros",
+			"name": "Macros",
+			"path": "packs/macros.db",
+			"type": "Macro",
+			"private": false,
+			"flags": {}
+		}
 	],
 	"manifestPlusVersion": "1.2.0",
 	"relationships": {

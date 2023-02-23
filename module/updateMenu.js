@@ -89,12 +89,12 @@ async function generateAutorecUpdate(quiet = true) {
     let removedEntriesList = []
     let blacklistEntriesList = []
     for (const key of Object.keys(settings)) {
-        missingEntriesList.push(missingEntries[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
-        updatedEntriesList.push(updatedEntries[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
-        removedEntriesList.push(removed[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
-        customEntriesList.push(custom[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
-        customNewEntriesList.push(customNew[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
-        blacklistEntriesList.push(blacklist[key].map(x => `${x.label} <i class="pf2e-animations-muted">(${key})</i>`))
+        missingEntriesList.push(missingEntries[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
+        updatedEntriesList.push(updatedEntries[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
+        removedEntriesList.push(removed[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
+        customEntriesList.push(custom[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
+        customNewEntriesList.push(customNew[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
+        blacklistEntriesList.push(blacklist[key].map(x => `${x.label} <i class="dnd5e-animations-muted">(${key})</i>`))
     }
     missingEntriesList = missingEntriesList.flat().sort()
     updatedEntriesList = updatedEntriesList.flat().sort()
@@ -124,9 +124,9 @@ async function generateAutorecUpdateHTML() {
     if (missingEntriesList.length || updatedEntriesList.length || customEntriesList.length || removedEntriesList.length || blacklistEntriesList.length || (game.settings.get("dnd5e-animations", "debug") && customNewEntriesList.length)) {
         if (removedEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.deleted")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.deleted")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${removedEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -134,9 +134,9 @@ async function generateAutorecUpdateHTML() {
         }
         if (missingEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.added")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.added")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${missingEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -144,10 +144,10 @@ async function generateAutorecUpdateHTML() {
         }
         if (customEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.custom")}</p>
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.customHint")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.custom")}</p>
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.customHint")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${customEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -155,9 +155,9 @@ async function generateAutorecUpdateHTML() {
         }
         if (updatedEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.updated")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.updated")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${updatedEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -165,9 +165,9 @@ async function generateAutorecUpdateHTML() {
         }
         if (blacklistEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.blacklisted")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.blacklisted")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${blacklistEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -175,9 +175,9 @@ async function generateAutorecUpdateHTML() {
         }
         if (game.settings.get("dnd5e-animations", "debug") && customNewEntriesList.length) {
             html += `
-			<div class="pf2e-animations-autorec-update-child">
-				<p class="pf2e-animations-autorec-update-text"><strong>[DEBUG]</strong> ${game.i18n.localize("dnd5e-animations.updateMenu.debugCustom")}</p>
-				<ul class="pf2e-animations-autorec-update-ul">
+			<div class="dnd5e-animations-autorec-update-child">
+				<p class="dnd5e-animations-autorec-update-text"><strong>[DEBUG]</strong> ${game.i18n.localize("dnd5e-animations.updateMenu.debugCustom")}</p>
+				<ul class="dnd5e-animations-autorec-update-ul">
 					${customNewEntriesList.map(x => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -185,7 +185,7 @@ async function generateAutorecUpdateHTML() {
         }
         html += `<p style="text-align: center; font-size: 1.2em; font-weight: bold;">${game.i18n.localize("dnd5e-animations.updateMenu.warning")}</p>`
     } else {
-        html = `<p class="pf2e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.nothing")}</p>`
+        html = `<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize("dnd5e-animations.updateMenu.nothing")}</p>`
     }
     return html
 }
@@ -210,7 +210,6 @@ class autorecUpdateFormApplication extends FormApplication {
             template: `modules/dnd5e-animations/module/autorecUpdateMenu.html`,
             id: 'autorecUpdateMenu',
             title: 'D&D5e Animations Update',
-            resizable: true,
         });
     }
 
@@ -232,7 +231,7 @@ class autorecUpdateFormApplication extends FormApplication {
     }
 
     async _updateObject(event) {
-        $(".pf2e-animations-autorec-update-buttons").attr("disabled", true)
+        $(".dnd5e-animations-autorec-update-buttons").attr("disabled", true)
         if (event.submitter.name === "update") {
             console.group("D&D5e Animations | Autorecognition Menu Update");
             const { newSettings, missingEntriesList, updatedEntriesList, customEntriesList, removedEntriesList, blacklistEntriesList } = await this.settings()
@@ -243,13 +242,7 @@ class autorecUpdateFormApplication extends FormApplication {
                 || removedEntriesList.length
                 || blacklistEntriesList.length
             )) return console.log("Nothing to update!");
-            /*
-            for (const key of Object.keys(newSettings)) {
-                await game.settings.set('autoanimations', `aaAutorec-${key}`, newSettings[key])
-                console.log(`Updated aaAutorec-${key} with:`, newSettings[key])
-            };
-            */
-            // Passing submitAll: true to ensure menus are updated
+
             AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify(newSettings), { submitAll: true });
         }
     }

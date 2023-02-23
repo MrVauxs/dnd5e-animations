@@ -1,0 +1,29 @@
+{
+	"dnd5e-animations": {
+		"updateMenu": {
+			"deleted": "The following effects will be DELETED from a previous version of 'PF2e Animations'.",
+			"added": "The following effects are going to be added to your Autorecognition settings.",
+			"custom": "The following effects won't be added due to them already existing from an unknown source.",
+			"customHint": "If you want the 'PF2e Animations' version, delete them from your Autorecognition Menu.",
+			"updated": "The following effects will be updated from a previous version of 'PF2e Animations' (or from Automated Animations default menu).",
+			"nothing": "No updates were found.",
+			"blacklisted": "The following effects have been blacklisted and will be removed from your Autorecognition Menu.",
+			"warning": "Make sure to backup your autorecognition menu! THIS PROCESS IS IRREVERSIBLE.",
+			"debugCustom": "The following effects do not exist in PF2e Animations, they are completely new and will remain in your Autorecognition Menu."
+		},
+		"settings": {
+			"autoUpdate": {
+				"name": "Open Update Menu on Module Update",
+				"hint": "Automatically open the Autorecognition Update Menu when the module is updated."
+			},
+			"debug": {
+				"name": "Debug Mode",
+				"hint": "Enables console logs of what PF2e Animations module is doing."
+			},
+			"autorecUpdate": {
+				"name": "Animations Update",
+				"label": "Update Menu"
+			}
+		}
+	}
+}

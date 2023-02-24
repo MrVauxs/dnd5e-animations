@@ -7,8 +7,6 @@
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fdnd5e-animations&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=dnd5e-animations)
 [![Foundry Hub Endorsements](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fdnd5e-animations%2Fshield%2Fendorsements)](https://www.foundryvtt-hub.com/package/dnd5e-animations/)
 
-![--A gif showcasing the module's various animations--](https://github.com/MrVauxs/dnd5e-animations/raw/main/preview.gif)
-
 A fully automated preset of animations for the 5e system in FoundryVTT.
 
 Created to accompany the [Automated Animations](https://github.com/otigon/automated-jb2a-animations) module.

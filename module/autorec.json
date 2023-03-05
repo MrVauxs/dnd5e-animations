@@ -60039,205 +60039,6 @@
 		},
 		{
 			"id": "291",
-			"label": "Minor Illusion",
-			"levels3d": {
-				"enable": false,
-				"type": "",
-				"data": {},
-				"secondary": {
-					"enable": false,
-					"data": {}
-				},
-				"sound": {
-					"delay": 0,
-					"enable": false,
-					"file": "",
-					"startTime": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"volume": 1
-				}
-			},
-			"macro": {
-				"enable": false,
-				"playWhen": "0"
-			},
-			"menu": "ontoken",
-			"primary": {
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": false,
-					"isWait": false,
-					"opacity": 1,
-					"persistent": false,
-					"playOn": "source",
-					"repeat": 1,
-					"repeatDelay": 0,
-					"size": 1,
-					"unbindAlpha": false,
-					"unbindVisibility": false,
-					"zIndex": 1,
-					"playbackRate": 1.5
-				},
-				"sound": {
-					"delay": 0,
-					"enable": false,
-					"file": "",
-					"startTime": 0,
-					"volume": 1,
-					"repeat": 1,
-					"repeatDelay": 250
-				},
-				"video": {
-					"dbSection": "static",
-					"menuType": "magicsign",
-					"animation": "illusion",
-					"variant": "runecomplete",
-					"color": "purple",
-					"enableCustom": false,
-					"customPath": ""
-				}
-			},
-			"secondary": {
-				"enable": false,
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"delay": 250,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": true,
-					"isWait": false,
-					"opacity": 1,
-					"repeat": 1,
-					"repeatDelay": 0,
-					"size": 1.5,
-					"zIndex": 1
-				},
-				"sound": {
-					"delay": 0,
-					"enable": false,
-					"file": "",
-					"startTime": 0,
-					"volume": 1,
-					"repeat": 1,
-					"repeatDelay": 250
-				},
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				}
-			},
-			"soundOnly": {
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"startTime": 0,
-					"volume": 1,
-					"repeat": 1,
-					"repeatDelay": 250
-				}
-			},
-			"source": {
-				"enable": false,
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": false,
-					"isWait": true,
-					"opacity": 1,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"size": 1,
-					"zIndex": 1
-				},
-				"sound": {
-					"delay": 0,
-					"enable": false,
-					"file": "",
-					"startTime": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"volume": 1
-				},
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				}
-			},
-			"target": {
-				"enable": false,
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isWait": false,
-					"isRadius": false,
-					"opacity": 1,
-					"persistent": false,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"size": 1,
-					"unbindAlpha": false,
-					"unbindVisibility": false,
-					"zIndex": 1
-				},
-				"sound": {
-					"delay": 0,
-					"enable": false,
-					"file": "",
-					"startTime": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"volume": 1
-				},
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				}
-			},
-			"metaData": {
-				"label": "Minor Illusion",
-				"menu": "ontoken",
-				"name": "5e Animations",
-				"moduleVersion": "0.0.1",
-				"version": 1
-			}
-		},
-		{
-			"id": "292",
 			"label": "Mirror Image",
 			"levels3d": {
 				"enable": false,
@@ -60434,7 +60235,7 @@
 			}
 		},
 		{
-			"id": "293",
+			"id": "292",
 			"label": "Mislead",
 			"levels3d": {
 				"type": "explosion",
@@ -60629,7 +60430,7 @@
 			}
 		},
 		{
-			"id": "294",
+			"id": "293",
 			"label": "Modify Memory",
 			"levels3d": {
 				"type": "explosion",
@@ -60823,7 +60624,7 @@
 			}
 		},
 		{
-			"id": "295",
+			"id": "294",
 			"label": "Mold Earth",
 			"levels3d": {
 				"enable": false,
@@ -61022,7 +60823,7 @@
 			}
 		},
 		{
-			"id": "296",
+			"id": "295",
 			"label": "Net",
 			"levels3d": {
 				"enable": false,
@@ -61221,7 +61022,7 @@
 			}
 		},
 		{
-			"id": "297",
+			"id": "296",
 			"label": "Nondetection",
 			"levels3d": {
 				"enable": false,
@@ -61418,7 +61219,7 @@
 			}
 		},
 		{
-			"id": "298",
+			"id": "297",
 			"label": "Passwall",
 			"levels3d": {
 				"enable": false,
@@ -61615,7 +61416,7 @@
 			}
 		},
 		{
-			"id": "299",
+			"id": "298",
 			"label": "Phantasmal Killer",
 			"levels3d": {
 				"type": "explosion",
@@ -61808,7 +61609,7 @@
 			}
 		},
 		{
-			"id": "300",
+			"id": "299",
 			"label": "Phantom Steed",
 			"levels3d": {
 				"enable": false,
@@ -62005,7 +61806,7 @@
 			}
 		},
 		{
-			"id": "301",
+			"id": "300",
 			"label": "Planar Ally",
 			"levels3d": {
 				"type": "explosion",
@@ -62198,7 +61999,7 @@
 			}
 		},
 		{
-			"id": "302",
+			"id": "301",
 			"label": "Plane Shift",
 			"levels3d": {
 				"type": "explosion",
@@ -62391,7 +62192,7 @@
 			}
 		},
 		{
-			"id": "303",
+			"id": "302",
 			"label": "Plant Growth",
 			"levels3d": {
 				"enable": false,
@@ -62588,7 +62389,7 @@
 			}
 		},
 		{
-			"id": "304",
+			"id": "303",
 			"label": "Polymorph",
 			"levels3d": {
 				"type": "explosion",
@@ -62783,7 +62584,7 @@
 			}
 		},
 		{
-			"id": "305",
+			"id": "304",
 			"label": "Potion of",
 			"levels3d": {
 				"type": "explosion",
@@ -62976,7 +62777,7 @@
 			}
 		},
 		{
-			"id": "306",
+			"id": "305",
 			"label": "Power Word",
 			"levels3d": {
 				"enable": false,
@@ -63173,7 +62974,7 @@
 			}
 		},
 		{
-			"id": "307",
+			"id": "306",
 			"label": "Power Word Heal",
 			"levels3d": {
 				"enable": false,
@@ -63370,7 +63171,7 @@
 			}
 		},
 		{
-			"id": "308",
+			"id": "307",
 			"label": "Prayer of Healing",
 			"levels3d": {
 				"enable": false,
@@ -63567,7 +63368,7 @@
 			}
 		},
 		{
-			"id": "309",
+			"id": "308",
 			"label": "Prestidigitation",
 			"levels3d": {
 				"enable": false,
@@ -63765,7 +63566,7 @@
 			}
 		},
 		{
-			"id": "310",
+			"id": "309",
 			"label": "Primal Savagery",
 			"levels3d": {
 				"enable": false,
@@ -63962,7 +63763,7 @@
 			}
 		},
 		{
-			"id": "311",
+			"id": "310",
 			"label": "Produce Flame",
 			"levels3d": {
 				"type": "explosion",
@@ -64157,7 +63958,7 @@
 			}
 		},
 		{
-			"id": "312",
+			"id": "311",
 			"label": "Project Image",
 			"levels3d": {
 				"type": "explosion",
@@ -64352,7 +64153,7 @@
 			}
 		},
 		{
-			"id": "313",
+			"id": "312",
 			"label": "Protection from Energy",
 			"levels3d": {
 				"enable": false,
@@ -64549,7 +64350,7 @@
 			}
 		},
 		{
-			"id": "314",
+			"id": "313",
 			"label": "Protection from Evil and Good",
 			"levels3d": {
 				"enable": false,
@@ -64746,7 +64547,7 @@
 			}
 		},
 		{
-			"id": "315",
+			"id": "314",
 			"label": "Protection from Poison",
 			"levels3d": {
 				"enable": false,
@@ -64943,7 +64744,7 @@
 			}
 		},
 		{
-			"id": "316",
+			"id": "315",
 			"label": "Rage",
 			"levels3d": {
 				"enable": false,
@@ -65140,7 +64941,7 @@
 			}
 		},
 		{
-			"id": "317",
+			"id": "316",
 			"label": "Raise Dead",
 			"levels3d": {
 				"enable": false,
@@ -65337,7 +65138,7 @@
 			}
 		},
 		{
-			"id": "318",
+			"id": "317",
 			"label": "Regenerate",
 			"levels3d": {
 				"enable": false,
@@ -65534,7 +65335,7 @@
 			}
 		},
 		{
-			"id": "319",
+			"id": "318",
 			"label": "Reincarnate",
 			"levels3d": {
 				"type": "explosion",
@@ -65727,7 +65528,7 @@
 			}
 		},
 		{
-			"id": "320",
+			"id": "319",
 			"label": "Remove Curse",
 			"levels3d": {
 				"enable": false,
@@ -65924,7 +65725,7 @@
 			}
 		},
 		{
-			"id": "321",
+			"id": "320",
 			"label": "Resilient Sphere",
 			"levels3d": {
 				"type": "explosion",
@@ -66117,7 +65918,7 @@
 			}
 		},
 		{
-			"id": "322",
+			"id": "321",
 			"label": "Resistance",
 			"levels3d": {
 				"type": "explosion",
@@ -66309,7 +66110,7 @@
 			}
 		},
 		{
-			"id": "323",
+			"id": "322",
 			"label": "Restoration",
 			"levels3d": {
 				"enable": false,
@@ -66506,7 +66307,7 @@
 			}
 		},
 		{
-			"id": "324",
+			"id": "323",
 			"label": "Resurrection",
 			"levels3d": {
 				"enable": false,
@@ -66703,7 +66504,7 @@
 			}
 		},
 		{
-			"id": "325",
+			"id": "324",
 			"label": "Revivify",
 			"levels3d": {
 				"enable": false,
@@ -66900,7 +66701,7 @@
 			}
 		},
 		{
-			"id": "326",
+			"id": "325",
 			"label": "Rope Trick",
 			"levels3d": {
 				"enable": false,
@@ -67097,7 +66898,7 @@
 			}
 		},
 		{
-			"id": "327",
+			"id": "326",
 			"label": "Sacred Flame",
 			"levels3d": {
 				"enable": false,
@@ -67324,7 +67125,7 @@
 			}
 		},
 		{
-			"id": "328",
+			"id": "327",
 			"label": "Sanctuary",
 			"levels3d": {
 				"enable": false,
@@ -67521,7 +67322,7 @@
 			}
 		},
 		{
-			"id": "329",
+			"id": "328",
 			"label": "Sapping Sting",
 			"levels3d": {
 				"enable": false,
@@ -67720,7 +67521,7 @@
 			}
 		},
 		{
-			"id": "330",
+			"id": "329",
 			"label": "Scrying",
 			"levels3d": {
 				"type": "explosion",
@@ -67917,7 +67718,7 @@
 			}
 		},
 		{
-			"id": "331",
+			"id": "330",
 			"label": "Second Wind",
 			"levels3d": {
 				"enable": false,
@@ -68114,7 +67915,7 @@
 			}
 		},
 		{
-			"id": "332",
+			"id": "331",
 			"label": "See Invisibility",
 			"levels3d": {
 				"enable": false,
@@ -68311,7 +68112,7 @@
 			}
 		},
 		{
-			"id": "333",
+			"id": "332",
 			"label": "Seeming",
 			"levels3d": {
 				"type": "explosion",
@@ -68504,7 +68305,7 @@
 			}
 		},
 		{
-			"id": "334",
+			"id": "333",
 			"label": "Sending",
 			"levels3d": {
 				"enable": false,
@@ -68701,7 +68502,7 @@
 			}
 		},
 		{
-			"id": "335",
+			"id": "334",
 			"label": "Shadow of Moil",
 			"levels3d": {
 				"enable": false,
@@ -68898,7 +68699,7 @@
 			}
 		},
 		{
-			"id": "336",
+			"id": "335",
 			"label": "Shape Water",
 			"levels3d": {
 				"enable": false,
@@ -69097,7 +68898,7 @@
 			}
 		},
 		{
-			"id": "337",
+			"id": "336",
 			"label": "Shield of Faith",
 			"levels3d": {
 				"type": "explosion",
@@ -69301,7 +69102,7 @@
 			}
 		},
 		{
-			"id": "338",
+			"id": "337",
 			"label": "Shocking Grasp",
 			"levels3d": {
 				"enable": false,
@@ -69498,7 +69299,7 @@
 			}
 		},
 		{
-			"id": "339",
+			"id": "338",
 			"label": "Slow",
 			"levels3d": {
 				"enable": false,
@@ -69695,7 +69496,7 @@
 			}
 		},
 		{
-			"id": "340",
+			"id": "339",
 			"label": "Smite",
 			"levels3d": {
 				"enable": false,
@@ -69892,7 +69693,7 @@
 			}
 		},
 		{
-			"id": "341",
+			"id": "340",
 			"label": "Snare",
 			"levels3d": {
 				"enable": false,
@@ -70089,7 +69890,7 @@
 			}
 		},
 		{
-			"id": "342",
+			"id": "341",
 			"label": "Sneak Attack",
 			"levels3d": {
 				"type": "explosion",
@@ -70281,7 +70082,7 @@
 			}
 		},
 		{
-			"id": "343",
+			"id": "342",
 			"label": "Spare the Dying",
 			"levels3d": {
 				"enable": false,
@@ -70480,7 +70281,7 @@
 			}
 		},
 		{
-			"id": "344",
+			"id": "343",
 			"label": "Speak with Animals",
 			"levels3d": {
 				"enable": false,
@@ -70677,7 +70478,7 @@
 			}
 		},
 		{
-			"id": "345",
+			"id": "344",
 			"label": "Speak with Dead",
 			"levels3d": {
 				"enable": false,
@@ -70874,7 +70675,7 @@
 			}
 		},
 		{
-			"id": "346",
+			"id": "345",
 			"label": "Speak with Plants",
 			"levels3d": {
 				"enable": false,
@@ -71071,7 +70872,7 @@
 			}
 		},
 		{
-			"id": "347",
+			"id": "346",
 			"label": "Spectral Fangs",
 			"levels3d": {
 				"type": "explosion",
@@ -71266,7 +71067,7 @@
 			}
 		},
 		{
-			"id": "348",
+			"id": "347",
 			"label": "Spider Climb",
 			"levels3d": {
 				"enable": false,
@@ -71471,7 +71272,7 @@
 			}
 		},
 		{
-			"id": "349",
+			"id": "348",
 			"label": "Spirit Shroud",
 			"levels3d": {
 				"enable": false,
@@ -71668,7 +71469,7 @@
 			}
 		},
 		{
-			"id": "350",
+			"id": "349",
 			"label": "Spiritual Weapon",
 			"levels3d": {
 				"enable": false,
@@ -71865,7 +71666,7 @@
 			}
 		},
 		{
-			"id": "351",
+			"id": "350",
 			"label": "Spore",
 			"levels3d": {
 				"type": "explosion",
@@ -72058,7 +71859,7 @@
 			}
 		},
 		{
-			"id": "352",
+			"id": "351",
 			"label": "Stone Shape",
 			"levels3d": {
 				"type": "explosion",
@@ -72253,7 +72054,7 @@
 			}
 		},
 		{
-			"id": "353",
+			"id": "352",
 			"label": "Stoneskin",
 			"levels3d": {
 				"enable": false,
@@ -72450,7 +72251,7 @@
 			}
 		},
 		{
-			"id": "354",
+			"id": "353",
 			"label": "Suggestion",
 			"levels3d": {
 				"enable": false,
@@ -72652,7 +72453,7 @@
 			}
 		},
 		{
-			"id": "355",
+			"id": "354",
 			"label": "Summon",
 			"levels3d": {
 				"enable": false,
@@ -72849,7 +72650,7 @@
 			}
 		},
 		{
-			"id": "356",
+			"id": "355",
 			"label": "Swallow",
 			"levels3d": {
 				"type": "explosion",
@@ -73044,7 +72845,7 @@
 			}
 		},
 		{
-			"id": "357",
+			"id": "356",
 			"label": "Swift Quiver",
 			"levels3d": {
 				"type": "explosion",
@@ -73237,7 +73038,7 @@
 			}
 		},
 		{
-			"id": "358",
+			"id": "357",
 			"label": "Symbol",
 			"levels3d": {
 				"type": "explosion",
@@ -73432,7 +73233,7 @@
 			}
 		},
 		{
-			"id": "359",
+			"id": "358",
 			"label": "Talon",
 			"levels3d": {
 				"enable": false,
@@ -73629,7 +73430,7 @@
 			}
 		},
 		{
-			"id": "360",
+			"id": "359",
 			"label": "Tasha's Otherworldly Guise",
 			"levels3d": {
 				"enable": false,
@@ -73826,7 +73627,7 @@
 			}
 		},
 		{
-			"id": "361",
+			"id": "360",
 			"label": "Telekinesis",
 			"levels3d": {
 				"type": "explosion",
@@ -74019,7 +73820,7 @@
 			}
 		},
 		{
-			"id": "362",
+			"id": "361",
 			"label": "Tentacle",
 			"levels3d": {
 				"enable": false,
@@ -74216,7 +74017,7 @@
 			}
 		},
 		{
-			"id": "363",
+			"id": "362",
 			"label": "Thaumaturgy",
 			"levels3d": {
 				"enable": false,
@@ -74414,7 +74215,7 @@
 			}
 		},
 		{
-			"id": "364",
+			"id": "363",
 			"label": "Thorn Whip",
 			"levels3d": {
 				"type": "explosion",
@@ -74608,7 +74409,7 @@
 			}
 		},
 		{
-			"id": "365",
+			"id": "364",
 			"label": "Thunderclap",
 			"levels3d": {
 				"enable": false,
@@ -74806,7 +74607,7 @@
 			}
 		},
 		{
-			"id": "366",
+			"id": "365",
 			"label": "Time Stop",
 			"levels3d": {
 				"enable": false,
@@ -75003,7 +74804,7 @@
 			}
 		},
 		{
-			"id": "367",
+			"id": "366",
 			"label": "Toll the Dead",
 			"levels3d": {
 				"enable": false,
@@ -75229,7 +75030,7 @@
 			}
 		},
 		{
-			"id": "368",
+			"id": "367",
 			"label": "Tongue",
 			"levels3d": {
 				"type": "explosion",
@@ -75424,7 +75225,7 @@
 			}
 		},
 		{
-			"id": "369",
+			"id": "368",
 			"label": "Tongues",
 			"levels3d": {
 				"enable": false,
@@ -75621,7 +75422,7 @@
 			}
 		},
 		{
-			"id": "370",
+			"id": "369",
 			"label": "Touch",
 			"levels3d": {
 				"type": "explosion",
@@ -75814,7 +75615,7 @@
 			}
 		},
 		{
-			"id": "371",
+			"id": "370",
 			"label": "Tree Stride",
 			"levels3d": {
 				"type": "explosion",
@@ -76007,7 +75808,7 @@
 			}
 		},
 		{
-			"id": "372",
+			"id": "371",
 			"label": "True Seeing",
 			"levels3d": {
 				"enable": false,
@@ -76207,7 +76008,7 @@
 			}
 		},
 		{
-			"id": "373",
+			"id": "372",
 			"label": "True Strike",
 			"levels3d": {
 				"enable": false,
@@ -76406,7 +76207,7 @@
 			}
 		},
 		{
-			"id": "374",
+			"id": "373",
 			"label": "Unseen Servant",
 			"levels3d": {
 				"enable": false,
@@ -76603,7 +76404,7 @@
 			}
 		},
 		{
-			"id": "375",
+			"id": "374",
 			"label": "Vampiric Touch",
 			"levels3d": {
 				"enable": false,
@@ -76800,7 +76601,7 @@
 			}
 		},
 		{
-			"id": "376",
+			"id": "375",
 			"label": "Vicious Mockery",
 			"levels3d": {
 				"enable": false,
@@ -76999,7 +76800,7 @@
 			}
 		},
 		{
-			"id": "377",
+			"id": "376",
 			"label": "Vigilant Blessing",
 			"levels3d": {
 				"type": "explosion",
@@ -77192,7 +76993,7 @@
 			}
 		},
 		{
-			"id": "378",
+			"id": "377",
 			"label": "Vortex Warp",
 			"levels3d": {
 				"enable": false,
@@ -77389,7 +77190,7 @@
 			}
 		},
 		{
-			"id": "379",
+			"id": "378",
 			"label": "Warding Bond",
 			"levels3d": {
 				"enable": false,
@@ -77586,7 +77387,7 @@
 			}
 		},
 		{
-			"id": "380",
+			"id": "379",
 			"label": "Water Breathing",
 			"levels3d": {
 				"enable": false,
@@ -77783,7 +77584,7 @@
 			}
 		},
 		{
-			"id": "381",
+			"id": "380",
 			"label": "Water Walk",
 			"levels3d": {
 				"enable": false,
@@ -77980,7 +77781,7 @@
 			}
 		},
 		{
-			"id": "382",
+			"id": "381",
 			"label": "Wild Shape",
 			"levels3d": {
 				"enable": false,
@@ -78177,7 +77978,7 @@
 			}
 		},
 		{
-			"id": "383",
+			"id": "382",
 			"label": "Wind Walk",
 			"levels3d": {
 				"type": "explosion",
@@ -78372,7 +78173,7 @@
 			}
 		},
 		{
-			"id": "384",
+			"id": "383",
 			"label": "Wish",
 			"levels3d": {
 				"type": "explosion",
@@ -78565,7 +78366,7 @@
 			}
 		},
 		{
-			"id": "385",
+			"id": "384",
 			"label": "Withering Touch",
 			"levels3d": {
 				"type": "explosion",
@@ -78761,7 +78562,7 @@
 			}
 		},
 		{
-			"id": "386",
+			"id": "385",
 			"label": "Word of Radiance",
 			"levels3d": {
 				"enable": false,
@@ -78959,7 +78760,7 @@
 			}
 		},
 		{
-			"id": "387",
+			"id": "386",
 			"label": "Zephyr Strike",
 			"levels3d": {
 				"enable": false,
@@ -79161,7 +78962,7 @@
 	],
 	"templatefx": [
 		{
-			"id": "388",
+			"id": "387",
 			"label": "Acid Breath",
 			"macro": {
 				"enable": false,
@@ -79338,7 +79139,7 @@
 			}
 		},
 		{
-			"id": "389",
+			"id": "388",
 			"label": "Aganazzar's Scorcher",
 			"macro": {
 				"enable": false,
@@ -79514,7 +79315,7 @@
 			}
 		},
 		{
-			"id": "390",
+			"id": "389",
 			"label": "Black Tentacles",
 			"macro": {
 				"enable": false,
@@ -79690,7 +79491,7 @@
 			}
 		},
 		{
-			"id": "391",
+			"id": "390",
 			"label": "Blade Barrier",
 			"macro": {
 				"enable": false,
@@ -79880,7 +79681,7 @@
 			}
 		},
 		{
-			"id": "392",
+			"id": "391",
 			"label": "Burning Hands",
 			"macro": {
 				"enable": false,
@@ -80056,7 +79857,7 @@
 			}
 		},
 		{
-			"id": "393",
+			"id": "392",
 			"label": "Call Lightning",
 			"macro": {
 				"enable": false,
@@ -80232,7 +80033,7 @@
 			}
 		},
 		{
-			"id": "394",
+			"id": "393",
 			"label": "Calm Emotions",
 			"macro": {
 				"enable": false,
@@ -80408,7 +80209,7 @@
 			}
 		},
 		{
-			"id": "395",
+			"id": "394",
 			"label": "Caustic Brew",
 			"macro": {
 				"enable": false,
@@ -80584,7 +80385,7 @@
 			}
 		},
 		{
-			"id": "396",
+			"id": "395",
 			"label": "Circle of Death",
 			"macro": {
 				"enable": false,
@@ -80758,7 +80559,7 @@
 			}
 		},
 		{
-			"id": "397",
+			"id": "396",
 			"label": "Cloud of Daggers",
 			"macro": {
 				"enable": false,
@@ -80935,7 +80736,7 @@
 			}
 		},
 		{
-			"id": "398",
+			"id": "397",
 			"label": "Cloudkill",
 			"macro": {
 				"enable": false,
@@ -81108,7 +80909,7 @@
 			}
 		},
 		{
-			"id": "399",
+			"id": "398",
 			"label": "Cold Breath",
 			"macro": {
 				"enable": false,
@@ -81285,7 +81086,7 @@
 			}
 		},
 		{
-			"id": "400",
+			"id": "399",
 			"label": "Color Spray",
 			"macro": {
 				"enable": false,
@@ -81461,7 +81262,7 @@
 			}
 		},
 		{
-			"id": "401",
+			"id": "400",
 			"label": "Cone of Cold",
 			"macro": {
 				"enable": false,
@@ -81637,7 +81438,7 @@
 			}
 		},
 		{
-			"id": "402",
+			"id": "401",
 			"label": "Confusion",
 			"macro": {
 				"enable": false,
@@ -81810,7 +81611,7 @@
 			}
 		},
 		{
-			"id": "403",
+			"id": "402",
 			"label": "Control",
 			"macro": {
 				"enable": false,
@@ -81985,7 +81786,7 @@
 			}
 		},
 		{
-			"id": "404",
+			"id": "403",
 			"label": "Create or Destroy Water",
 			"macro": {
 				"enable": false,
@@ -82161,7 +81962,7 @@
 			}
 		},
 		{
-			"id": "405",
+			"id": "404",
 			"label": "Creation",
 			"macro": {
 				"enable": false,
@@ -82335,7 +82136,7 @@
 			}
 		},
 		{
-			"id": "406",
+			"id": "405",
 			"label": "Crusader's Mantle",
 			"macro": {
 				"enable": false,
@@ -82511,7 +82312,7 @@
 			}
 		},
 		{
-			"id": "407",
+			"id": "406",
 			"label": "Darkness",
 			"macro": {
 				"enable": false,
@@ -82687,7 +82488,7 @@
 			}
 		},
 		{
-			"id": "408",
+			"id": "407",
 			"label": "Daylight",
 			"macro": {
 				"enable": false,
@@ -82865,7 +82666,7 @@
 			}
 		},
 		{
-			"id": "409",
+			"id": "408",
 			"label": "Destructive Wave",
 			"macro": {
 				"enable": false,
@@ -83039,7 +82840,7 @@
 			}
 		},
 		{
-			"id": "410",
+			"id": "409",
 			"label": "Earthquake",
 			"macro": {
 				"enable": false,
@@ -83216,7 +83017,7 @@
 			}
 		},
 		{
-			"id": "411",
+			"id": "410",
 			"label": "Entangle",
 			"macro": {
 				"enable": false,
@@ -83392,7 +83193,7 @@
 			}
 		},
 		{
-			"id": "412",
+			"id": "411",
 			"label": "Fear",
 			"macro": {
 				"enable": false,
@@ -83568,7 +83369,7 @@
 			}
 		},
 		{
-			"id": "413",
+			"id": "412",
 			"label": "Fire Breath",
 			"macro": {
 				"enable": false,
@@ -83745,7 +83546,7 @@
 			}
 		},
 		{
-			"id": "414",
+			"id": "413",
 			"label": "Fire Storm",
 			"macro": {
 				"enable": false,
@@ -83918,7 +83719,7 @@
 			}
 		},
 		{
-			"id": "415",
+			"id": "414",
 			"label": "Flame Strike",
 			"macro": {
 				"enable": false,
@@ -84094,7 +83895,7 @@
 			}
 		},
 		{
-			"id": "416",
+			"id": "415",
 			"label": "Flaming Sphere",
 			"macro": {
 				"enable": false,
@@ -84270,7 +84071,7 @@
 			}
 		},
 		{
-			"id": "417",
+			"id": "416",
 			"label": "Fog Cloud",
 			"macro": {
 				"enable": false,
@@ -84446,7 +84247,7 @@
 			}
 		},
 		{
-			"id": "418",
+			"id": "417",
 			"label": "Globe of Invulnerability",
 			"macro": {
 				"enable": false,
@@ -84623,7 +84424,7 @@
 			}
 		},
 		{
-			"id": "419",
+			"id": "418",
 			"label": "Grease",
 			"macro": {
 				"enable": false,
@@ -84800,7 +84601,7 @@
 			}
 		},
 		{
-			"id": "420",
+			"id": "419",
 			"label": "Gust of Wind",
 			"macro": {
 				"enable": false,
@@ -84976,7 +84777,7 @@
 			}
 		},
 		{
-			"id": "421",
+			"id": "420",
 			"label": "Hallow",
 			"macro": {
 				"enable": false,
@@ -85150,7 +84951,7 @@
 			}
 		},
 		{
-			"id": "422",
+			"id": "421",
 			"label": "Hallucinatory Terrain",
 			"macro": {
 				"enable": false,
@@ -85324,7 +85125,7 @@
 			}
 		},
 		{
-			"id": "423",
+			"id": "422",
 			"label": "Healing Spirit",
 			"macro": {
 				"enable": false,
@@ -85501,7 +85302,7 @@
 			}
 		},
 		{
-			"id": "424",
+			"id": "423",
 			"label": "Hunger of Hadar",
 			"macro": {
 				"enable": false,
@@ -85677,7 +85478,7 @@
 			}
 		},
 		{
-			"id": "425",
+			"id": "424",
 			"label": "Hypnotic Pattern",
 			"macro": {
 				"enable": false,
@@ -85855,7 +85656,7 @@
 			}
 		},
 		{
-			"id": "426",
+			"id": "425",
 			"label": "Ice Storm",
 			"macro": {
 				"enable": false,
@@ -86031,7 +85832,7 @@
 			}
 		},
 		{
-			"id": "427",
+			"id": "426",
 			"label": "Image",
 			"macro": {
 				"enable": false,
@@ -86207,7 +86008,7 @@
 			}
 		},
 		{
-			"id": "428",
+			"id": "427",
 			"label": "Incendiary Cloud",
 			"macro": {
 				"enable": false,
@@ -86381,7 +86182,7 @@
 			}
 		},
 		{
-			"id": "429",
+			"id": "428",
 			"label": "Insect Plague",
 			"macro": {
 				"enable": false,
@@ -86555,7 +86356,7 @@
 			}
 		},
 		{
-			"id": "430",
+			"id": "429",
 			"label": "Lightning Bolt",
 			"macro": {
 				"enable": false,
@@ -86731,7 +86532,7 @@
 			}
 		},
 		{
-			"id": "431",
+			"id": "430",
 			"label": "Lightning Breath",
 			"macro": {
 				"enable": false,
@@ -86908,7 +86709,7 @@
 			}
 		},
 		{
-			"id": "432",
+			"id": "431",
 			"label": "Magic Circle",
 			"macro": {
 				"enable": false,
@@ -87084,7 +86885,7 @@
 			}
 		},
 		{
-			"id": "433",
+			"id": "432",
 			"label": "Mind Blast",
 			"macro": {
 				"enable": false,
@@ -87258,7 +87059,7 @@
 			}
 		},
 		{
-			"id": "434",
+			"id": "433",
 			"label": "Mirage Arcane",
 			"macro": {
 				"enable": false,
@@ -87431,7 +87232,7 @@
 			}
 		},
 		{
-			"id": "435",
+			"id": "434",
 			"label": "Moonbeam",
 			"macro": {
 				"enable": false,
@@ -87607,7 +87408,7 @@
 			}
 		},
 		{
-			"id": "436",
+			"id": "435",
 			"label": "Move Earth",
 			"macro": {
 				"enable": false,
@@ -87781,7 +87582,7 @@
 			}
 		},
 		{
-			"id": "437",
+			"id": "436",
 			"label": "Paralyzing Breath",
 			"macro": {
 				"enable": false,
@@ -87957,7 +87758,7 @@
 			}
 		},
 		{
-			"id": "438",
+			"id": "437",
 			"label": "Phantasmal Force",
 			"macro": {
 				"enable": false,
@@ -88133,7 +87934,7 @@
 			}
 		},
 		{
-			"id": "439",
+			"id": "438",
 			"label": "Poison Breath",
 			"macro": {
 				"enable": false,
@@ -88309,7 +88110,7 @@
 			}
 		},
 		{
-			"id": "440",
+			"id": "439",
 			"label": "Prismatic Spray",
 			"macro": {
 				"enable": false,
@@ -88482,196 +88283,7 @@
 			}
 		},
 		{
-			"id": "441",
-			"label": "Prismatic Wall",
-			"macro": {
-				"enable": false,
-				"playWhen": "0"
-			},
-			"menu": "templatefx",
-			"primary": {
-				"video": {
-					"dbSection": "templatefx",
-					"menuType": "circle",
-					"animation": "calllightning",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": true,
-					"customPath": "jb2a.moonbeam.01.complete.rainbow"
-				},
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"startTime": 0,
-					"volume": 0.75
-				},
-				"options": {
-					"contrast": 0,
-					"delay": 0,
-					"elevation": 1000,
-					"isMasked": true,
-					"isWait": false,
-					"occlusionAlpha": 0.5,
-					"occlusionMode": "3",
-					"opacity": 1,
-					"persistent": true,
-					"persistType": "attachtemplate",
-					"playbackRate": 1,
-					"removeTemplate": false,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"rotate": 0,
-					"saturate": 0,
-					"scale": "1,5",
-					"tint": false,
-					"tintColor": "#FFFFFF",
-					"zIndex": 1
-				}
-			},
-			"secondary": {
-				"enable": false,
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				},
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"startTime": 0,
-					"volume": 0.75
-				},
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"contrast": 0,
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": true,
-					"isWait": false,
-					"opacity": 1,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"saturate": 0,
-					"size": 1.5,
-					"tint": false,
-					"tintColor": "#FFFFFF",
-					"zIndex": 1
-				}
-			},
-			"soundOnly": {
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"startTime": 0,
-					"volume": 0.75
-				}
-			},
-			"source": {
-				"enable": false,
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				},
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"startTime": 0,
-					"volume": 0.75
-				},
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"contrast": 0,
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": false,
-					"isWait": true,
-					"opacity": 1,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"saturate": 0,
-					"size": 1,
-					"tint": false,
-					"tintColor": "#FFFFFF",
-					"zIndex": 1
-				}
-			},
-			"target": {
-				"enable": false,
-				"video": {
-					"dbSection": "static",
-					"menuType": "spell",
-					"animation": "curewounds",
-					"variant": "01",
-					"color": "blue",
-					"enableCustom": false,
-					"customPath": ""
-				},
-				"sound": {
-					"enable": false,
-					"delay": 0,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"startTime": 0,
-					"volume": 0.75
-				},
-				"options": {
-					"addTokenWidth": false,
-					"anchor": "0.5",
-					"contrast": 0,
-					"delay": 0,
-					"elevation": 1000,
-					"fadeIn": 250,
-					"fadeOut": 500,
-					"isMasked": false,
-					"isRadius": false,
-					"opacity": 1,
-					"persistent": false,
-					"repeat": 1,
-					"repeatDelay": 250,
-					"saturate": 0,
-					"size": 1,
-					"tint": false,
-					"tintColor": "#FFFFFF",
-					"unbindAlpha": false,
-					"unbindVisibility": false,
-					"zIndex": 1
-				}
-			},
-			"metaData": {
-				"label": "Prismatic Wall",
-				"menu": "templatefx",
-				"name": "5e Animations",
-				"moduleVersion": "0.0.1",
-				"version": 1
-			}
-		},
-		{
-			"id": "442",
+			"id": "440",
 			"label": "Programmed Illusion",
 			"macro": {
 				"enable": false,
@@ -88845,7 +88457,7 @@
 			}
 		},
 		{
-			"id": "443",
+			"id": "441",
 			"label": "Purify Food and Drink",
 			"macro": {
 				"enable": false,
@@ -89021,7 +88633,7 @@
 			}
 		},
 		{
-			"id": "444",
+			"id": "442",
 			"label": "Repulsion Breath",
 			"macro": {
 				"enable": false,
@@ -89197,7 +88809,7 @@
 			}
 		},
 		{
-			"id": "445",
+			"id": "443",
 			"label": "Rime's Binding Ice",
 			"macro": {
 				"enable": false,
@@ -89373,7 +88985,7 @@
 			}
 		},
 		{
-			"id": "446",
+			"id": "444",
 			"label": "Shatter",
 			"macro": {
 				"enable": false,
@@ -89549,7 +89161,7 @@
 			}
 		},
 		{
-			"id": "447",
+			"id": "445",
 			"label": "Sickening Radiance",
 			"macro": {
 				"enable": false,
@@ -89725,7 +89337,7 @@
 			}
 		},
 		{
-			"id": "448",
+			"id": "446",
 			"label": "Silence",
 			"macro": {
 				"enable": false,
@@ -89902,7 +89514,7 @@
 			}
 		},
 		{
-			"id": "449",
+			"id": "447",
 			"label": "Sleet Storm",
 			"macro": {
 				"enable": false,
@@ -90078,7 +89690,7 @@
 			}
 		},
 		{
-			"id": "450",
+			"id": "448",
 			"label": "Slowing Breath",
 			"macro": {
 				"enable": false,
@@ -90254,7 +89866,7 @@
 			}
 		},
 		{
-			"id": "451",
+			"id": "449",
 			"label": "Spike Growth",
 			"macro": {
 				"enable": false,
@@ -90430,7 +90042,7 @@
 			}
 		},
 		{
-			"id": "452",
+			"id": "450",
 			"label": "Stinking Cloud",
 			"macro": {
 				"enable": false,
@@ -90606,7 +90218,7 @@
 			}
 		},
 		{
-			"id": "453",
+			"id": "451",
 			"label": "Storm Sphere",
 			"macro": {
 				"enable": false,
@@ -90782,7 +90394,7 @@
 			}
 		},
 		{
-			"id": "454",
+			"id": "452",
 			"label": "Sunbeam",
 			"macro": {
 				"enable": false,
@@ -90956,7 +90568,7 @@
 			}
 		},
 		{
-			"id": "455",
+			"id": "453",
 			"label": "Sunburst",
 			"macro": {
 				"enable": false,
@@ -91133,7 +90745,7 @@
 			}
 		},
 		{
-			"id": "456",
+			"id": "454",
 			"label": "Synaptic Static",
 			"macro": {
 				"enable": false,
@@ -91309,7 +90921,7 @@
 			}
 		},
 		{
-			"id": "457",
+			"id": "455",
 			"label": "Teleportation Circle",
 			"macro": {
 				"enable": false,
@@ -91483,7 +91095,7 @@
 			}
 		},
 		{
-			"id": "458",
+			"id": "456",
 			"label": "Tiny Hut",
 			"macro": {
 				"enable": false,
@@ -91660,7 +91272,7 @@
 			}
 		},
 		{
-			"id": "459",
+			"id": "457",
 			"label": "Wall of Fire",
 			"macro": {
 				"enable": false,
@@ -91837,7 +91449,7 @@
 			}
 		},
 		{
-			"id": "460",
+			"id": "458",
 			"label": "Wall of Force",
 			"macro": {
 				"enable": false,
@@ -92026,7 +91638,7 @@
 			}
 		},
 		{
-			"id": "461",
+			"id": "459",
 			"label": "Wall of Ice",
 			"macro": {
 				"enable": false,
@@ -92215,7 +91827,7 @@
 			}
 		},
 		{
-			"id": "462",
+			"id": "460",
 			"label": "Wall of Stone",
 			"macro": {
 				"enable": false,
@@ -92404,7 +92016,7 @@
 			}
 		},
 		{
-			"id": "463",
+			"id": "461",
 			"label": "Wall of Thorns",
 			"macro": {
 				"enable": false,
@@ -92593,7 +92205,7 @@
 			}
 		},
 		{
-			"id": "464",
+			"id": "462",
 			"label": "Weakening Breath",
 			"macro": {
 				"enable": false,
@@ -92769,7 +92381,7 @@
 			}
 		},
 		{
-			"id": "465",
+			"id": "463",
 			"label": "Web",
 			"macro": {
 				"enable": false,
@@ -92945,7 +92557,7 @@
 			}
 		},
 		{
-			"id": "466",
+			"id": "464",
 			"label": "Wind Wall",
 			"macro": {
 				"enable": false,
@@ -93122,7 +92734,7 @@
 			}
 		},
 		{
-			"id": "467",
+			"id": "465",
 			"label": "Wither and Bloom",
 			"macro": {
 				"enable": false,
@@ -93298,7 +92910,7 @@
 			}
 		},
 		{
-			"id": "468",
+			"id": "466",
 			"label": "Zone of Truth",
 			"macro": {
 				"enable": false,
@@ -93470,6 +93082,395 @@
 				"menu": "templatefx",
 				"name": "5e Animations",
 				"moduleVersion": "0.0.1",
+				"version": 1
+			}
+		},
+		{
+			"id": "467",
+			"label": "Illusion",
+			"macro": {
+				"enable": false,
+				"playWhen": "0"
+			},
+			"menu": "templatefx",
+			"primary": {
+				"video": {
+					"dbSection": "templatefx",
+					"menuType": "circle",
+					"animation": "outpulse",
+					"variant": "01",
+					"color": "purplepink",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"isMasked": false,
+					"isWait": false,
+					"occlusionAlpha": 0.5,
+					"occlusionMode": "3",
+					"opacity": 1,
+					"persistent": false,
+					"persistType": "sequencerground",
+					"playbackRate": 1,
+					"removeTemplate": false,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"rotate": 0,
+					"saturate": 0,
+					"scale": "1",
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"secondary": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": true,
+					"isWait": false,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1.5,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"soundOnly": {
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				}
+			},
+			"source": {
+				"enable": true,
+				"video": {
+					"dbSection": "static",
+					"menuType": "magicsign",
+					"animation": "illusion",
+					"variant": "runecomplete",
+					"color": "purple",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"isWait": true,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1,
+					"playbackRate": 3
+				}
+			},
+			"target": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"opacity": 1,
+					"persistent": false,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"unbindAlpha": false,
+					"unbindVisibility": false,
+					"zIndex": 1
+				}
+			},
+			"metaData": {
+				"label": "Illusion",
+				"menu": "templatefx",
+				"name": "5e Animations",
+				"moduleVersion": "0.0.3",
+				"version": 1
+			}
+		},
+		{
+			"id": "468",
+			"label": "Prismatic Wall",
+			"macro": {
+				"enable": false,
+				"playWhen": "0"
+			},
+			"menu": "templatefx",
+			"primary": {
+				"video": {
+					"dbSection": "templatefx",
+					"menuType": "circle",
+					"animation": "calllightning",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": true,
+					"customPath": "jb2a.moonbeam.01.no_pulse.rainbow"
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"isMasked": true,
+					"isWait": false,
+					"occlusionAlpha": 0.5,
+					"occlusionMode": "3",
+					"opacity": 1,
+					"persistent": true,
+					"persistType": "attachtemplate",
+					"playbackRate": 1,
+					"removeTemplate": false,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"rotate": 0,
+					"saturate": 0,
+					"scale": "1,9",
+					"tint": true,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1,
+					"saturation": 1
+				}
+			},
+			"secondary": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": true,
+					"isWait": false,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1.5,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"soundOnly": {
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				}
+			},
+			"source": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"isWait": true,
+					"opacity": 1,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"zIndex": 1
+				}
+			},
+			"target": {
+				"enable": false,
+				"video": {
+					"dbSection": "static",
+					"menuType": "spell",
+					"animation": "curewounds",
+					"variant": "01",
+					"color": "blue",
+					"enableCustom": false,
+					"customPath": ""
+				},
+				"sound": {
+					"enable": false,
+					"delay": 0,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"startTime": 0,
+					"volume": 0.75
+				},
+				"options": {
+					"addTokenWidth": false,
+					"anchor": "0.5",
+					"contrast": 0,
+					"delay": 0,
+					"elevation": 1000,
+					"fadeIn": 250,
+					"fadeOut": 500,
+					"isMasked": false,
+					"isRadius": false,
+					"opacity": 1,
+					"persistent": false,
+					"repeat": 1,
+					"repeatDelay": 250,
+					"saturate": 0,
+					"size": 1,
+					"tint": false,
+					"tintColor": "#FFFFFF",
+					"unbindAlpha": false,
+					"unbindVisibility": false,
+					"zIndex": 1
+				}
+			},
+			"advanced": {
+				"exactMatch": false,
+				"excludedTerms": [],
+				"excludedType": {
+					"enabled": false,
+					"path": "",
+					"property": ""
+				}
+			},
+			"metaData": {
+				"label": "Prismatic Wall",
+				"menu": "templatefx",
+				"name": "5e Animations",
+				"moduleVersion": "0.0.3",
 				"version": 1
 			}
 		}
@@ -98023,7 +98024,7 @@
 			}
 		},
 		{
-			"id": "500",
+			"id": "499",
 			"label": "Shield",
 			"menu": "aefx",
 			"primary": {
@@ -98165,7 +98166,7 @@
 			}
 		},
 		{
-			"id": "501",
+			"id": "500",
 			"label": "Warm Shield",
 			"menu": "aefx",
 			"primary": {

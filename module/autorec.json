@@ -95,7 +95,7 @@
 				"sound": {
 					"delay": 250,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -239,8 +239,8 @@
 				"label": "Axe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -448,8 +448,8 @@
 				"label": "Bash",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -661,8 +661,8 @@
 				"label": "Beak",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -870,8 +870,8 @@
 				"label": "Chain",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -940,7 +940,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -1084,8 +1084,8 @@
 				"label": "Club",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -1183,7 +1183,7 @@
 				"sound": {
 					"delay": 250,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -1327,8 +1327,8 @@
 				"label": "Dagger",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -1540,8 +1540,8 @@
 				"label": "Falchion",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -1610,7 +1610,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -1753,8 +1753,8 @@
 				"label": "Fist",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -1823,7 +1823,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -1967,8 +1967,8 @@
 				"label": "Flail",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -2066,7 +2066,7 @@
 				"sound": {
 					"delay": 250,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-multiple-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-multiple-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -2210,8 +2210,8 @@
 				"label": "Flurry of Blows",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -2419,8 +2419,8 @@
 				"label": "Fork",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -2489,7 +2489,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -2633,8 +2633,8 @@
 				"label": "Glaive",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -2732,7 +2732,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -2876,8 +2876,8 @@
 				"label": "Greataxe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -2975,7 +2975,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -3119,8 +3119,8 @@
 				"label": "Greatclub",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -3218,7 +3218,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -3362,8 +3362,8 @@
 				"label": "Greatsword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -3432,7 +3432,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -3576,8 +3576,8 @@
 				"label": "Halberd",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -3646,7 +3646,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -3790,8 +3790,8 @@
 				"label": "Hammer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -3889,7 +3889,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -4033,8 +4033,8 @@
 				"label": "Handaxe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -4103,7 +4103,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -4246,8 +4246,8 @@
 				"label": "Harpoon",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -4312,7 +4312,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -4455,8 +4455,8 @@
 				"label": "Hoof",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -4521,7 +4521,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -4664,8 +4664,8 @@
 				"label": "Hook",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -4734,7 +4734,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -4877,8 +4877,8 @@
 				"label": "Hooves",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -4947,7 +4947,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -5090,8 +5090,8 @@
 				"label": "Horn",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -5160,7 +5160,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -5304,8 +5304,8 @@
 				"label": "Lance",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -5374,7 +5374,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Laser/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Laser/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -5517,8 +5517,8 @@
 				"label": "Lasersword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -5616,7 +5616,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -5760,8 +5760,8 @@
 				"label": "Mace",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -5859,7 +5859,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -6003,8 +6003,8 @@
 				"label": "Maul",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -6102,7 +6102,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -6246,8 +6246,8 @@
 				"label": "Morningstar",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -6316,7 +6316,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -6460,8 +6460,8 @@
 				"label": "Pick",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -6530,7 +6530,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -6674,8 +6674,8 @@
 				"label": "Pike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -6714,7 +6714,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -6883,8 +6883,8 @@
 				"label": "Pincer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -7091,8 +7091,8 @@
 				"label": "Pseudopod",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -7190,7 +7190,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -7334,8 +7334,8 @@
 				"label": "Quarterstaff",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -7404,7 +7404,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -7547,8 +7547,8 @@
 				"label": "Ram",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -7646,7 +7646,7 @@
 				"sound": {
 					"delay": 1500,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -7790,8 +7790,8 @@
 				"label": "Rapier",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -7889,7 +7889,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -8033,8 +8033,8 @@
 				"label": "Scimitar",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -8241,8 +8241,8 @@
 				"label": "Scythe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -8311,7 +8311,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -8454,8 +8454,8 @@
 				"label": "Shillelagh",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -8553,7 +8553,7 @@
 				"sound": {
 					"delay": 350,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -8697,8 +8697,8 @@
 				"label": "Shortsword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -8796,7 +8796,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -8940,8 +8940,8 @@
 				"label": "Sickle",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -9039,7 +9039,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -9183,8 +9183,8 @@
 				"label": "Slam",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -9282,7 +9282,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -9426,8 +9426,8 @@
 				"label": "Spear",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -9492,7 +9492,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -9635,8 +9635,8 @@
 				"label": "Spike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -9701,7 +9701,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -9844,8 +9844,8 @@
 				"label": "Stab",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -9943,7 +9943,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -10087,8 +10087,8 @@
 				"label": "Staff",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -10157,7 +10157,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/slashing-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/slashing-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -10300,8 +10300,8 @@
 				"label": "Steel Wind Strike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -10370,7 +10370,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -10513,8 +10513,8 @@
 				"label": "Sting",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -10553,7 +10553,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -10722,8 +10722,8 @@
 				"label": "Stinger",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -10792,7 +10792,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -10935,8 +10935,8 @@
 				"label": "Stomp",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -11034,7 +11034,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -11178,8 +11178,8 @@
 				"label": "Sword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -11248,7 +11248,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -11391,8 +11391,8 @@
 				"label": "Tail",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -11490,7 +11490,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -11634,8 +11634,8 @@
 				"label": "Trident",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -11704,7 +11704,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -11847,8 +11847,8 @@
 				"label": "Tusk",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -11946,7 +11946,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -12090,8 +12090,8 @@
 				"label": "Unarmed Strike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -12160,7 +12160,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -12304,8 +12304,8 @@
 				"label": "Warhammer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -12519,8 +12519,8 @@
 				"label": "Whip",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -12589,7 +12589,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -12732,8 +12732,8 @@
 				"label": "Wing",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -12802,7 +12802,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Bludgeoning/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Bludgeoning/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -12945,8 +12945,8 @@
 				"label": "Wrench",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -13044,7 +13044,7 @@
 				"sound": {
 					"delay": 250,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -13188,8 +13188,8 @@
 				"label": "Yklwa",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -13407,8 +13407,8 @@
 				"label": "Acid Arrow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -13481,7 +13481,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -13624,8 +13624,8 @@
 				"label": "Acid Splash",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -13698,7 +13698,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -13841,8 +13841,8 @@
 				"label": "Alchemist's",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14057,8 +14057,8 @@
 				"label": "Antimatter Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14274,8 +14274,8 @@
 				"label": "Arcane Burst",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14461,8 +14461,8 @@
 				"label": "Beam",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14649,8 +14649,8 @@
 				"label": "Blood Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14723,7 +14723,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Fly-By/arrow-fly-by-4.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Fly-By/arrow-fly-by-4.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -14866,8 +14866,8 @@
 				"label": "Blowgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -14940,7 +14940,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -15083,8 +15083,8 @@
 				"label": "Bomb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -15157,7 +15157,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Impact/arrow-impact-7.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Impact/arrow-impact-7.mp3",
 					"startTime": 250,
 					"volume": 0.75,
 					"repeat": 1,
@@ -15300,8 +15300,8 @@
 				"label": "Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -15374,7 +15374,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Impact/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Impact/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -15518,8 +15518,8 @@
 				"label": "Bow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -15735,8 +15735,8 @@
 				"label": "Catapult",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -15953,8 +15953,8 @@
 				"label": "Chain Lightning",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -16170,8 +16170,8 @@
 				"label": "Chakram",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -16387,8 +16387,8 @@
 				"label": "Chaos Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -16604,8 +16604,8 @@
 				"label": "Chromatic Orb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -16791,8 +16791,8 @@
 				"label": "Contagion",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -16865,7 +16865,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Impact/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Impact/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -17009,8 +17009,8 @@
 				"label": "Crossbow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -17227,8 +17227,8 @@
 				"label": "Dart",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -17444,8 +17444,8 @@
 				"label": "Disintegrate",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -17632,8 +17632,8 @@
 				"label": "Draining Kiss",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -17706,7 +17706,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -17849,8 +17849,8 @@
 				"label": "Dynamite",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18066,8 +18066,8 @@
 				"label": "Eldritch Blast",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18251,8 +18251,8 @@
 				"label": "Feeblemind",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18468,8 +18468,8 @@
 				"label": "Finger of Death",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18686,8 +18686,8 @@
 				"label": "Fire Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18903,8 +18903,8 @@
 				"label": "Fire Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -18977,7 +18977,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -19120,8 +19120,8 @@
 				"label": "Fragmentation Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -19194,7 +19194,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -19337,8 +19337,8 @@
 				"label": "Gnomengarde Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -19524,8 +19524,8 @@
 				"label": "Grave Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -19598,7 +19598,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -19741,8 +19741,8 @@
 				"label": "Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -19815,7 +19815,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Combat/Ranged_Projectile/ranged-projectile-launch.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/ranged-projectile-launch.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -19958,8 +19958,8 @@
 				"label": "Grenade Launcher",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -20176,8 +20176,8 @@
 				"label": "Guiding Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -20393,8 +20393,8 @@
 				"label": "Gun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -20580,8 +20580,8 @@
 				"label": "Hurl Flame",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -20797,8 +20797,8 @@
 				"label": "Ice Knife",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -20994,7 +20994,7 @@
 				"sound": {
 					"delay": 750,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Slashing_Piercing/melee-impact-metal-2.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Slashing & Piercing/melee-impact-metal-2.mp3",
 					"startTime": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -21014,8 +21014,8 @@
 				"label": "Javelin",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -21088,7 +21088,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Laser/ranged-laser-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Ranged Laser/ranged-laser-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -21231,8 +21231,8 @@
 				"label": "Laser",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -21419,8 +21419,8 @@
 				"label": "Life Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -21636,8 +21636,8 @@
 				"label": "Life Transference",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -21854,8 +21854,8 @@
 				"label": "Lightning Lure",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -22072,8 +22072,8 @@
 				"label": "Magic Missile",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -22146,7 +22146,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -22289,8 +22289,8 @@
 				"label": "Magic Stone",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -22506,8 +22506,8 @@
 				"label": "Maze",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -22724,8 +22724,8 @@
 				"label": "Mind Sliver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -22941,8 +22941,8 @@
 				"label": "Mind Spike",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -23158,8 +23158,8 @@
 				"label": "Musket",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -23375,8 +23375,8 @@
 				"label": "Pistol",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -23593,8 +23593,8 @@
 				"label": "Poison Spray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -23778,8 +23778,8 @@
 				"label": "Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -23995,8 +23995,8 @@
 				"label": "Ray of Enfeeblement",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -24213,8 +24213,8 @@
 				"label": "Ray of Frost",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -24431,8 +24431,8 @@
 				"label": "Ray of Sickness",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -24648,8 +24648,8 @@
 				"label": "Revolver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -24865,8 +24865,8 @@
 				"label": "Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -25083,8 +25083,8 @@
 				"label": "Rock",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -25301,8 +25301,8 @@
 				"label": "Scorching Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -25518,8 +25518,8 @@
 				"label": "Shotgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -25735,8 +25735,8 @@
 				"label": "Siege Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -25809,7 +25809,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Fly-By/arrow-fly-by-4.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Fly-By/arrow-fly-by-4.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -25953,8 +25953,8 @@
 				"label": "Sling",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -26027,7 +26027,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Miss/melee-swing-1.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Miss/melee-swing-1.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -26170,8 +26170,8 @@
 				"label": "Smoke Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -26244,7 +26244,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Laser/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Laser/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -26387,8 +26387,8 @@
 				"label": "Sun Blade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -26605,8 +26605,8 @@
 				"label": "Tasha's Mind Whip",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -26823,8 +26823,8 @@
 				"label": "Telepathic Bond",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -27022,8 +27022,8 @@
 				"label": "Absorb Elements",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -27220,8 +27220,8 @@
 				"label": "Action Surge",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -27417,8 +27417,8 @@
 				"label": "Aid",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -27614,8 +27614,8 @@
 				"label": "Alarm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -27811,8 +27811,8 @@
 				"label": "Alter Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28008,8 +28008,8 @@
 				"label": "Animal Friendship",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28205,8 +28205,8 @@
 				"label": "Animal Messenger",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28401,8 +28401,8 @@
 				"label": "Animal Shapes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28598,8 +28598,8 @@
 				"label": "Animate Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28797,8 +28797,8 @@
 				"label": "Arcane Eye",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -28994,8 +28994,8 @@
 				"label": "Arcane Lock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -29191,8 +29191,8 @@
 				"label": "Arcane Recovery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -29389,8 +29389,8 @@
 				"label": "Armor of Agathys",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -29586,8 +29586,8 @@
 				"label": "Arms of Hadar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -29783,8 +29783,8 @@
 				"label": "Astral Projection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -29980,8 +29980,8 @@
 				"label": "Augury",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -30174,8 +30174,8 @@
 				"label": "Banishment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -30367,8 +30367,8 @@
 				"label": "Bardic Inspiration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -30564,8 +30564,8 @@
 				"label": "Beacon of Hope",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -30761,8 +30761,8 @@
 				"label": "Beast Sense",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -30958,8 +30958,8 @@
 				"label": "Bestow Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -31041,7 +31041,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -31185,8 +31185,8 @@
 				"label": "Bite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -31380,8 +31380,8 @@
 				"label": "Blade Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -31574,8 +31574,8 @@
 				"label": "Blessed Healer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -31771,8 +31771,8 @@
 				"label": "Blessed Strikes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -31965,8 +31965,8 @@
 				"label": "Blight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -32162,8 +32162,8 @@
 				"label": "Blindness/Deafness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -32359,8 +32359,8 @@
 				"label": "Blink",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -32556,8 +32556,8 @@
 				"label": "Blur",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -32752,8 +32752,8 @@
 				"label": "Booming Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -32949,8 +32949,8 @@
 				"label": "Cause Fear",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -33146,8 +33146,8 @@
 				"label": "Channel Divinity",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -33342,8 +33342,8 @@
 				"label": "Charm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -33539,8 +33539,8 @@
 				"label": "Charm Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -33735,8 +33735,8 @@
 				"label": "Children of the Night",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -33962,8 +33962,8 @@
 				"label": "Chill Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -34159,8 +34159,8 @@
 				"label": "Clairvoyance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -34213,7 +34213,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -34356,8 +34356,8 @@
 				"label": "Claw",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -34553,8 +34553,8 @@
 				"label": "Cleansing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -34780,8 +34780,8 @@
 				"label": "Command",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -34977,8 +34977,8 @@
 				"label": "Commune",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -35172,8 +35172,8 @@
 				"label": "Commune with Nature",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -35369,8 +35369,8 @@
 				"label": "Compelled Duel",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -35566,8 +35566,8 @@
 				"label": "Comprehend Languages",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -35760,8 +35760,8 @@
 				"label": "Compulsion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -35957,8 +35957,8 @@
 				"label": "Confusion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -36154,8 +36154,8 @@
 				"label": "Conjure",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -36351,8 +36351,8 @@
 				"label": "Constrict",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -36546,8 +36546,8 @@
 				"label": "Contact Other Plane",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -36740,8 +36740,8 @@
 				"label": "Contingency",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -36937,8 +36937,8 @@
 				"label": "Continual Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -37133,8 +37133,8 @@
 				"label": "Cordon of Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -37330,8 +37330,8 @@
 				"label": "Countercharm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -37527,8 +37527,8 @@
 				"label": "Counterspell",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -37724,8 +37724,8 @@
 				"label": "Create Food and Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -37918,8 +37918,8 @@
 				"label": "Create Undead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -38115,8 +38115,8 @@
 				"label": "Crown of Madness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -38343,8 +38343,8 @@
 				"label": "Cure Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -38539,8 +38539,8 @@
 				"label": "Dancing Lights",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -38737,8 +38737,8 @@
 				"label": "Darkvision",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -38934,8 +38934,8 @@
 				"label": "Death Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -39128,8 +39128,8 @@
 				"label": "Defense Roll",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -39325,8 +39325,8 @@
 				"label": "Detect Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -39522,8 +39522,8 @@
 				"label": "Disguise Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -39716,8 +39716,8 @@
 				"label": "Dispel Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -39913,8 +39913,8 @@
 				"label": "Dispel Magic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -40110,8 +40110,8 @@
 				"label": "Dissonant Whispers",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -40307,8 +40307,8 @@
 				"label": "Divination",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -40504,8 +40504,8 @@
 				"label": "Divine Favor",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -40701,8 +40701,8 @@
 				"label": "Divine Intervention",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -40898,8 +40898,8 @@
 				"label": "Divine Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -41095,8 +41095,8 @@
 				"label": "Divine Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -41289,8 +41289,8 @@
 				"label": "Divine Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -41486,8 +41486,8 @@
 				"label": "Dominate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -41683,8 +41683,8 @@
 				"label": "Dream",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -41880,8 +41880,8 @@
 				"label": "Dream of the Blue Veil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -42078,8 +42078,8 @@
 				"label": "Druidcraft",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -42276,8 +42276,8 @@
 				"label": "Eldritch Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -42473,8 +42473,8 @@
 				"label": "Elemental Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -42672,8 +42672,8 @@
 				"label": "Encode Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -42900,8 +42900,8 @@
 				"label": "Enhance Ability",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -43096,8 +43096,8 @@
 				"label": "Enlarge/Reduce",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -43294,8 +43294,8 @@
 				"label": "Ensnaring Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -43492,8 +43492,8 @@
 				"label": "Enthrall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -43689,8 +43689,8 @@
 				"label": "Etherealness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -43883,8 +43883,8 @@
 				"label": "Euphoria Breath",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -44111,8 +44111,8 @@
 				"label": "Expeditious Retreat",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -44308,8 +44308,8 @@
 				"label": "Extract Brain",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -44502,8 +44502,8 @@
 				"label": "Eyebite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -44699,8 +44699,8 @@
 				"label": "Faerie Fire",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -44896,8 +44896,8 @@
 				"label": "False Life",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -45093,8 +45093,8 @@
 				"label": "Feather Fall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -45290,8 +45290,8 @@
 				"label": "Feign Death",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -45487,8 +45487,8 @@
 				"label": "Find Familiar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -45684,8 +45684,8 @@
 				"label": "Find Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -45881,8 +45881,8 @@
 				"label": "Find the Path",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -46079,8 +46079,8 @@
 				"label": "Find Traps",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -46276,8 +46276,8 @@
 				"label": "Flame Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -46488,8 +46488,8 @@
 				"label": "Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -46685,8 +46685,8 @@
 				"label": "Flash of Genius",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -46881,8 +46881,8 @@
 				"label": "Flesh to Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -47078,8 +47078,8 @@
 				"label": "Floating Disk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -47275,8 +47275,8 @@
 				"label": "Fly",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -47321,7 +47321,7 @@
 					"repeatDelay": 250,
 					"startTime": 0,
 					"volume": 0.75,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*"
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*"
 				},
 				"options": {
 					"addTokenWidth": false,
@@ -47469,8 +47469,8 @@
 				"label": "Flyby",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -47669,8 +47669,8 @@
 				"label": "Foresight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -47866,8 +47866,8 @@
 				"label": "Freedom of Movement",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -48065,8 +48065,8 @@
 				"label": "Friends",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -48262,8 +48262,8 @@
 				"label": "Frightful Presence",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -48460,8 +48460,8 @@
 				"label": "Frostbite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -48657,8 +48657,8 @@
 				"label": "Gaseous Form",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -48854,8 +48854,8 @@
 				"label": "Gate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -49050,8 +49050,8 @@
 				"label": "Gaze",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -49245,8 +49245,8 @@
 				"label": "Geas",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -49442,8 +49442,8 @@
 				"label": "Gentle Repose",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -49638,8 +49638,8 @@
 				"label": "Giant Insect",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -49834,8 +49834,8 @@
 				"label": "Glare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -50031,8 +50031,8 @@
 				"label": "Glyph of Warding",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -50228,8 +50228,8 @@
 				"label": "Goodberry",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -50282,7 +50282,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -50425,8 +50425,8 @@
 				"label": "Gore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -50620,8 +50620,8 @@
 				"label": "Grasping Vine",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -50832,8 +50832,8 @@
 				"label": "Green-Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -51028,8 +51028,8 @@
 				"label": "Guardian of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -51221,8 +51221,8 @@
 				"label": "Guidance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -51415,8 +51415,8 @@
 				"label": "Gust",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -51613,8 +51613,8 @@
 				"label": "Hail of Thorns",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -51810,8 +51810,8 @@
 				"label": "Harm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -52007,8 +52007,8 @@
 				"label": "Haste",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -52211,8 +52211,8 @@
 				"label": "Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -52407,8 +52407,8 @@
 				"label": "Healing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -52633,8 +52633,8 @@
 				"label": "Healing Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -52830,8 +52830,8 @@
 				"label": "Heat Metal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -53027,8 +53027,8 @@
 				"label": "Hellish Rebuke",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -53225,8 +53225,8 @@
 				"label": "Heroes' Feast",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -53422,8 +53422,8 @@
 				"label": "Heroism",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -53619,8 +53619,8 @@
 				"label": "Hex",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -53820,8 +53820,8 @@
 				"label": "Hideous Laughter",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -54017,8 +54017,8 @@
 				"label": "Hold Monster",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -54215,8 +54215,8 @@
 				"label": "Hold Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -54411,8 +54411,8 @@
 				"label": "Horrifying Visage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -54638,8 +54638,8 @@
 				"label": "Hunter's Mark",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -54835,8 +54835,8 @@
 				"label": "Identify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -55032,8 +55032,8 @@
 				"label": "Illusory Script",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -55229,8 +55229,8 @@
 				"label": "Immolation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -55426,8 +55426,8 @@
 				"label": "Imprisonment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -55629,8 +55629,8 @@
 				"label": "Infestation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -55826,8 +55826,8 @@
 				"label": "Inflict Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -56023,8 +56023,8 @@
 				"label": "Intellect Fortress",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -56250,8 +56250,8 @@
 				"label": "Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -56447,8 +56447,8 @@
 				"label": "Irresistible Dance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -56675,8 +56675,8 @@
 				"label": "Jump",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -56872,8 +56872,8 @@
 				"label": "Knock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -57069,8 +57069,8 @@
 				"label": "Lay on Hands",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -57265,8 +57265,8 @@
 				"label": "Legend Lore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -57462,8 +57462,8 @@
 				"label": "Levitate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -57660,8 +57660,8 @@
 				"label": "Light",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -57857,8 +57857,8 @@
 				"label": "Lightning Arrow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -58054,8 +58054,8 @@
 				"label": "Locate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -58282,8 +58282,8 @@
 				"label": "Longstrider",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -58480,8 +58480,8 @@
 				"label": "Mage Hand",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -58677,8 +58677,8 @@
 				"label": "Magic Aura",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -58874,8 +58874,8 @@
 				"label": "Magic Mouth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -59071,8 +59071,8 @@
 				"label": "Magic Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -59270,8 +59270,8 @@
 				"label": "Meld into Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -59469,8 +59469,8 @@
 				"label": "Mending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -59667,8 +59667,8 @@
 				"label": "Message",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -59864,8 +59864,8 @@
 				"label": "Metamagic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -60061,8 +60061,8 @@
 				"label": "Mind Blank",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -60258,8 +60258,8 @@
 				"label": "Mirror Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -60454,8 +60454,8 @@
 				"label": "Mislead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -60649,8 +60649,8 @@
 				"label": "Modify Memory",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -60848,8 +60848,8 @@
 				"label": "Mold Earth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -61047,8 +61047,8 @@
 				"label": "Net",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -61244,8 +61244,8 @@
 				"label": "Nondetection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -61442,8 +61442,8 @@
 				"label": "Passwall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -61636,8 +61636,8 @@
 				"label": "Phantasmal Killer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -61833,8 +61833,8 @@
 				"label": "Phantom Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -62027,8 +62027,8 @@
 				"label": "Planar Ally",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -62221,8 +62221,8 @@
 				"label": "Plane Shift",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -62418,8 +62418,8 @@
 				"label": "Plant Growth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -62614,8 +62614,8 @@
 				"label": "Polymorph",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -62808,8 +62808,8 @@
 				"label": "Potion of",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63005,8 +63005,8 @@
 				"label": "Power Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63202,8 +63202,8 @@
 				"label": "Power Word Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63399,8 +63399,8 @@
 				"label": "Prayer of Healing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63597,8 +63597,8 @@
 				"label": "Prestidigitation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63794,8 +63794,8 @@
 				"label": "Primal Savagery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -63990,8 +63990,8 @@
 				"label": "Project Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -64187,8 +64187,8 @@
 				"label": "Protection from Energy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -64384,8 +64384,8 @@
 				"label": "Protection from Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -64581,8 +64581,8 @@
 				"label": "Protection from Poison",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -64778,8 +64778,8 @@
 				"label": "Rage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -64975,8 +64975,8 @@
 				"label": "Raise Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -65172,8 +65172,8 @@
 				"label": "Regenerate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -65366,8 +65366,8 @@
 				"label": "Reincarnate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -65563,8 +65563,8 @@
 				"label": "Remove Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -65757,8 +65757,8 @@
 				"label": "Resilient Sphere",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -65950,8 +65950,8 @@
 				"label": "Resistance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -66147,8 +66147,8 @@
 				"label": "Restoration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -66344,8 +66344,8 @@
 				"label": "Resurrection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -66541,8 +66541,8 @@
 				"label": "Revivify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -66738,8 +66738,8 @@
 				"label": "Rope Trick",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -66965,8 +66965,8 @@
 				"label": "Sacred Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -67162,8 +67162,8 @@
 				"label": "Sanctuary",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -67361,8 +67361,8 @@
 				"label": "Sapping Sting",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -67559,8 +67559,8 @@
 				"label": "Scrying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -67756,8 +67756,8 @@
 				"label": "Second Wind",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -67953,8 +67953,8 @@
 				"label": "See Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -68147,8 +68147,8 @@
 				"label": "Seeming",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -68344,8 +68344,8 @@
 				"label": "Sending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -68541,8 +68541,8 @@
 				"label": "Shadow of Moil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -68740,8 +68740,8 @@
 				"label": "Shape Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -68945,8 +68945,8 @@
 				"label": "Shield of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -69142,8 +69142,8 @@
 				"label": "Shocking Grasp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -69339,8 +69339,8 @@
 				"label": "Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -69536,8 +69536,8 @@
 				"label": "Snare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -69729,8 +69729,8 @@
 				"label": "Sneak Attack",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -69941,8 +69941,8 @@
 				"label": "Song of Rest",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -70141,8 +70141,8 @@
 				"label": "Spare the Dying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -70338,8 +70338,8 @@
 				"label": "Speak with Animals",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -70535,8 +70535,8 @@
 				"label": "Speak with Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -70732,8 +70732,8 @@
 				"label": "Speak with Plants",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -70928,8 +70928,8 @@
 				"label": "Spectral Fangs",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -71133,8 +71133,8 @@
 				"label": "Spider Climb",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -71330,8 +71330,8 @@
 				"label": "Spirit Shroud",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -71527,8 +71527,8 @@
 				"label": "Spiritual Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -71721,8 +71721,8 @@
 				"label": "Spore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -71948,8 +71948,8 @@
 				"label": "Stillness of Mind",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -72144,8 +72144,8 @@
 				"label": "Stone Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -72341,8 +72341,8 @@
 				"label": "Stoneskin",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -72543,8 +72543,8 @@
 				"label": "Suggestion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -72740,8 +72740,8 @@
 				"label": "Summon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -72936,8 +72936,8 @@
 				"label": "Swallow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73130,8 +73130,8 @@
 				"label": "Swift Quiver",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73326,8 +73326,8 @@
 				"label": "Symbol",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73380,7 +73380,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -73523,8 +73523,8 @@
 				"label": "Talon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73720,8 +73720,8 @@
 				"label": "Tasha's Otherworldly Guise",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73914,8 +73914,8 @@
 				"label": "Telekinesis",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -73968,7 +73968,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -74111,8 +74111,8 @@
 				"label": "Tentacle",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -74309,8 +74309,8 @@
 				"label": "Thaumaturgy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -74507,8 +74507,8 @@
 				"label": "Thunderclap",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -74704,8 +74704,8 @@
 				"label": "Time Stop",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -74930,8 +74930,8 @@
 				"label": "Toll the Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -74973,7 +74973,7 @@
 				},
 				"sound": {
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/Weapons/Melee_Natural/*",
+					"file": "modules/dnd5e-animations/assets/sounds/Combat/Melee Natural/*",
 					"delay": 0,
 					"repeat": 1,
 					"repeatDelay": 250,
@@ -75126,8 +75126,8 @@
 				"label": "Tongue",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -75324,8 +75324,8 @@
 				"label": "Tongues",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -75518,8 +75518,8 @@
 				"label": "Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -75712,8 +75712,8 @@
 				"label": "Tree Stride",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -75912,8 +75912,8 @@
 				"label": "True Seeing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -76111,8 +76111,8 @@
 				"label": "True Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -76308,8 +76308,8 @@
 				"label": "Unseen Servant",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -76521,8 +76521,8 @@
 				"label": "Unsettling Words",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -76718,8 +76718,8 @@
 				"label": "Vampiric Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -76922,8 +76922,8 @@
 				"label": "Vicious Mockery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -77116,8 +77116,8 @@
 				"label": "Vigilant Blessing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -77313,8 +77313,8 @@
 				"label": "Vortex Warp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -77510,8 +77510,8 @@
 				"label": "Wall of Light",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -77707,8 +77707,8 @@
 				"label": "Warding Bond",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -77904,8 +77904,8 @@
 				"label": "Water Breathing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -78101,8 +78101,8 @@
 				"label": "Water Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -78298,8 +78298,8 @@
 				"label": "Wild Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -78494,8 +78494,8 @@
 				"label": "Wind Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -78688,8 +78688,8 @@
 				"label": "Wish",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -78885,8 +78885,8 @@
 				"label": "Withering Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -79083,8 +79083,8 @@
 				"label": "Word of Radiance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -79283,8 +79283,8 @@
 				"label": "Zephyr Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -79464,8 +79464,8 @@
 				"label": "Acid Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -79640,8 +79640,8 @@
 				"label": "Aganazzar's Scorcher",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -79816,8 +79816,8 @@
 				"label": "Black Tentacles",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80007,8 +80007,8 @@
 				"label": "Blade Barrier",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80183,8 +80183,8 @@
 				"label": "Burning Hands",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80359,8 +80359,8 @@
 				"label": "Call Lightning",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80535,8 +80535,8 @@
 				"label": "Calm Emotions",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80711,8 +80711,8 @@
 				"label": "Caustic Brew",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -80886,8 +80886,8 @@
 				"label": "Circle of Death",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81062,8 +81062,8 @@
 				"label": "Cloud of Daggers",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81236,8 +81236,8 @@
 				"label": "Cloudkill",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81415,8 +81415,8 @@
 				"label": "Cold Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81591,8 +81591,8 @@
 				"label": "Color Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81767,8 +81767,8 @@
 				"label": "Cone of Cold",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -81941,8 +81941,8 @@
 				"label": "Confusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82117,8 +82117,8 @@
 				"label": "Control",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82293,8 +82293,8 @@
 				"label": "Create or Destroy Water",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82468,8 +82468,8 @@
 				"label": "Creation",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82644,8 +82644,8 @@
 				"label": "Crusader's Mantle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82820,8 +82820,8 @@
 				"label": "Darkness",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -82998,8 +82998,8 @@
 				"label": "Daylight",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -83174,8 +83174,8 @@
 				"label": "Destructive Wave",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -83351,8 +83351,8 @@
 				"label": "Earthquake",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -83527,8 +83527,8 @@
 				"label": "Entangle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -83703,8 +83703,8 @@
 				"label": "Fear",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -83882,8 +83882,8 @@
 				"label": "Fire Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84056,8 +84056,8 @@
 				"label": "Fire Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84232,8 +84232,8 @@
 				"label": "Flame Strike",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84408,8 +84408,8 @@
 				"label": "Flaming Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84584,8 +84584,8 @@
 				"label": "Fog Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84761,8 +84761,8 @@
 				"label": "Globe of Invulnerability",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -84938,8 +84938,8 @@
 				"label": "Grease",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85114,8 +85114,8 @@
 				"label": "Gust of Wind",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85289,8 +85289,8 @@
 				"label": "Hallow",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85464,8 +85464,8 @@
 				"label": "Hallucinatory Terrain",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85641,8 +85641,8 @@
 				"label": "Healing Spirit",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85817,8 +85817,8 @@
 				"label": "Hunger of Hadar",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -85995,8 +85995,8 @@
 				"label": "Hypnotic Pattern",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -86171,8 +86171,8 @@
 				"label": "Ice Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -86347,8 +86347,8 @@
 				"label": "Image",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -86522,8 +86522,8 @@
 				"label": "Incendiary Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -86697,8 +86697,8 @@
 				"label": "Insect Plague",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -86874,8 +86874,8 @@
 				"label": "Lightning Bolt",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87053,8 +87053,8 @@
 				"label": "Lightning Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87229,8 +87229,8 @@
 				"label": "Magic Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87404,8 +87404,8 @@
 				"label": "Mind Blast",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87595,8 +87595,8 @@
 				"label": "Minor Illusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87769,8 +87769,8 @@
 				"label": "Mirage Arcane",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -87945,8 +87945,8 @@
 				"label": "Moonbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -88120,8 +88120,8 @@
 				"label": "Move Earth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -88298,8 +88298,8 @@
 				"label": "Paralyzing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -88474,8 +88474,8 @@
 				"label": "Phantasmal Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -88652,8 +88652,8 @@
 				"label": "Poison Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -88826,8 +88826,8 @@
 				"label": "Prismatic Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89019,8 +89019,8 @@
 				"label": "Prismatic Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89194,8 +89194,8 @@
 				"label": "Programmed Illusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89370,8 +89370,8 @@
 				"label": "Purify Food and Drink",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89548,8 +89548,8 @@
 				"label": "Repulsion Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89724,8 +89724,8 @@
 				"label": "Rime's Binding Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -89900,8 +89900,8 @@
 				"label": "Shatter",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90076,8 +90076,8 @@
 				"label": "Sickening Radiance",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90253,8 +90253,8 @@
 				"label": "Silence",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90429,8 +90429,8 @@
 				"label": "Sleet Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90604,8 +90604,8 @@
 				"label": "Slow",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90782,8 +90782,8 @@
 				"label": "Slowing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -90958,8 +90958,8 @@
 				"label": "Spike Growth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -91134,8 +91134,8 @@
 				"label": "Stinking Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -91310,8 +91310,8 @@
 				"label": "Storm Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -91485,8 +91485,8 @@
 				"label": "Sunbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -91662,8 +91662,8 @@
 				"label": "Sunburst",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -91838,8 +91838,8 @@
 				"label": "Synaptic Static",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92013,8 +92013,8 @@
 				"label": "Teleportation Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92191,8 +92191,8 @@
 				"label": "Tiny Hut",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92368,8 +92368,8 @@
 				"label": "Wall of Fire",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92558,8 +92558,8 @@
 				"label": "Wall of Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92748,8 +92748,8 @@
 				"label": "Wall of Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -92938,8 +92938,8 @@
 				"label": "Wall of Stone",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -93128,8 +93128,8 @@
 				"label": "Wall of Thorns",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -93306,8 +93306,8 @@
 				"label": "Weakening Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -93482,8 +93482,8 @@
 				"label": "Web",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -93659,8 +93659,8 @@
 				"label": "Wind Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -93835,8 +93835,8 @@
 				"label": "Wither and Bloom",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94011,8 +94011,8 @@
 				"label": "Zone of Truth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -94045,7 +94045,7 @@
 						"repeatDelay": 350,
 						"startTime": 0,
 						"volume": 0.75,
-						"file": "modules/dnd5e-animations/assets/sounds/Weapons/Ranged_Arrow_Impact/arrow-impact-7.mp3"
+						"file": "modules/dnd5e-animations/assets/sounds/Combat/Arrow Impact/arrow-impact-7.mp3"
 					}
 				},
 				"preExplosion": {
@@ -94204,8 +94204,8 @@
 				"label": "Conjure Barrage",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94393,8 +94393,8 @@
 				"label": "Delayed Blast Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94497,8 +94497,8 @@
 				"label": "Dimension Door",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94597,8 +94597,8 @@
 				"label": "Far Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94787,8 +94787,8 @@
 				"label": "Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -94976,8 +94976,8 @@
 				"label": "Freezing Sphere",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95156,8 +95156,8 @@
 				"label": "Meteor Swarm",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95257,8 +95257,8 @@
 				"label": "Misty Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95445,8 +95445,8 @@
 				"label": "Sleep",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95545,8 +95545,8 @@
 				"label": "Starlight Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95645,8 +95645,8 @@
 				"label": "Teleport",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95745,8 +95745,8 @@
 				"label": "Thunder Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95795,8 +95795,8 @@
 				"label": "Thunderwave",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -95846,8 +95846,8 @@
 				"label": "Witch Bolt",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -96033,8 +96033,8 @@
 				"label": "Antilife Shell",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -96218,8 +96218,8 @@
 				"label": "Antimagic Field",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -96401,8 +96401,8 @@
 				"label": "Aura of",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -96584,8 +96584,8 @@
 				"label": "Aura of Annihilation",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -96776,8 +96776,8 @@
 				"label": "Aura of Vitality",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -96959,8 +96959,8 @@
 				"label": "Circle of Power",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -97144,8 +97144,8 @@
 				"label": "Detect Evil and Good",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -97329,8 +97329,8 @@
 				"label": "Detect Magic",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -97514,8 +97514,8 @@
 				"label": "Detect Poison and Disease",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -97699,8 +97699,8 @@
 				"label": "Holy Aura",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -97884,8 +97884,8 @@
 				"label": "Pass without Trace",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98079,8 +98079,8 @@
 				"label": "Radiant Consumption",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98264,8 +98264,8 @@
 				"label": "Spirit Guardians",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],
@@ -98393,8 +98393,8 @@
 				"label": "Abjuration Ward",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98522,8 +98522,8 @@
 				"label": "Bane",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98682,8 +98682,8 @@
 				"label": "Barkskin",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98812,8 +98812,8 @@
 				"label": "Bless",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -98960,8 +98960,8 @@
 				"label": "Charmed",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99093,8 +99093,8 @@
 				"label": "Chill Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99232,8 +99232,8 @@
 				"label": "Deafened",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99365,8 +99365,8 @@
 				"label": "Fire Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99504,8 +99504,8 @@
 				"label": "Frightened",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99643,8 +99643,8 @@
 				"label": "Grappled",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99782,8 +99782,8 @@
 				"label": "Incapacitated",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -99911,8 +99911,8 @@
 				"label": "Mage Armor",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100050,8 +100050,8 @@
 				"label": "Paralyzed",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100189,8 +100189,8 @@
 				"label": "Poisoned",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100328,8 +100328,8 @@
 				"label": "Prone",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100467,8 +100467,8 @@
 				"label": "Restrained",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100609,8 +100609,8 @@
 				"label": "Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100758,8 +100758,8 @@
 				"label": "Stunned",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -100897,8 +100897,8 @@
 				"label": "Unconscious",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		},
 		{
@@ -101030,8 +101030,8 @@
 				"label": "Warm Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.1.2",
+				"version": 3
 			}
 		}
 	],

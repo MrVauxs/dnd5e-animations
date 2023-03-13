@@ -13,6 +13,7 @@ fs.readFile("module/autorec.json", function (err, data) {
     }
 
     let passed = true;
+    const wildcards = [];
     Object.keys(json).forEach(function (key) {
         const array = json[key];
         if (Array.isArray(array)) {
@@ -30,16 +31,18 @@ fs.readFile("module/autorec.json", function (err, data) {
                         const path = item[itemKey].sound.file.replace("modules/dnd5e-animations", ".")
 
                         if (path.includes("*")) {
-                            // console.log("Skipping wildcard path: " + path)
+                            wildcards.push("Skipping wildcard path on " + item.label + ": " + path)
                         } else if (!fs.existsSync(path)) {
                             passed = false
-                            console.error("Error: autorec.json contains an entry with a sound file that doesn't exist: " + item.label + ", id: " + item.id + "\nPath: " + path)
+                            console.error("\nError: autorec.json contains an entry with a sound file that doesn't exist: " + item.label + ", id: " + item.id + "\nPath: " + path)
                         }
                     }
                 });
             });
         }
     });
+
+    console.log("\n" + wildcards.join("\n"))
 
     if (passed) {
         console.log("RESULT: autorec.json is valid.")

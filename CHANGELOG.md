@@ -1,3 +1,6 @@
+# 1.2.0
+- Added sounds, for real this time.
+
 # 1.1.1
 - Updated all animations due to a mismatch between the given autorec and sound files. As in, the autorec contained sounds that were not ready yet.
 

@@ -6,6 +6,7 @@ fs.readFile("module/autorec.json", function (err, data) {
         console.log("Error: " + err);
         process.exit(1);
     }
+
     var json = JSON.parse(data);
     if (json.length == 0) {
         core.error("Error: autorec.json is empty?!");
@@ -30,7 +31,9 @@ fs.readFile("module/autorec.json", function (err, data) {
 
     if (passed) {
         console.log("autorec.json is valid.")
+        process.exit(0)
     } else {
         core.setFailed("autorec.json is invalid.")
+        process.exit(1)
     }
 })

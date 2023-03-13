@@ -1,5 +1,4 @@
 var fs = require('fs');
-var core = require('@actions/core');
 
 fs.readFile("module/autorec.json", function (err, data) {
     if (err) {
@@ -9,7 +8,7 @@ fs.readFile("module/autorec.json", function (err, data) {
 
     var json = JSON.parse(data);
     if (json.length == 0) {
-        core.error("Error: autorec.json is empty?!");
+        console.error("Error: autorec.json is empty?!");
         process.exit(1);
     }
 
@@ -20,20 +19,33 @@ fs.readFile("module/autorec.json", function (err, data) {
             array.filter(function (item) {
                 if (item.metaData == null || Object.keys(item.metaData).length == 0) {
                     passed = false
-                    core.error("Error: autorec.json contains an entry without metaData: " + item.label + ", id: " + item.id);
+                    console.error("Error: autorec.json contains an entry without metaData: " + item.label + ", id: " + item.id);
                 } else if (item.metaData.name !== "5e Animations" || isNaN(item.metaData.version)) {
                     passed = false
-                    core.error("Error: autorec.json contains an entry with wrong metaData: " + item.label + ", id: " + item.id);
+                    console.error("Error: autorec.json contains an entry with wrong metaData: " + item.label + ", id: " + item.id);
                 }
+
+                Object.keys(item).forEach(function (itemKey) {
+                    if (item[itemKey]?.sound?.file?.includes("modules/dnd5e-animations")) {
+                        const path = item[itemKey].sound.file.replace("modules/dnd5e-animations", ".")
+
+                        if (path.includes("*")) {
+                            // console.log("Skipping wildcard path: " + path)
+                        } else if (!fs.existsSync(path)) {
+                            passed = false
+                            console.error("Error: autorec.json contains an entry with a sound file that doesn't exist: " + item.label + ", id: " + item.id + "\nPath: " + path)
+                        }
+                    }
+                });
             });
         }
     });
 
     if (passed) {
-        console.log("autorec.json is valid.")
+        console.log("RESULT: autorec.json is valid.")
         process.exit(0)
     } else {
-        core.setFailed("autorec.json is invalid.")
+        console.log("\n\n\nRESULT: autorec.json is invalid.")
         process.exit(1)
     }
 })

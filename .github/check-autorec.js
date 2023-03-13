@@ -1,4 +1,5 @@
 var fs = require('fs');
+var core = require('@actions/core');
 
 fs.readFile("module/autorec.json", function (err, data) {
     if (err) {
@@ -7,7 +8,7 @@ fs.readFile("module/autorec.json", function (err, data) {
     }
     var json = JSON.parse(data);
     if (json.length == 0) {
-        console.error("Error: autorec.json is empty?!");
+        core.setFailed("Error: autorec.json is empty?!");
         process.exit(1);
     }
 
@@ -18,10 +19,10 @@ fs.readFile("module/autorec.json", function (err, data) {
             array.filter(function (item) {
                 if (item.metaData == null || Object.keys(item.metaData).length == 0) {
                     passed = false
-                    console.error("Error: autorec.json contains an entry without metaData: " + item.label + ", id: " + item.id);
+                    core.setFailed("Error: autorec.json contains an entry without metaData: " + item.label + ", id: " + item.id);
                 } else if (item.metaData.name !== "5e Animations" || isNaN(item.metaData.version)) {
                     passed = false
-                    console.error("Error: autorec.json contains an entry with wrong metaData: " + item.label + ", id: " + item.id);
+                    core.setFailed("Error: autorec.json contains an entry with wrong metaData: " + item.label + ", id: " + item.id);
                 }
             });
         }

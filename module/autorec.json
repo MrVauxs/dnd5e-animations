@@ -101028,14 +101028,15 @@
 				}
 			},
 			"activeEffectType": "ontoken",
-			"metaDataTest": {
+			"metaData": {
 				"label": "Warm Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
 				"moduleVersion": "1.1.0",
 				"version": 1
 			}
-		}
+		},
+		{}
 	],
 	"version": 5
 }

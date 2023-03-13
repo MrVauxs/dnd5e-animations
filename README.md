@@ -59,6 +59,8 @@ Originally, the configurations for the animations started as a merge of availabl
 - Aike
 - Zamrod
 
+The sound effects are from Dota 2 created by Valve and are under the Creative Commons Attribution NonCommercial license (“CC BY-NC-SA”) and are not to be used for commercial purposes. 
+
 ## Feedback
 
 We hope this module makes you as a GM or DM or player happy. Please, if you find any issues or have ways this can be improved, leave your feedback at the [JB2A Discord server](https://jb2a.com/home/patreon-discord/).

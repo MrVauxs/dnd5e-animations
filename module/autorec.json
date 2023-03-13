@@ -53682,7 +53682,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/creatures/laughter.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Creatures/laughter.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,
@@ -76782,7 +76782,7 @@
 				"sound": {
 					"delay": 0,
 					"enable": true,
-					"file": "modules/dnd5e-animations/assets/sounds/creatures/laughter.mp3",
+					"file": "modules/dnd5e-animations/assets/sounds/Creatures/laughter.mp3",
 					"startTime": 0,
 					"volume": 0.75,
 					"repeat": 1,

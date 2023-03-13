@@ -33,6 +33,4 @@ fs.readFile("module/autorec.json", function (err, data) {
     } else {
         core.setFailed("autorec.json is invalid.")
     }
-
-    process.exit(0);
 })

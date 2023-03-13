@@ -4,8 +4,10 @@ on:
   pull_request:
     paths:
       - "module/autorec.json"
+      - ".github/check-autorec.js"
   push:
     paths:
+      - ".github/check-autorec.js"
       - "module/autorec.json"
 
 jobs:

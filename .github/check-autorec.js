@@ -16,7 +16,7 @@ fs.readFile("module/autorec.json", function (err, data) {
         const array = json[key];
         if (Array.isArray(array)) {
             array.filter(function (item) {
-                if (item.metaData == null) {
+                if (item.metaData == null || Object.keys(item.metaData).length == 0) {
                     passed = false
                     console.error("Error: autorec.json contains an entry without metaData: " + item.label + ", id: " + item.id);
                 } else if (item.metaData.name !== "5e Animations" || isNaN(item.metaData.version)) {

@@ -101028,7 +101028,7 @@
 				}
 			},
 			"activeEffectType": "ontoken",
-			"metaData": {
+			"metaDataTest": {
 				"label": "Warm Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
@@ -101037,6 +101037,5 @@
 			}
 		}
 	],
-	"version": 5,
-	"test": "test"
+	"version": 5
 }

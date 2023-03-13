@@ -239,8 +239,8 @@
 				"label": "Axe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -448,8 +448,8 @@
 				"label": "Bash",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -661,8 +661,8 @@
 				"label": "Beak",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -870,8 +870,8 @@
 				"label": "Chain",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -1084,8 +1084,8 @@
 				"label": "Club",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -1327,8 +1327,8 @@
 				"label": "Dagger",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -1540,8 +1540,8 @@
 				"label": "Falchion",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -1753,8 +1753,8 @@
 				"label": "Fist",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -1967,8 +1967,8 @@
 				"label": "Flail",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -2210,8 +2210,8 @@
 				"label": "Flurry of Blows",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -2419,8 +2419,8 @@
 				"label": "Fork",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -2633,8 +2633,8 @@
 				"label": "Glaive",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -2876,8 +2876,8 @@
 				"label": "Greataxe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -3119,8 +3119,8 @@
 				"label": "Greatclub",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -3362,8 +3362,8 @@
 				"label": "Greatsword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -3576,8 +3576,8 @@
 				"label": "Halberd",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -3790,8 +3790,8 @@
 				"label": "Hammer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -4033,8 +4033,8 @@
 				"label": "Handaxe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -4246,8 +4246,8 @@
 				"label": "Harpoon",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -4455,8 +4455,8 @@
 				"label": "Hoof",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -4664,8 +4664,8 @@
 				"label": "Hook",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -4877,8 +4877,8 @@
 				"label": "Hooves",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -5090,8 +5090,8 @@
 				"label": "Horn",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -5304,8 +5304,8 @@
 				"label": "Lance",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -5517,8 +5517,8 @@
 				"label": "Lasersword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -5760,8 +5760,8 @@
 				"label": "Mace",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -6003,8 +6003,8 @@
 				"label": "Maul",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -6246,8 +6246,8 @@
 				"label": "Morningstar",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -6460,8 +6460,8 @@
 				"label": "Pick",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -6674,8 +6674,8 @@
 				"label": "Pike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -6883,8 +6883,8 @@
 				"label": "Pincer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -7091,8 +7091,8 @@
 				"label": "Pseudopod",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -7334,8 +7334,8 @@
 				"label": "Quarterstaff",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -7547,8 +7547,8 @@
 				"label": "Ram",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -7790,8 +7790,8 @@
 				"label": "Rapier",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -8033,8 +8033,8 @@
 				"label": "Scimitar",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -8241,8 +8241,8 @@
 				"label": "Scythe",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -8454,8 +8454,8 @@
 				"label": "Shillelagh",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -8697,8 +8697,8 @@
 				"label": "Shortsword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -8940,8 +8940,8 @@
 				"label": "Sickle",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -9183,8 +9183,8 @@
 				"label": "Slam",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -9426,8 +9426,8 @@
 				"label": "Spear",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -9635,8 +9635,8 @@
 				"label": "Spike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -9844,8 +9844,8 @@
 				"label": "Stab",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -10087,8 +10087,8 @@
 				"label": "Staff",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -10300,8 +10300,8 @@
 				"label": "Steel Wind Strike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -10513,8 +10513,8 @@
 				"label": "Sting",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -10722,8 +10722,8 @@
 				"label": "Stinger",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -10935,8 +10935,8 @@
 				"label": "Stomp",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -11178,8 +11178,8 @@
 				"label": "Sword",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -11391,8 +11391,8 @@
 				"label": "Tail",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -11634,8 +11634,8 @@
 				"label": "Trident",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -11847,8 +11847,8 @@
 				"label": "Tusk",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -12090,8 +12090,8 @@
 				"label": "Unarmed Strike",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -12304,8 +12304,8 @@
 				"label": "Warhammer",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -12519,8 +12519,8 @@
 				"label": "Whip",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			},
 			"advanced": {
 				"exactMatch": false,
@@ -12741,8 +12741,8 @@
 				"label": "Wing",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -12954,8 +12954,8 @@
 				"label": "Wrench",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -13197,8 +13197,8 @@
 				"label": "Yklwa",
 				"menu": "melee",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -13416,8 +13416,8 @@
 				"label": "Acid Arrow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -13633,8 +13633,8 @@
 				"label": "Acid Splash",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -13850,8 +13850,8 @@
 				"label": "Alchemist's",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -14066,8 +14066,8 @@
 				"label": "Antimatter Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -14283,8 +14283,8 @@
 				"label": "Arcane Burst",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -14470,8 +14470,8 @@
 				"label": "Beam",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -14658,8 +14658,8 @@
 				"label": "Blood Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -14875,8 +14875,8 @@
 				"label": "Blowgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -15092,8 +15092,8 @@
 				"label": "Bomb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -15309,8 +15309,8 @@
 				"label": "Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -15527,8 +15527,8 @@
 				"label": "Bow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -15744,8 +15744,8 @@
 				"label": "Catapult",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -15962,8 +15962,8 @@
 				"label": "Chain Lightning",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -16179,8 +16179,8 @@
 				"label": "Chakram",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -16396,8 +16396,8 @@
 				"label": "Chaos Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -16613,8 +16613,8 @@
 				"label": "Chromatic Orb",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -16800,8 +16800,8 @@
 				"label": "Contagion",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -17018,8 +17018,8 @@
 				"label": "Crossbow",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -17236,8 +17236,8 @@
 				"label": "Dart",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -17453,8 +17453,8 @@
 				"label": "Disintegrate",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -17641,8 +17641,8 @@
 				"label": "Draining Kiss",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -17858,8 +17858,8 @@
 				"label": "Dynamite",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -18075,8 +18075,8 @@
 				"label": "Eldritch Blast",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -18260,8 +18260,8 @@
 				"label": "Feeblemind",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -18477,8 +18477,8 @@
 				"label": "Finger of Death",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -18695,8 +18695,8 @@
 				"label": "Fire Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -18912,8 +18912,8 @@
 				"label": "Fire Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -19129,8 +19129,8 @@
 				"label": "Fragmentation Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -19346,8 +19346,8 @@
 				"label": "Gnomengarde Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -19533,8 +19533,8 @@
 				"label": "Grave Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -19750,8 +19750,8 @@
 				"label": "Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -19967,8 +19967,8 @@
 				"label": "Grenade Launcher",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -20185,8 +20185,8 @@
 				"label": "Guiding Bolt",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -20402,8 +20402,8 @@
 				"label": "Gun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -20589,8 +20589,8 @@
 				"label": "Hurl Flame",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -20806,8 +20806,8 @@
 				"label": "Ice Knife",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -21023,8 +21023,8 @@
 				"label": "Javelin",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -21240,8 +21240,8 @@
 				"label": "Laser",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -21428,8 +21428,8 @@
 				"label": "Life Drain",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -21645,8 +21645,8 @@
 				"label": "Life Transference",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -21863,8 +21863,8 @@
 				"label": "Lightning Lure",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -22081,8 +22081,8 @@
 				"label": "Magic Missile",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -22298,8 +22298,8 @@
 				"label": "Magic Stone",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -22515,8 +22515,8 @@
 				"label": "Maze",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -22733,8 +22733,8 @@
 				"label": "Mind Sliver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -22950,8 +22950,8 @@
 				"label": "Mind Spike",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -23167,8 +23167,8 @@
 				"label": "Musket",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -23384,8 +23384,8 @@
 				"label": "Pistol",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -23602,8 +23602,8 @@
 				"label": "Poison Spray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -23787,8 +23787,8 @@
 				"label": "Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -24004,8 +24004,8 @@
 				"label": "Ray of Enfeeblement",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -24222,8 +24222,8 @@
 				"label": "Ray of Frost",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -24440,8 +24440,8 @@
 				"label": "Ray of Sickness",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -24657,8 +24657,8 @@
 				"label": "Revolver",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -24874,8 +24874,8 @@
 				"label": "Rifle",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -25092,8 +25092,8 @@
 				"label": "Rock",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -25310,8 +25310,8 @@
 				"label": "Scorching Ray",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -25527,8 +25527,8 @@
 				"label": "Shotgun",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -25744,8 +25744,8 @@
 				"label": "Siege Boulder",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -25962,8 +25962,8 @@
 				"label": "Sling",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -26179,8 +26179,8 @@
 				"label": "Smoke Grenade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -26396,8 +26396,8 @@
 				"label": "Sun Blade",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -26614,8 +26614,8 @@
 				"label": "Tasha's Mind Whip",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -26832,8 +26832,8 @@
 				"label": "Telepathic Bond",
 				"menu": "range",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -27031,8 +27031,8 @@
 				"label": "Absorb Elements",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -27229,8 +27229,8 @@
 				"label": "Action Surge",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -27426,8 +27426,8 @@
 				"label": "Aid",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -27623,8 +27623,8 @@
 				"label": "Alarm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -27820,8 +27820,8 @@
 				"label": "Alter Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -28017,8 +28017,8 @@
 				"label": "Animal Friendship",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -28214,8 +28214,8 @@
 				"label": "Animal Messenger",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -28410,8 +28410,8 @@
 				"label": "Animal Shapes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -28607,8 +28607,8 @@
 				"label": "Animate Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -28806,8 +28806,8 @@
 				"label": "Arcane Eye",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29003,8 +29003,8 @@
 				"label": "Arcane Lock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29200,8 +29200,8 @@
 				"label": "Arcane Recovery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29398,8 +29398,8 @@
 				"label": "Armor of Agathys",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29595,8 +29595,8 @@
 				"label": "Arms of Hadar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29792,8 +29792,8 @@
 				"label": "Astral Projection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -29989,8 +29989,8 @@
 				"label": "Augury",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -30183,8 +30183,8 @@
 				"label": "Banishment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -30376,8 +30376,8 @@
 				"label": "Bardic Inspiration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -30573,8 +30573,8 @@
 				"label": "Beacon of Hope",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -30770,8 +30770,8 @@
 				"label": "Beast Sense",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -30967,8 +30967,8 @@
 				"label": "Bestow Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -31194,8 +31194,8 @@
 				"label": "Bite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -31389,8 +31389,8 @@
 				"label": "Blade Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -31583,8 +31583,8 @@
 				"label": "Blessed Healer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -31780,8 +31780,8 @@
 				"label": "Blessed Strikes",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -31974,8 +31974,8 @@
 				"label": "Blight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -32171,8 +32171,8 @@
 				"label": "Blindness/Deafness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -32368,8 +32368,8 @@
 				"label": "Blink",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -32565,8 +32565,8 @@
 				"label": "Blur",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -32761,8 +32761,8 @@
 				"label": "Booming Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -32958,8 +32958,8 @@
 				"label": "Cause Fear",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -33155,8 +33155,8 @@
 				"label": "Channel Divinity",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -33351,8 +33351,8 @@
 				"label": "Charm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -33548,8 +33548,8 @@
 				"label": "Charm Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -33744,8 +33744,8 @@
 				"label": "Children of the Night",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -33971,8 +33971,8 @@
 				"label": "Chill Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -34168,8 +34168,8 @@
 				"label": "Clairvoyance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -34365,8 +34365,8 @@
 				"label": "Claw",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -34562,8 +34562,8 @@
 				"label": "Cleansing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -34789,8 +34789,8 @@
 				"label": "Command",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -34986,8 +34986,8 @@
 				"label": "Commune",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -35181,8 +35181,8 @@
 				"label": "Commune with Nature",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -35378,8 +35378,8 @@
 				"label": "Compelled Duel",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -35575,8 +35575,8 @@
 				"label": "Comprehend Languages",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -35769,8 +35769,8 @@
 				"label": "Compulsion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -35966,8 +35966,8 @@
 				"label": "Confusion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -36163,8 +36163,8 @@
 				"label": "Conjure",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -36360,8 +36360,8 @@
 				"label": "Constrict",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -36555,8 +36555,8 @@
 				"label": "Contact Other Plane",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -36749,8 +36749,8 @@
 				"label": "Contingency",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -36946,8 +36946,8 @@
 				"label": "Continual Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -37142,8 +37142,8 @@
 				"label": "Cordon of Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -37339,8 +37339,8 @@
 				"label": "Countercharm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -37536,8 +37536,8 @@
 				"label": "Counterspell",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -37733,8 +37733,8 @@
 				"label": "Create Food and Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -37927,8 +37927,8 @@
 				"label": "Create Undead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -38124,8 +38124,8 @@
 				"label": "Crown of Madness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -38352,8 +38352,8 @@
 				"label": "Cure Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -38548,8 +38548,8 @@
 				"label": "Dancing Lights",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -38746,8 +38746,8 @@
 				"label": "Darkvision",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -38943,8 +38943,8 @@
 				"label": "Death Ward",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -39137,8 +39137,8 @@
 				"label": "Defense Roll",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -39334,8 +39334,8 @@
 				"label": "Detect Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -39531,8 +39531,8 @@
 				"label": "Disguise Self",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -39725,8 +39725,8 @@
 				"label": "Dispel Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -39922,8 +39922,8 @@
 				"label": "Dispel Magic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -40119,8 +40119,8 @@
 				"label": "Dissonant Whispers",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -40316,8 +40316,8 @@
 				"label": "Divination",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -40513,8 +40513,8 @@
 				"label": "Divine Favor",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -40710,8 +40710,8 @@
 				"label": "Divine Intervention",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -40907,8 +40907,8 @@
 				"label": "Divine Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -41104,8 +41104,8 @@
 				"label": "Divine Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -41298,8 +41298,8 @@
 				"label": "Divine Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -41495,8 +41495,8 @@
 				"label": "Dominate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -41692,8 +41692,8 @@
 				"label": "Dream",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -41889,8 +41889,8 @@
 				"label": "Dream of the Blue Veil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -42087,8 +42087,8 @@
 				"label": "Druidcraft",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -42285,8 +42285,8 @@
 				"label": "Eldritch Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -42482,8 +42482,8 @@
 				"label": "Elemental Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -42681,8 +42681,8 @@
 				"label": "Encode Thoughts",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -42909,8 +42909,8 @@
 				"label": "Enhance Ability",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -43105,8 +43105,8 @@
 				"label": "Enlarge/Reduce",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -43303,8 +43303,8 @@
 				"label": "Ensnaring Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -43501,8 +43501,8 @@
 				"label": "Enthrall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -43698,8 +43698,8 @@
 				"label": "Etherealness",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -43892,8 +43892,8 @@
 				"label": "Euphoria Breath",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -44120,8 +44120,8 @@
 				"label": "Expeditious Retreat",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -44317,8 +44317,8 @@
 				"label": "Extract Brain",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -44511,8 +44511,8 @@
 				"label": "Eyebite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -44708,8 +44708,8 @@
 				"label": "Faerie Fire",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -44905,8 +44905,8 @@
 				"label": "False Life",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -45102,8 +45102,8 @@
 				"label": "Feather Fall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -45299,8 +45299,8 @@
 				"label": "Feign Death",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -45496,8 +45496,8 @@
 				"label": "Find Familiar",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -45693,8 +45693,8 @@
 				"label": "Find Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -45890,8 +45890,8 @@
 				"label": "Find the Path",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -46088,8 +46088,8 @@
 				"label": "Find Traps",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -46285,8 +46285,8 @@
 				"label": "Flame Arrows",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -46497,8 +46497,8 @@
 				"label": "Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -46694,8 +46694,8 @@
 				"label": "Flash of Genius",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -46890,8 +46890,8 @@
 				"label": "Flesh to Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -47087,8 +47087,8 @@
 				"label": "Floating Disk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -47284,8 +47284,8 @@
 				"label": "Fly",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -47478,8 +47478,8 @@
 				"label": "Flyby",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -47678,8 +47678,8 @@
 				"label": "Foresight",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -47875,8 +47875,8 @@
 				"label": "Freedom of Movement",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -48074,8 +48074,8 @@
 				"label": "Friends",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -48271,8 +48271,8 @@
 				"label": "Frightful Presence",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -48469,8 +48469,8 @@
 				"label": "Frostbite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -48666,8 +48666,8 @@
 				"label": "Gaseous Form",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -48863,8 +48863,8 @@
 				"label": "Gate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -49059,8 +49059,8 @@
 				"label": "Gaze",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -49254,8 +49254,8 @@
 				"label": "Geas",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -49451,8 +49451,8 @@
 				"label": "Gentle Repose",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -49647,8 +49647,8 @@
 				"label": "Giant Insect",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -49843,8 +49843,8 @@
 				"label": "Glare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -50040,8 +50040,8 @@
 				"label": "Glyph of Warding",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -50237,8 +50237,8 @@
 				"label": "Goodberry",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -50434,8 +50434,8 @@
 				"label": "Gore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -50629,8 +50629,8 @@
 				"label": "Grasping Vine",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -50841,8 +50841,8 @@
 				"label": "Green-Flame Blade",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -51037,8 +51037,8 @@
 				"label": "Guardian of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -51230,8 +51230,8 @@
 				"label": "Guidance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -51424,8 +51424,8 @@
 				"label": "Gust",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -51622,8 +51622,8 @@
 				"label": "Hail of Thorns",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -51819,8 +51819,8 @@
 				"label": "Harm",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -52016,8 +52016,8 @@
 				"label": "Haste",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -52220,8 +52220,8 @@
 				"label": "Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -52416,8 +52416,8 @@
 				"label": "Healing Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -52642,8 +52642,8 @@
 				"label": "Healing Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -52839,8 +52839,8 @@
 				"label": "Heat Metal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -53036,8 +53036,8 @@
 				"label": "Hellish Rebuke",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -53234,8 +53234,8 @@
 				"label": "Heroes' Feast",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -53431,8 +53431,8 @@
 				"label": "Heroism",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -53628,8 +53628,8 @@
 				"label": "Hex",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -53829,8 +53829,8 @@
 				"label": "Hideous Laughter",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -54026,8 +54026,8 @@
 				"label": "Hold Monster",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -54224,8 +54224,8 @@
 				"label": "Hold Person",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -54420,8 +54420,8 @@
 				"label": "Horrifying Visage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -54647,8 +54647,8 @@
 				"label": "Hunter's Mark",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -54844,8 +54844,8 @@
 				"label": "Identify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -55041,8 +55041,8 @@
 				"label": "Illusory Script",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -55238,8 +55238,8 @@
 				"label": "Immolation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -55435,8 +55435,8 @@
 				"label": "Imprisonment",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -55638,8 +55638,8 @@
 				"label": "Infestation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -55835,8 +55835,8 @@
 				"label": "Inflict Wounds",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -56032,8 +56032,8 @@
 				"label": "Intellect Fortress",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -56259,8 +56259,8 @@
 				"label": "Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -56456,8 +56456,8 @@
 				"label": "Irresistible Dance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -56684,8 +56684,8 @@
 				"label": "Jump",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -56881,8 +56881,8 @@
 				"label": "Knock",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -57078,8 +57078,8 @@
 				"label": "Lay on Hands",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -57274,8 +57274,8 @@
 				"label": "Legend Lore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -57471,8 +57471,8 @@
 				"label": "Levitate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -57669,8 +57669,8 @@
 				"label": "Light",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -57866,8 +57866,8 @@
 				"label": "Lightning Arrow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -58063,8 +58063,8 @@
 				"label": "Locate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -58291,8 +58291,8 @@
 				"label": "Longstrider",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -58489,8 +58489,8 @@
 				"label": "Mage Hand",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -58686,8 +58686,8 @@
 				"label": "Magic Aura",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -58883,8 +58883,8 @@
 				"label": "Magic Mouth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -59080,8 +59080,8 @@
 				"label": "Magic Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -59279,8 +59279,8 @@
 				"label": "Meld into Stone",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -59478,8 +59478,8 @@
 				"label": "Mending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -59676,8 +59676,8 @@
 				"label": "Message",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -59873,8 +59873,8 @@
 				"label": "Metamagic",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -60070,8 +60070,8 @@
 				"label": "Mind Blank",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -60267,8 +60267,8 @@
 				"label": "Mirror Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -60463,8 +60463,8 @@
 				"label": "Mislead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -60658,8 +60658,8 @@
 				"label": "Modify Memory",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -60857,8 +60857,8 @@
 				"label": "Mold Earth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -61056,8 +61056,8 @@
 				"label": "Net",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -61253,8 +61253,8 @@
 				"label": "Nondetection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -61451,8 +61451,8 @@
 				"label": "Passwall",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -61645,8 +61645,8 @@
 				"label": "Phantasmal Killer",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -61842,8 +61842,8 @@
 				"label": "Phantom Steed",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -62036,8 +62036,8 @@
 				"label": "Planar Ally",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -62230,8 +62230,8 @@
 				"label": "Plane Shift",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -62427,8 +62427,8 @@
 				"label": "Plant Growth",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -62623,8 +62623,8 @@
 				"label": "Polymorph",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -62817,8 +62817,8 @@
 				"label": "Potion of",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63014,8 +63014,8 @@
 				"label": "Power Word",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63211,8 +63211,8 @@
 				"label": "Power Word Heal",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63408,8 +63408,8 @@
 				"label": "Prayer of Healing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63606,8 +63606,8 @@
 				"label": "Prestidigitation",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63803,8 +63803,8 @@
 				"label": "Primal Savagery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -63999,8 +63999,8 @@
 				"label": "Project Image",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -64196,8 +64196,8 @@
 				"label": "Protection from Energy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -64393,8 +64393,8 @@
 				"label": "Protection from Evil and Good",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -64590,8 +64590,8 @@
 				"label": "Protection from Poison",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -64787,8 +64787,8 @@
 				"label": "Rage",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -64984,8 +64984,8 @@
 				"label": "Raise Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -65181,8 +65181,8 @@
 				"label": "Regenerate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -65375,8 +65375,8 @@
 				"label": "Reincarnate",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -65572,8 +65572,8 @@
 				"label": "Remove Curse",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -65766,8 +65766,8 @@
 				"label": "Resilient Sphere",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -65959,8 +65959,8 @@
 				"label": "Resistance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -66156,8 +66156,8 @@
 				"label": "Restoration",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -66353,8 +66353,8 @@
 				"label": "Resurrection",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -66550,8 +66550,8 @@
 				"label": "Revivify",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -66747,8 +66747,8 @@
 				"label": "Rope Trick",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -66974,8 +66974,8 @@
 				"label": "Sacred Flame",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -67171,8 +67171,8 @@
 				"label": "Sanctuary",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -67370,8 +67370,8 @@
 				"label": "Sapping Sting",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -67568,8 +67568,8 @@
 				"label": "Scrying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -67765,8 +67765,8 @@
 				"label": "Second Wind",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -67962,8 +67962,8 @@
 				"label": "See Invisibility",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -68156,8 +68156,8 @@
 				"label": "Seeming",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -68353,8 +68353,8 @@
 				"label": "Sending",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -68550,8 +68550,8 @@
 				"label": "Shadow of Moil",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -68749,8 +68749,8 @@
 				"label": "Shape Water",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -68954,8 +68954,8 @@
 				"label": "Shield of Faith",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -69151,8 +69151,8 @@
 				"label": "Shocking Grasp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -69348,8 +69348,8 @@
 				"label": "Smite",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -69545,8 +69545,8 @@
 				"label": "Snare",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -69738,8 +69738,8 @@
 				"label": "Sneak Attack",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -69950,8 +69950,8 @@
 				"label": "Song of Rest",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -70150,8 +70150,8 @@
 				"label": "Spare the Dying",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -70347,8 +70347,8 @@
 				"label": "Speak with Animals",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -70544,8 +70544,8 @@
 				"label": "Speak with Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -70741,8 +70741,8 @@
 				"label": "Speak with Plants",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -70937,8 +70937,8 @@
 				"label": "Spectral Fangs",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -71142,8 +71142,8 @@
 				"label": "Spider Climb",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -71339,8 +71339,8 @@
 				"label": "Spirit Shroud",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -71536,8 +71536,8 @@
 				"label": "Spiritual Weapon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -71730,8 +71730,8 @@
 				"label": "Spore",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -71957,8 +71957,8 @@
 				"label": "Stillness of Mind",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -72153,8 +72153,8 @@
 				"label": "Stone Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -72350,8 +72350,8 @@
 				"label": "Stoneskin",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -72552,8 +72552,8 @@
 				"label": "Suggestion",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -72749,8 +72749,8 @@
 				"label": "Summon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -72945,8 +72945,8 @@
 				"label": "Swallow",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -73139,8 +73139,8 @@
 				"label": "Swift Quiver",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -73335,8 +73335,8 @@
 				"label": "Symbol",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -73532,8 +73532,8 @@
 				"label": "Talon",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -73729,8 +73729,8 @@
 				"label": "Tasha's Otherworldly Guise",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -73923,8 +73923,8 @@
 				"label": "Telekinesis",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -74120,8 +74120,8 @@
 				"label": "Tentacle",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -74318,8 +74318,8 @@
 				"label": "Thaumaturgy",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -74516,8 +74516,8 @@
 				"label": "Thunderclap",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -74713,8 +74713,8 @@
 				"label": "Time Stop",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -74939,8 +74939,8 @@
 				"label": "Toll the Dead",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -75135,8 +75135,8 @@
 				"label": "Tongue",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -75333,8 +75333,8 @@
 				"label": "Tongues",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -75527,8 +75527,8 @@
 				"label": "Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -75721,8 +75721,8 @@
 				"label": "Tree Stride",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -75921,8 +75921,8 @@
 				"label": "True Seeing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -76120,8 +76120,8 @@
 				"label": "True Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -76317,8 +76317,8 @@
 				"label": "Unseen Servant",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -76530,8 +76530,8 @@
 				"label": "Unsettling Words",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -76727,8 +76727,8 @@
 				"label": "Vampiric Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -76931,8 +76931,8 @@
 				"label": "Vicious Mockery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -77125,8 +77125,8 @@
 				"label": "Vigilant Blessing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -77322,8 +77322,8 @@
 				"label": "Vortex Warp",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -77519,8 +77519,8 @@
 				"label": "Wall of Light",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -77716,8 +77716,8 @@
 				"label": "Warding Bond",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -77913,8 +77913,8 @@
 				"label": "Water Breathing",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -78110,8 +78110,8 @@
 				"label": "Water Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -78307,8 +78307,8 @@
 				"label": "Wild Shape",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -78503,8 +78503,8 @@
 				"label": "Wind Walk",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -78697,8 +78697,8 @@
 				"label": "Wish",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -78894,8 +78894,8 @@
 				"label": "Withering Touch",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -79092,8 +79092,8 @@
 				"label": "Word of Radiance",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -79292,8 +79292,8 @@
 				"label": "Zephyr Strike",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -79473,8 +79473,8 @@
 				"label": "Acid Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -79649,8 +79649,8 @@
 				"label": "Aganazzar's Scorcher",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -79825,8 +79825,8 @@
 				"label": "Black Tentacles",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80016,8 +80016,8 @@
 				"label": "Blade Barrier",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80192,8 +80192,8 @@
 				"label": "Burning Hands",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80368,8 +80368,8 @@
 				"label": "Call Lightning",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80544,8 +80544,8 @@
 				"label": "Calm Emotions",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80720,8 +80720,8 @@
 				"label": "Caustic Brew",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -80895,8 +80895,8 @@
 				"label": "Circle of Death",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81071,8 +81071,8 @@
 				"label": "Cloud of Daggers",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81245,8 +81245,8 @@
 				"label": "Cloudkill",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81424,8 +81424,8 @@
 				"label": "Cold Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81600,8 +81600,8 @@
 				"label": "Color Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81776,8 +81776,8 @@
 				"label": "Cone of Cold",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -81950,8 +81950,8 @@
 				"label": "Confusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -82126,8 +82126,8 @@
 				"label": "Control",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -82302,8 +82302,8 @@
 				"label": "Create or Destroy Water",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -82477,8 +82477,8 @@
 				"label": "Creation",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -82653,8 +82653,8 @@
 				"label": "Crusader's Mantle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -82829,8 +82829,8 @@
 				"label": "Darkness",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83007,8 +83007,8 @@
 				"label": "Daylight",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83183,8 +83183,8 @@
 				"label": "Destructive Wave",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83360,8 +83360,8 @@
 				"label": "Earthquake",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83536,8 +83536,8 @@
 				"label": "Entangle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83712,8 +83712,8 @@
 				"label": "Fear",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -83891,8 +83891,8 @@
 				"label": "Fire Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84065,8 +84065,8 @@
 				"label": "Fire Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84241,8 +84241,8 @@
 				"label": "Flame Strike",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84417,8 +84417,8 @@
 				"label": "Flaming Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84593,8 +84593,8 @@
 				"label": "Fog Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84770,8 +84770,8 @@
 				"label": "Globe of Invulnerability",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -84947,8 +84947,8 @@
 				"label": "Grease",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -85123,8 +85123,8 @@
 				"label": "Gust of Wind",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -85298,8 +85298,8 @@
 				"label": "Hallow",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -85473,8 +85473,8 @@
 				"label": "Hallucinatory Terrain",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -85650,8 +85650,8 @@
 				"label": "Healing Spirit",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -85826,8 +85826,8 @@
 				"label": "Hunger of Hadar",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86004,8 +86004,8 @@
 				"label": "Hypnotic Pattern",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86180,8 +86180,8 @@
 				"label": "Ice Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86356,8 +86356,8 @@
 				"label": "Image",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86531,8 +86531,8 @@
 				"label": "Incendiary Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86706,8 +86706,8 @@
 				"label": "Insect Plague",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -86883,8 +86883,8 @@
 				"label": "Lightning Bolt",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87062,8 +87062,8 @@
 				"label": "Lightning Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87238,8 +87238,8 @@
 				"label": "Magic Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87413,8 +87413,8 @@
 				"label": "Mind Blast",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87604,8 +87604,8 @@
 				"label": "Minor Illusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87778,8 +87778,8 @@
 				"label": "Mirage Arcane",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -87954,8 +87954,8 @@
 				"label": "Moonbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -88129,8 +88129,8 @@
 				"label": "Move Earth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -88307,8 +88307,8 @@
 				"label": "Paralyzing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -88483,8 +88483,8 @@
 				"label": "Phantasmal Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -88661,8 +88661,8 @@
 				"label": "Poison Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -88835,8 +88835,8 @@
 				"label": "Prismatic Spray",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89028,8 +89028,8 @@
 				"label": "Prismatic Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89203,8 +89203,8 @@
 				"label": "Programmed Illusion",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89379,8 +89379,8 @@
 				"label": "Purify Food and Drink",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89557,8 +89557,8 @@
 				"label": "Repulsion Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89733,8 +89733,8 @@
 				"label": "Rime's Binding Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -89909,8 +89909,8 @@
 				"label": "Shatter",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90085,8 +90085,8 @@
 				"label": "Sickening Radiance",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90262,8 +90262,8 @@
 				"label": "Silence",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90438,8 +90438,8 @@
 				"label": "Sleet Storm",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90613,8 +90613,8 @@
 				"label": "Slow",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90791,8 +90791,8 @@
 				"label": "Slowing Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -90967,8 +90967,8 @@
 				"label": "Spike Growth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -91143,8 +91143,8 @@
 				"label": "Stinking Cloud",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -91319,8 +91319,8 @@
 				"label": "Storm Sphere",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -91494,8 +91494,8 @@
 				"label": "Sunbeam",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -91671,8 +91671,8 @@
 				"label": "Sunburst",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -91847,8 +91847,8 @@
 				"label": "Synaptic Static",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92022,8 +92022,8 @@
 				"label": "Teleportation Circle",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92200,8 +92200,8 @@
 				"label": "Tiny Hut",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92377,8 +92377,8 @@
 				"label": "Wall of Fire",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92567,8 +92567,8 @@
 				"label": "Wall of Force",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92757,8 +92757,8 @@
 				"label": "Wall of Ice",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -92947,8 +92947,8 @@
 				"label": "Wall of Stone",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -93137,8 +93137,8 @@
 				"label": "Wall of Thorns",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -93315,8 +93315,8 @@
 				"label": "Weakening Breath",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -93491,8 +93491,8 @@
 				"label": "Web",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -93668,8 +93668,8 @@
 				"label": "Wind Wall",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -93844,8 +93844,8 @@
 				"label": "Wither and Bloom",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94020,8 +94020,8 @@
 				"label": "Zone of Truth",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -94213,8 +94213,8 @@
 				"label": "Conjure Barrage",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94402,8 +94402,8 @@
 				"label": "Delayed Blast Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94506,8 +94506,8 @@
 				"label": "Dimension Door",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94606,8 +94606,8 @@
 				"label": "Far Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94796,8 +94796,8 @@
 				"label": "Fireball",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -94985,8 +94985,8 @@
 				"label": "Freezing Sphere",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.3",
-				"version": 4
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95165,8 +95165,8 @@
 				"label": "Meteor Swarm",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95266,8 +95266,8 @@
 				"label": "Misty Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95454,8 +95454,8 @@
 				"label": "Sleep",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95554,8 +95554,8 @@
 				"label": "Starlight Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95654,8 +95654,8 @@
 				"label": "Teleport",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95754,8 +95754,8 @@
 				"label": "Thunder Step",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95804,8 +95804,8 @@
 				"label": "Thunderwave",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -95855,8 +95855,8 @@
 				"label": "Witch Bolt",
 				"menu": "preset",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -96042,8 +96042,8 @@
 				"label": "Antilife Shell",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -96227,8 +96227,8 @@
 				"label": "Antimagic Field",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -96410,8 +96410,8 @@
 				"label": "Aura of",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -96593,8 +96593,8 @@
 				"label": "Aura of Annihilation",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -96785,8 +96785,8 @@
 				"label": "Aura of Vitality",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -96968,8 +96968,8 @@
 				"label": "Circle of Power",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -97153,8 +97153,8 @@
 				"label": "Detect Evil and Good",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -97338,8 +97338,8 @@
 				"label": "Detect Magic",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -97523,8 +97523,8 @@
 				"label": "Detect Poison and Disease",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -97708,8 +97708,8 @@
 				"label": "Holy Aura",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -97893,8 +97893,8 @@
 				"label": "Pass without Trace",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98088,8 +98088,8 @@
 				"label": "Radiant Consumption",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98273,8 +98273,8 @@
 				"label": "Spirit Guardians",
 				"menu": "aura",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],
@@ -98402,8 +98402,8 @@
 				"label": "Abjuration Ward",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98531,8 +98531,8 @@
 				"label": "Bane",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98691,8 +98691,8 @@
 				"label": "Barkskin",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98821,8 +98821,8 @@
 				"label": "Bless",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -98969,8 +98969,8 @@
 				"label": "Charmed",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99102,8 +99102,8 @@
 				"label": "Chill Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99241,8 +99241,8 @@
 				"label": "Deafened",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99374,8 +99374,8 @@
 				"label": "Fire Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99513,8 +99513,8 @@
 				"label": "Frightened",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99652,8 +99652,8 @@
 				"label": "Grappled",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99791,8 +99791,8 @@
 				"label": "Incapacitated",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -99920,8 +99920,8 @@
 				"label": "Mage Armor",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100059,8 +100059,8 @@
 				"label": "Paralyzed",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100198,8 +100198,8 @@
 				"label": "Poisoned",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100337,8 +100337,8 @@
 				"label": "Prone",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100476,8 +100476,8 @@
 				"label": "Restrained",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100618,8 +100618,8 @@
 				"label": "Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100767,8 +100767,8 @@
 				"label": "Stunned",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -100906,8 +100906,8 @@
 				"label": "Unconscious",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		},
 		{
@@ -101039,8 +101039,8 @@
 				"label": "Warm Shield",
 				"menu": "aefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.1.0",
-				"version": 2
+				"moduleVersion": "1.2.0",
+				"version": 5
 			}
 		}
 	],

@@ -1,3 +1,11 @@
+# 1.2.1
+- Enabled Force Exact Match in almost all Auras, Presets, and Active Effects to prevent accidentally triggering them
+- Set the Token Alpha value to 0.01 for all Teleportation Preset spells (Dimension Door, Misty Step, etc) to prevent tokens turning invisible for some people
+- New Animations for:
+  - Deflect Missiles
+  - Stunning Strike
+  - Quickened Healing
+
 # 1.2.0
 - Added sounds, for real this time.
 

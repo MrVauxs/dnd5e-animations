@@ -12,7 +12,22 @@
 			"debugCustom": "The following effects do not exist in D&D5e Animations, they are completely new and will remain in your Autorecognition Menu."
 		},
 		"notifications": {
-			"update": "D&D5e Animations v{version} loaded. Please check if you don't have new animations to be added to your autorecognition menu!"
+			"update": "D&D5e Animations v{version} loaded. Please check if you don't have new animations to be added to your autorecognition menu!",
+			
+			"unevenGrid": "Your scene's grid is uneven ({grid}px). This will likely cause your target location to be offset!",
+			"gridless": "Crosshairs are recommended to be used only on a grid-based scene. Gridless scenes can cause issues.",
+			"wrongVersion": "You are missing <b>{modules}</b> for D&D5e Animations to fully function! Please update the modules listed!",
+			"noDependencies": "You are missing <b>{modules}</b> for D&D5e Animations to fully function! Please enable the modules listed!",
+			"noJB2A": "You need a <a href=\"https://jb2a.com/home/content-information/#free_library\">JB2A module</a> enabled to use with D&D5e Animations module!",
+			"noToken": "No source token found.",
+			"noDummy": "Missing dummy actors for summoning macros.",
+			"creatingDummy": " Creating dummy NPCs… ",
+			"outOfRange": "Target is out of range.",
+			"noPack": "Can't find 'pf2e-jb2a-macros.Actions' pack, somehow?",
+			"tooManyArgs": "Too many arguments for this macro! The following arguments are incompatible: {issues}",
+			"noPrem": "You are missing the <a href='https://www.patreon.com/JB2A/membership'>premium version of JB2A assets</a> to use this animation!",
+			"metaData": "This animation WILL be replaced when updated. If you don't want it to be, best way is to temporarily change it's <b>animation</b> or <b>variant</b> to something else, or enabling Debug mode in the settings and pressing the Metadata button again."
+		
 		},
 		"settings": {
 			"autoUpdate": {

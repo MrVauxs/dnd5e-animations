@@ -1,3 +1,7 @@
+# 1.3.0
+- Verified V11 Compatibility.
+- All animations now have a 3D Canvas configuration (thanks to @CosmicAfro and @theripper93!)
+
 # 1.2.1
 - Enabled Force Exact Match in almost all Auras, Presets, and Active Effects to prevent accidentally triggering them
 - Set the Token Alpha value to 0.01 for all Teleportation Preset spells (Dimension Door, Misty Step, etc) to prevent tokens turning invisible for some people

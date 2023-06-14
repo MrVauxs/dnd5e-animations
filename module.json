@@ -2,7 +2,7 @@
 	"id": "dnd5e-animations",
 	"title": "D&D5e Animations",
 	"description": "<p>A module dedicated to making Dungeons & Dragons 5e shine.</p>",
-	"version": "This is replaced",
+	"version": "1.3.0",
 	"authors": [
 		{
 			"name": "MrVauxs",
@@ -26,7 +26,7 @@
 	"url": "https://github.com/MrVauxs/dnd5e-animations",
 	"compatibility": {
 		"minimum": "10",
-		"verified": "10"
+		"verified": "11"
 	},
 	"esmodules": [
 		"module/utils.js",

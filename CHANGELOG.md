@@ -103,7 +103,6 @@
 Most of the removals were status conditions that were added earlier and caused problems.
 You can add them yourself if you wish and they won't be overwritten, but they will no longer be in the module.
 
-
 # 1.3.0
 - Verified V11 Compatibility.
 - All animations now have a 3D Canvas configuration (thanks to @CosmicAfro and @theripper93!)

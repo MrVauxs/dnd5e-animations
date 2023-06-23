@@ -1,71 +1,79 @@
 {
-	"id": "dnd5e-animations",
-	"title": "D&D5e Animations",
-	"description": "<p>A module dedicated to making Dungeons & Dragons 5e shine.</p>",
-	"version": "1.3.0",
-	"authors": [
-		{
-			"name": "MrVauxs",
-			"discord": "MrVauxs#8622",
-			"twitter": "@ThatVauxs",
-			"patreon": "mrvauxs",
-			"ko-fi": "mrvauxs",
-			"flags": {}
-		}
-	],
-	"styles": [
-		"styles/dnd5e-animations.css"
-	],
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "languages/en.json"
-		}
-	],
-	"url": "https://github.com/MrVauxs/dnd5e-animations",
-	"compatibility": {
-		"minimum": "10",
-		"verified": "11"
-	},
-	"esmodules": [
-		"module/utils.js",
-		"module/settings.js",
-		"module/updateMenu.js"
-	],
-	"packs": [
-		{
-			"label": "5e Animations Developmental Macros",
-			"name": "Macros",
-			"path": "packs/macros.db",
-			"type": "Macro",
-			"private": false,
-			"flags": {}
-		}
-	],
-	"manifestPlusVersion": "1.2.0",
-	"relationships": {
-		"systems": [
-			{
-				"id": "dnd5e",
-				"type": "system",
-				"compatibility": {
-					"minimum": "2.1.5"
-				}
-			}
-		],
-		"requires": [
-			{
-				"manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
-				"id": "autoanimations",
-				"type": "module",
-				"compatibility": {
-					"minimum": "4.2.15"
-				}
-			}
-		]
-	},
-	"changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/main/CHANGELOG.md",
-	"manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
-	"download": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.zip"
+    "id": "dnd5e-animations",
+    "title": "D&D5e Animations",
+    "description": "<p>A module dedicated to making Dungeons & Dragons 5e shine.</p>",
+    "version": "1.4.0",
+    "authors": [
+        {
+            "name": "MrVauxs",
+            "discord": "MrVauxs#8622",
+            "twitter": "@ThatVauxs",
+            "patreon": "mrvauxs",
+            "ko-fi": "mrvauxs",
+            "flags": {}
+        }
+    ],
+    "styles": [
+        "styles/dnd5e-animations.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "url": "https://github.com/MrVauxs/dnd5e-animations",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "esmodules": [
+        "module/utils.js",
+        "module/settings.js",
+        "module/updateMenu.js"
+    ],
+    "packs": [
+        {
+            "label": "D&D5e Animations Macros",
+            "name": "Macros",
+            "path": "packs/macros.db",
+            "type": "Macro",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "D&D5e Animations Example Items",
+            "name": "Items",
+            "path": "packs/items.db",
+            "type": "Item",
+            "private": false,
+            "flags": {}
+        }
+    ],
+    "manifestPlusVersion": "1.2.0",
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.1.5"
+                }
+            }
+        ],
+        "requires": [
+            {
+                "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
+                "id": "autoanimations",
+                "type": "module",
+                "compatibility": {
+                    "minimum": "4.2.15"
+                }
+            }
+        ]
+    },
+    "changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/main/CHANGELOG.md",
+    "manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
+    "download": "https://github.com/MrVauxs/dnd5e-animations/releases/download/1.3.0/module.zip"
 }

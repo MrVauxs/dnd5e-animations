@@ -1,3 +1,93 @@
+# 1.5.0
+- Added the following Animations:
+  - Ranged
+    - Danse Macabre
+    - Enemies Abound
+    - Negative Energy Flood
+    - Psychic Scream
+    - Soul Cage
+
+  - On Token
+    - Air Bubble
+    - Ashardalon's Stride
+    - Beast Bond
+    - Blade of Disaster
+    - Borrowed Knowledge
+    - Catnap
+    - Ceremony
+    - Create Homunculus
+    - Create Spelljamming Helm
+    - Crown of Stars
+    - Draconic Transformation*
+    - Druid Grove
+    - Earthbind
+    - Earth Tremor
+    - Find Greater Steed
+    - Fizban's Platinum Shield
+    - Guardian of Nature
+    - Holy Weapon
+    - Illusory Dragon
+    - Infernal Calling
+    - Investiture of Flame
+    - Investiture of Ice*
+    - Investiture of Stone
+    - Investiture of Wind*
+    - Invulnerability
+    - Kinetic Jaunt
+    - Maelstrom
+    - Melf's Minute Meteors
+    - Mental Prison
+    - Mighty Fortress
+    - Primordial Ward
+    - Raulothim's Psychic Lance
+    - Scatter
+    - Shadow Blade
+    - Silvery Barbs
+    - Skill Empowerment
+    - Skywrite
+    - Sword Burst
+    - Telepathy
+    - Temple of the Gods
+    - Tenser's Transformation
+    - Tidal Wave
+    - Tiny Servant
+    - Tsunami
+
+  - Template
+    - Abi-Dalzim's Horrid Wilting
+    - Bones of the Earth
+    - Conjure Volley
+    - Control Winds
+    - Create Bonfire
+    - Dawn
+    - Draconic Transformation (The D&D Beyond Importer version of these spells casts the them with a template, though I wanted to make non-template versions as well)
+    - Dragon's Breath
+    - Dust Devil
+    - Erupting Earth
+    - Investiture of Ice*
+    - Investiture of Wind*
+    - Maximilian's Earthen Grasp
+    - Nathair's Mischief
+    - Pyrotechnics
+    - Transmute Rock
+    - Wall of Light (removed On Token version)
+    - Wall of Sand
+    - Wall of Water
+    - Watery Sphere
+    - Warding Wind
+    - Whirlwind
+    - Wrath of Nature
+  - Preset
+    - Enervation
+    - Snilloc's Snowball Swarm
+    - Vitriolic Sphere
+- Changed the following Animations:
+  - Templates
+    - Wall of Stone (changed to texture)
+- Removed the following Animations:
+  - On Token
+    - Wall of Light (added Template version)
+
 # 1.4.0
 - Added the Advanced Melee Attack Macro by Jules to the D&D5e Animations Macros compendium so it can be used to add trails and other effects to weapons that use the new animations. Some example items have been added to a second compendium, look at the A-A settings of the items for the macro arguments.
 

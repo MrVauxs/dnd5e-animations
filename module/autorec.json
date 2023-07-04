@@ -50,7 +50,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": false,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Weapon_Attacks/Melee/GenericSlash01_02_Regular_Orange_800x600.webm",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Weapon_Attacks/Melee/GenericSlash01_02_Regular_Orange_800x600.webm",
 						"type": "jb2aexplosionnolight",
 						"color01": "#cdcbc6",
 						"onCenter": true,
@@ -1472,7 +1472,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
 						"type": "jb2aexplosionnolight",
 						"scale": 1,
 						"duration": 250,
@@ -2467,7 +2467,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
 						"type": "jb2aexplosionnolight",
 						"scale": 1,
 						"duration": 250,
@@ -7094,7 +7094,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Weapon_Attacks/Melee/Dagger02_01_Regular_White_Thumb.webp",
 						"type": "jb2aexplosionnolight",
 						"scale": 1,
 						"duration": 250,
@@ -23701,7 +23701,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Explosion/Explosion_02_Blue_400x400.webm",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Explosion/Explosion_02_Blue_400x400.webm",
 						"type": "magicburst",
 						"color01": "#5e0adb",
 						"color02": "#119707",
@@ -24388,7 +24388,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": false,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Explosion/Explosion_01_Orange_400x400.webm",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Explosion/Explosion_01_Orange_400x400.webm",
 						"type": "jb2aexplosion",
 						"color01": "#e40101",
 						"color02": "#eeff00",
@@ -36676,7 +36676,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Marker/MusicMarker_01_Regular_GreenOrange_400x400.webm",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Marker/MusicMarker_01_Regular_GreenOrange_400x400.webm",
 						"type": "mysteriouslights",
 						"onCenter": true,
 						"alpha": 1
@@ -98531,7 +98531,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/JB2A_DnD5e/Library/Generic/Marker/MusicMarker_01_Regular_GreenOrange_400x400.webm",
+						"spritePath": "modules/jb2a_patreon/Library/Generic/Marker/MusicMarker_01_Regular_GreenOrange_400x400.webm",
 						"type": "jb2aexplosionnolight",
 						"color01": "#0b5b1f",
 						"color02": "#51ff00"

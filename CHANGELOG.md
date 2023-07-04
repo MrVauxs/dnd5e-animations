@@ -1,4 +1,5 @@
 # 1.5.0
+- Fixed typo in 3D Canvas integration not consistently referring to the Patreon version of JB2A assets and sometimes referring to the free version. (The Premium version is the default. You have the money.)
 - Added the following Animations:
   - Ranged
     - Danse Macabre

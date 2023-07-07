@@ -1,3 +1,48 @@
+# 1.6.0
+- New Animations
+  - Ranged
+    - Burnt Othur Fumes
+    - Catapult Munition
+    - Essence of Ether
+    - Holy Water
+    - Malice
+  - On Token
+    - Assassin's Blood
+    - Ball Bearings
+    - Cunning Action
+    - Divine Sense
+    - Drow Poison
+    - Eldritch Master
+    - Empty Body
+    - Hide in Plain Sight
+    - Indomitable
+    - Ink (for fun)
+    - Magical Tinkering
+    - Midnight Tears
+    - Oil of Taggit
+    - Pale Tincture
+    - Patient Defense
+    - Perfect Self
+    - Poison (for both `Basic Poison` and `Poison, Basic (vial)`)
+    - Potion of Poison
+    - Purple Worm Poison
+    - Primeval Awareness
+    - Serpent Venom
+    - Slow Fall
+    - Sorcery Points
+    - Soul of Artifice
+    - Step of the Wind
+    - Stroke of Luck
+    - Torpor
+    - Truth Serum
+    - Uncanny Dodge
+    - Vanish
+  - Preset
+    - Caltrops
+- Changed Animations
+  - On Token
+    - Arcane Recovery (removed accidental source animation)
+
 # 1.5.0
 - Fixed typo in 3D Canvas integration not consistently referring to the Patreon version of JB2A assets and sometimes referring to the free version. (The Premium version is the default. You have the money.)
 - Added the following Animations:

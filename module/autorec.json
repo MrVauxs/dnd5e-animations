@@ -40228,7 +40228,7 @@
 				}
 			},
 			"source": {
-				"enable": true,
+				"enable": false,
 				"options": {
 					"addTokenWidth": false,
 					"anchor": "0.5",
@@ -40304,12 +40304,21 @@
 					"customPath": ""
 				}
 			},
+			"advanced": {
+				"exactMatch": false,
+				"excludedTerms": [],
+				"excludedType": {
+					"enabled": false,
+					"path": "",
+					"property": ""
+				}
+			},
 			"metaData": {
 				"label": "Arcane Recovery",
 				"menu": "ontoken",
 				"name": "5e Animations",
-				"moduleVersion": "1.3.0",
-				"version": 1686753301417
+				"moduleVersion": "1.6.0",
+				"version": 1688772678
 			}
 		},
 		{

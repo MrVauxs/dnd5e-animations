@@ -32,9 +32,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/VikingAxe.glb",
 					"animationType": "twirl",
@@ -1462,9 +1462,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Dagger9_59.glb"
 				},
@@ -2194,9 +2194,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/StraightSword7_171.glb",
 					"duration": 1500,
@@ -2457,9 +2457,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Dagger9_59.glb"
 				},
@@ -3437,9 +3437,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/jb2a_patreon/Library/Generic/Unarmed_Attacks/Unarmed_Strike/UnarmedStrikeNoHit_01_Regular_Yellow_Thumb.webp",
 					"duration": 800
@@ -4170,9 +4170,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/GreatAxe.glb",
 					"duration": 1500,
@@ -4435,9 +4435,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/FantasyWeapons/Dragon_S_Bane_68.glb",
 					"onCenter": true,
@@ -4696,9 +4696,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Greatsword.glb",
 					"duration": 1500
@@ -5438,9 +5438,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/AxeShort8_35.glb",
 					"duration": 750,
@@ -7318,9 +7318,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Dagger9_59.glb"
 				},
@@ -8062,9 +8062,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Mace10_95.glb",
 					"duration": 1000
@@ -8549,9 +8549,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/WarHammer.glb",
 					"duration": 1500,
@@ -8812,9 +8812,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/Mace5_90.glb",
 					"duration": 1500,
@@ -10473,9 +10473,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Crops/Wheat_4.glb",
 					"duration": 1500,
@@ -10973,9 +10973,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/FantasyWeapons/The_Bell_23.glb",
 					"duration": 1500
@@ -11235,9 +11235,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/StraightSword7_171.glb",
 					"duration": 1500,
@@ -12203,9 +12203,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/StraightSword10_174.glb",
 					"duration": 1500
@@ -12464,9 +12464,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/twirl_03.png",
 					"onCenter": true,
@@ -12725,9 +12725,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_05.png",
 					"duration": 700
@@ -12986,9 +12986,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/PoleArmShort2_139.glb",
 					"duration": 1500,
@@ -13708,9 +13708,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/FantasyWeapons/Star_Sword__Aether__113.glb",
 					"onCenter": true
@@ -13946,7 +13946,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#e49b9b",
 					"color02": "#728083",
 					"duration": 500,
@@ -14908,9 +14908,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/jb2a_patreon/Library/Generic/Unarmed_Attacks/Unarmed_Strike/UnarmedStrikeNoHit_01_Regular_Yellow_Thumb.webp",
 					"onCenter": true,
@@ -15170,9 +15170,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/jb2a_patreon/Library/Generic/Unarmed_Attacks/Unarmed_Strike/UnarmedStrikeNoHit_01_Regular_Yellow_Thumb.webp",
 					"onCenter": true,
@@ -15432,9 +15432,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/StraightSword8_172.glb",
 					"duration": 1500,
@@ -16158,9 +16158,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/PoleArmShort2_139.glb",
 					"onCenter": true,
@@ -16657,9 +16657,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/jb2a_patreon/Library/Generic/Unarmed_Attacks/Unarmed_Strike/UnarmedStrikeNoHit_01_Regular_Yellow_Thumb.webp",
 					"onCenter": true,
@@ -17879,9 +17879,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/MedievalWeapons/PoleArmLong6_133.glb",
 					"onCenter": true,
@@ -18143,9 +18143,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"rotateTowards": false,
@@ -18365,7 +18365,7 @@
 				"data": {
 					"color01": "#00ff59",
 					"color02": "#24a201",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"autoSize": true,
 					"speed": 15,
 					"rotateTowards": false,
@@ -18620,9 +18620,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": false,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/RPG%20Items/Potion3_Filled.glb",
 					"onCenter": true,
@@ -18866,9 +18866,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/slash_03.png",
 					"duration": 500,
@@ -19102,11 +19102,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"onCenter": true,
 					"duration": 500
 				},
@@ -19339,9 +19339,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/star_01.png",
 					"duration": 500,
@@ -19992,9 +19992,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/spark_05.png",
 					"onCenter": true
@@ -20227,9 +20227,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png"
 				},
@@ -20664,9 +20664,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Nature/Rock_Snow_3.glb",
 					"onCenter": true,
@@ -20902,9 +20902,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png"
 				},
@@ -21341,9 +21341,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"duration": 1000,
@@ -21780,9 +21780,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 800,
@@ -22023,9 +22023,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_02.png",
 					"duration": 500
@@ -22258,9 +22258,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"onCenter": true,
@@ -22498,9 +22498,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 1500,
@@ -22943,9 +22943,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true
@@ -23385,9 +23385,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true
@@ -23621,9 +23621,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"onCenter": true,
@@ -24067,9 +24067,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Modular%20Scifi/Tiles/Props_Vessel_Short.glb",
 					"onCenter": true,
@@ -24303,9 +24303,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 450
@@ -24930,7 +24930,7 @@
 					"autoSize": true,
 					"alpha": 1,
 					"onCenter": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"arc": 0,
 					"speed": 15,
 					"duration": 1500,
@@ -25160,9 +25160,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"onCenter": true,
@@ -25396,9 +25396,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 450,
@@ -25650,9 +25650,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/scorch_02.png",
 					"duration": 1000,
@@ -25884,9 +25884,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": false,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/RPG%20Items/Crystal4.glb",
 					"duration": 1000,
@@ -26120,9 +26120,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": false,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Food/Coconut.glb",
 					"duration": 1500,
@@ -26564,9 +26564,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": false,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/RPG%20Items/Crystal4.glb",
 					"onCenter": true,
@@ -26800,9 +26800,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Crops/Cactus_1.glb",
 					"duration": 1000,
@@ -27037,9 +27037,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 1500,
@@ -27275,9 +27275,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/spiral_8.webp",
 					"duration": 500,
@@ -27924,11 +27924,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"duration": 500,
 					"onCenter": true
 				},
@@ -28160,9 +28160,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_05.png",
 					"duration": 1500,
@@ -28394,9 +28394,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true
@@ -28631,9 +28631,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"duration": 500,
@@ -29074,9 +29074,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"duration": 1500
@@ -29311,9 +29311,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 1500,
@@ -29552,9 +29552,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 2000,
@@ -29791,9 +29791,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"duration": 1000,
@@ -30233,11 +30233,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"onCenter": true
 				},
 				"secondary": {
@@ -30468,11 +30468,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"onCenter": true,
 					"duration": 2000
 				},
@@ -30710,9 +30710,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_04.webp",
 					"onCenter": true,
@@ -31150,9 +31150,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_05.png",
 					"onCenter": true
@@ -31586,9 +31586,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"duration": 1500,
@@ -32023,11 +32023,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"duration": 2000
 				},
 				"secondary": {
@@ -32673,9 +32673,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"duration": 1500,
@@ -32911,9 +32911,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"onCenter": true,
@@ -33150,9 +33150,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"duration": 1000
@@ -33384,9 +33384,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true
@@ -33617,9 +33617,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true
@@ -33854,9 +33854,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/star_01.png",
 					"duration": 250
@@ -34088,9 +34088,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 1500,
@@ -34332,9 +34332,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_05.png",
 					"onCenter": true,
@@ -34771,9 +34771,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Rocks_runic/Runic_1_Runic_0.glb",
 					"rotationX": 46,
@@ -35006,9 +35006,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/circle_05.png",
 					"onCenter": true,
@@ -35241,9 +35241,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/canvas3dcompendium/assets/Tiles/Cyberpunk%20Pack/Pickup_Tank.glb",
 					"onCenter": true,
@@ -35889,9 +35889,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true,
@@ -36125,11 +36125,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"onCenter": true,
 					"duration": 500
 				},
@@ -36362,9 +36362,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_04.webp",
 					"onCenter": true
@@ -38327,7 +38327,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"animationType": "twirl",
 					"playOn": "source",
 					"color01": "#306f06",
@@ -38558,7 +38558,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#198703",
 					"color02": "#01f409"
 				},
@@ -40764,7 +40764,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color02": "#256105",
 					"duration": 2000,
 					"life": 400,
@@ -42076,7 +42076,7 @@
 					"alpha": 1,
 					"color01": "#9900ff",
 					"color02": "#ce95da",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"autoSize": true
 				},
 				"sound": {
@@ -44114,9 +44114,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/jb2a_patreon/Library/Generic/Creature/Bite_01_Regular_Green_Thumb.webp",
 					"duration": 500,
@@ -44761,7 +44761,7 @@
 				"data": {
 					"color01": "#ffd500",
 					"color02": "#d2ddac",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"autoSize": true
 				},
 				"sound": {
@@ -46086,7 +46086,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#a48e8e",
 					"color02": "#86b6c6",
 					"alpha": 1
@@ -47608,7 +47608,7 @@
 				"data": {
 					"color01": "#d41616",
 					"color02": "#810808",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"autoSize": true,
 					"alpha": 1,
 					"onCenter": true
@@ -47823,7 +47823,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#af5ec5",
 					"color02": "#ff00f7",
 					"duration": 2500,
@@ -48282,9 +48282,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"duration": 1000,
@@ -49408,11 +49408,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"duration": 2000,
 					"onCenter": true
 				},
@@ -50069,7 +50069,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#fe0b60",
 					"color02": "#015afe",
 					"duration": 2500,
@@ -50513,7 +50513,7 @@
 					"color01": "#ff1414",
 					"color02": "#a01c1c",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -50726,7 +50726,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#9a4bbe",
 					"color02": "#d6d917",
 					"alpha": 1,
@@ -50942,7 +50942,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#c78800",
 					"color02": "#f5e0b2",
 					"alpha": 1,
@@ -52887,7 +52887,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff8800",
 					"color02": "#9cd00b",
 					"alpha": 1,
@@ -52897,7 +52897,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "mysteriouslights",
 						"color01": "#de6d02",
 						"color02": "#d31d1d",
@@ -53749,7 +53749,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#df7626",
 					"color02": "#c6b995",
 					"alpha": 1,
@@ -54417,9 +54417,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 2500
@@ -55741,7 +55741,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#008ae0",
 					"color02": "#01febf",
 					"alpha": 1,
@@ -56833,7 +56833,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#7807d5",
 					"color02": "#9d84d7",
 					"alpha": 1,
@@ -58599,7 +58599,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#e724f5",
 					"color02": "#b771d1",
 					"alpha": 1,
@@ -59032,7 +59032,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#c020cb",
 					"color02": "#ff00ea",
 					"alpha": 1,
@@ -59254,7 +59254,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#27808b",
 					"color02": "#2996f5",
 					"alpha": 1,
@@ -61671,9 +61671,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"onCenter": true
@@ -62107,7 +62107,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff0000",
 					"color02": "#e2ff05",
 					"alpha": 1,
@@ -62333,7 +62333,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#ff00d4",
 					"color02": "#6c036d",
 					"alpha": 1,
@@ -63010,9 +63010,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"duration": 2500,
@@ -63882,7 +63882,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff00a2",
 					"color02": "#2bff00",
 					"alpha": 1,
@@ -63892,7 +63892,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "holy",
 						"color01": "#6c15ef",
 						"color02": "#60745d",
@@ -64773,7 +64773,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#e65c00",
 					"color02": "#895701"
 				},
@@ -64781,7 +64781,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "mysteriouslights",
 						"color01": "#049f2b",
 						"color02": "#ac440c",
@@ -64992,7 +64992,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#f8ba12",
 					"color02": "#775303",
 					"alpha": 1,
@@ -65211,7 +65211,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#f8ba12",
 					"color02": "#775303",
 					"alpha": 1,
@@ -66973,7 +66973,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ffae00",
 					"color02": "#a5a711",
 					"alpha": 1
@@ -69185,7 +69185,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#008ae0",
 					"color02": "#01febf",
 					"alpha": 1,
@@ -69622,7 +69622,7 @@
 					"color01": "#920ad1",
 					"color02": "#4301a7",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -71820,7 +71820,7 @@
 				"data": {
 					"color01": "#e4d501",
 					"color02": "#c7c954",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"autoSize": true,
 					"alpha": 1,
 					"onCenter": true
@@ -72901,7 +72901,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#188f00",
 					"color02": "#ff4000",
 					"duration": 2000,
@@ -74258,9 +74258,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"onCenter": true,
@@ -74930,7 +74930,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"alpha": 1,
 					"onCenter": true,
 					"color01": "#03683c",
@@ -75150,7 +75150,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#1a4bff",
 					"color02": "#9a0ecd",
 					"alpha": 1
@@ -75808,7 +75808,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#6f35b6",
 					"color02": "#ba90d0",
 					"alpha": 1
@@ -76030,7 +76030,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#520070",
 					"color02": "#e10909"
 				},
@@ -76247,7 +76247,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#004cff",
 					"color02": "#90bec6",
 					"alpha": 1,
@@ -76918,11 +76918,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"duration": 2000,
 					"onCenter": true
 				},
@@ -77573,7 +77573,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#2e2e2e",
 					"color02": "#b0b0b0",
 					"alpha": 1,
@@ -78447,7 +78447,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff00a2",
 					"color02": "#2bff00",
 					"alpha": 1,
@@ -78457,7 +78457,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "holy",
 						"color01": "#6c15ef",
 						"color02": "#60745d",
@@ -78670,7 +78670,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"speed": 10,
 					"duration": 2000,
 					"life": 400,
@@ -80434,11 +80434,11 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"onCenter": true
 				},
 				"secondary": {
@@ -80869,7 +80869,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#f23df5",
 					"color02": "#49007a",
 					"alpha": 1,
@@ -81114,9 +81114,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"duration": 2000
@@ -83124,9 +83124,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp"
 				},
@@ -84007,7 +84007,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#ab10d5",
 					"color02": "#a35ca1",
 					"alpha": 1,
@@ -84017,7 +84017,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 						"type": "magicsphere",
 						"color01": "#5900ff",
 						"color02": "#a4bedf",
@@ -84441,7 +84441,7 @@
 				"data": {
 					"autoSize": true,
 					"alpha": 1,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#7b46dd",
 					"color02": "#0cb6b3"
 				},
@@ -87500,7 +87500,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#8834ef",
 					"color02": "#f3c9f3",
 					"alpha": 1
@@ -87718,7 +87718,7 @@
 				"data": {
 					"color01": "#a19191",
 					"color02": "#bdefe3",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"autoSize": true,
 					"alpha": 1,
 					"onCenter": true
@@ -87933,7 +87933,7 @@
 					"color01": "#9f15d1",
 					"color02": "#bb19be",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -90098,7 +90098,7 @@
 					"color01": "#6600ff",
 					"color02": "#a947d7",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -90311,7 +90311,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"color01": "#9900e0",
 					"color02": "#e0b3ff",
 					"alpha": 1,
@@ -90532,7 +90532,7 @@
 					"color01": "#d8dc04",
 					"color02": "#dfbe90",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -90546,7 +90546,7 @@
 						"color01": "#8fbf0d",
 						"color02": "#f2b407",
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "vortex",
 						"life": 500,
 						"alpha": 1,
@@ -90747,7 +90747,7 @@
 					"color01": "#f2f551",
 					"color02": "#c6ac01",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"alpha": 1,
 					"onCenter": true,
 					"speed": 7
@@ -92034,7 +92034,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#e101e4",
 					"color02": "#d15fd3",
 					"alpha": 1,
@@ -93569,7 +93569,7 @@
 				"data": {
 					"color01": "#360c97",
 					"color02": "#6fdffb",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"autoSize": true,
 					"speed": 9,
 					"alpha": 1,
@@ -97533,9 +97533,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_15.webp",
 					"duration": 2500,
@@ -98202,7 +98202,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#307f06",
 					"color02": "#bbff00",
 					"alpha": 1,
@@ -98865,7 +98865,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff00a2",
 					"color02": "#2bff00",
 					"alpha": 1,
@@ -98875,7 +98875,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "holy",
 						"color01": "#6c15ef",
 						"color02": "#60745d",
@@ -99308,7 +99308,7 @@
 					"color01": "#a86ab9",
 					"color02": "#850aff",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -101967,9 +101967,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_06.webp",
 					"onCenter": true
@@ -106158,9 +106158,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"onCenter": true,
@@ -107030,7 +107030,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#ae00ff",
 					"color02": "#df99ff",
 					"alpha": 1,
@@ -107257,7 +107257,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#ff00a2",
 					"color02": "#2bff00",
 					"alpha": 1,
@@ -107267,7 +107267,7 @@
 					"enable": true,
 					"data": {
 						"autoSize": true,
-						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+						"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 						"type": "holy",
 						"color01": "#6c15ef",
 						"color02": "#60745d",
@@ -108120,7 +108120,7 @@
 				"data": {
 					"color01": "#77aec0",
 					"color02": "#019af9",
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_11.webp",
 					"autoSize": true,
 					"alpha": 1,
 					"speed": 8,
@@ -110727,7 +110727,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#fed401",
 					"color02": "#a9fe0b"
 				},
@@ -110968,9 +110968,9 @@
 						"life": null,
 						"emittersize": null,
 						"rate": null,
-						"sprite": "modules/levels-3d-preview/assets/particles/dust.webp"
+						"sprite": "modules/levels-3d-preview/assets/particles/dust.png"
 					},
-					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.webp",
+					"sprite": "modules/levels-3d-preview/assets/particles/emberssmall.png",
 					"autoSize": true,
 					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_13.webp",
 					"duration": 2500,
@@ -112268,7 +112268,7 @@
 					"color01": "#076e1c",
 					"color02": "#00d607",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"alpha": 1,
 					"onCenter": true
 				},
@@ -113566,7 +113566,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#fed401",
 					"color02": "#a9fe0b"
 				},
@@ -114452,7 +114452,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_12.webp",
 					"color01": "#7207ab",
 					"color02": "#aa01f9",
 					"duration": 2500,
@@ -114894,7 +114894,7 @@
 				"type": "castingsign",
 				"data": {
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"color01": "#307f06",
 					"color02": "#bbff00",
 					"alpha": 1,
@@ -116220,7 +116220,7 @@
 					"color01": "#00fbff",
 					"color02": "#005799",
 					"autoSize": true,
-					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp ",
+					"spritePath": "modules/levels-3d-preview/assets/particles/magiccircles/magic_circle_09.webp",
 					"alpha": 1,
 					"onCenter": true
 				},

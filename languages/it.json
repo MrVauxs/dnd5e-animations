@@ -1,0 +1,47 @@
+{
+	"dnd5e-animations": {
+		"updateMenu": {
+			"deleted": "I seguenti effetti saranno cancellati da una versione precedente di D&D5e Animations.'.",
+			"added": "Alle impostazioni di Autorecognition verranno aggiunti i seguenti effetti.",
+			"custom": "I seguenti effetti non saranno aggiunti perché già esistenti da una fonte sconosciuta.",
+			"customHint": "Se volete la versione D&D5e Animations, cancellatele dal vostro menu Autorecognition..",
+			"updated": "I seguenti effetti verranno aggiornati da una versione precedente di 'D&D5e Animations' (o dal menu predefinito Automated Animation).",
+			"nothing": "Non sono stati trovati aggiornamenti.",
+			"blacklisted": "I seguenti effetti sono stati inseriti nella lista nera e saranno rimossi dal menu Autorecognition.",
+			"warning": "Assicurarsi di eseguire un backup del menu di autoriconoscimento! QUESTO PROCESSO È IRREVERSIBILE.",
+			"debugCustom": "Assicurarsi di eseguire un backup del menu di autoriconoscimento! QUESTO PROCESSO È IRREVERSIBILE."
+		},
+		"notifications": {
+			"update": "D&D5e Animations v{version} caricato. Controllare se non ci sono nuove animazioni da aggiungere al menu di autoriconoscimento.!",
+			
+			"unevenGrid": "La griglia della scena è irregolare ({grid}px). In questo modo la posizione di destinazione sarà probabilmente sfalsata.!",
+			"gridless": "Si consiglia di utilizzare i mirini solo su una scena basata su una griglia. Le scene senza griglia possono causare problemi.",
+			"wrongVersion": "Manca <b>{modules}</b> per D&D5e Animations per funzionare completamente! Aggiornare i moduli elencati!",
+			"noDependencies": "Manca <b>{modules}</b> per D&D5e Animations per funzionare completamente! Attivare i moduli elencati!",
+			"noJB2A": "È necessario <a href=\"https://jb2a.com/home/content-information/#free_library\">JB2A module</a> abilitato per usare il modulo D&D5e Animations!",
+			"noToken": "Nessun token sorgente trovato.",
+			"noDummy": "Mancano gli attori fittizi per le macro di convocazione.",
+			"creatingDummy": " Creare PNG fittizi... ",
+			"outOfRange": "Il bersaglio è fuori portata.",
+			"noPack": "Non riesco a trovare 'pf2e-jb2a-macros.Actions' pack, somehow?",
+			"tooManyArgs": "Troppi argomenti per questa macro! I seguenti argomenti sono incompatibili: {issues}",
+			"noPrem": "Ti manca <a href='https://www.patreon.com/JB2A/membership'>premium version di JB2A assets</a> per usare questa animazione!",
+			"metaData": "Questa animazione sarà sostituita quando verrà aggiornata. Se non si vuole che venga sostituita, il modo migliore è quello di cambiare temporaneamente il valore di <b>animation</b> o <b>variant</b> a qualcos'altro, oppure abilitando la modalità Debug nelle impostazioni e premendo nuovamente il pulsante Metadata."
+		
+		},
+		"settings": {
+			"autoUpdate": {
+				"name": "Aprire il menu Aggiornamento quando è presente un aggiornamento",
+				"hint": "Aprire automaticamente il menu di aggiornamento dell'Autorecognition quando il modulo viene aggiornato.."
+			},
+			"debug": {
+				"name": "Debug Mode",
+				"hint": "Consente di visualizzare i log della console su ciò che il modulo D&D5e Animations sta facendo.."
+			},
+			"autorecUpdate": {
+				"name": "Aggiornamento delle animazioni",
+				"label": "Aggiorna Menu"
+			}
+		}
+	}
+}

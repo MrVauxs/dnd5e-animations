@@ -1,3 +1,6 @@
+# 1.6.1
+- Added Italian translations to settings (thanks @arkangel9056!).
+
 # 1.6.0
 - New Animations
   - Ranged

@@ -1,3 +1,8 @@
+# 1.6.2
+- Moved Ice Knife from Ranged animation to Preset (Projectile to template) animation
+- Moved Thunderclap from On Token animation to Template
+- Moved Faerie Fire from On Token animation to Template
+
 # 1.6.1
 - Added Italian translations to settings (thanks @arkangel9056!).
 

@@ -1,3 +1,49 @@
+# 1.7.0
+
+This is for Foundry V12 but will also work for V11 and should even work with V10 (untested.)
+
+D&D5e Animations is still set up based on the 2014 version of D&D 5e and its books, with a version meant for the new version to be released much later if necessary.
+
+Most of these are either fixes, small improvements, or adding either an On Token or Template animation for some spells that I've run into that have changed creating a template or not in Foundry.
+
+- Abi-Dalzim's Horrid Wilting - Set to persistent
+- Acid Arrow - Fixed Target animation
+- Acid Splash - Turned off source animation (that played Cure Wounds animations by mistake) Antipathy/Sympathy - Added Template animation
+- Blade Barrier - Added On Token animation
+- Control - New On Token animation
+- Control Flames - New Template animation
+- Control Water - New Template animation
+- Control Weather - New On Token animation
+- Destructive Wave - Turned off Remove Template and Above Templates Earth Tremor - Tweaked animation
+- Earthquake - New On Token animation
+- Fabricate - New On Token animation
+- Fear - Slight tweaks
+- Fire Storm - Added On Token animation
+- Forcecage - Added On Token animation
+- Freezing Sphere - Fix so animation plays with full name (Otiluke's Freezing Sphere) Hold Person - Changed animations to be enchantment-themed Hypnotic Pattern - Slight tweaks
+- Ice Knife - Created Range effect
+- Infernal Calling - Set to Play On Source
+- Insect Plague - Tweaked animation
+- Investiture of Flame - New Template animation
+- Investiture of Stone - New Template animation
+- Meteor Swarm - Added On Token animation and small tweak to Preset animation Move Earth - New On Token animation
+- Plant Growth - Slight updates
+- Power Word Kill - Added dedicated animation
+- Power Word Pain - Added dedicated animation
+- Power Word Stun - Added dedicated animation
+- Private Sanctum - Added On Token effect for versions of the spell without a template Produce Flame - Added Range animation
+- Shape Water - New Template animation
+- Spirit Shroud - New Aura animation
+- Storm of Vengeance - Added On Token animation
+- Summon - Set to Play On Source
+- Summon Undead - New On Token animation
+- Sword Burst - Added Template animation
+- Symbol - Added Template for versions of the spell that use one Teleportation Circle - Added On Token animation
+- Tidal Wave - Added Template animation
+- Tsunami - Added Template animation
+- Word of Radiance - New Template animation and tweaked On Token animation
+
+
 # 1.6.2
 - Moved Ice Knife from Ranged animation to Preset (Projectile to template) animation
 - Moved Thunderclap from On Token animation to Template

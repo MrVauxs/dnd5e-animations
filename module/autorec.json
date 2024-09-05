@@ -141949,7 +141949,7 @@
 					"variant": "01",
 					"color": "darkgreen",
 					"enableCustom": true,
-					"customPath": "modules/dnd5e-animations/assets/graphics/textures/InsectPlague.png"
+					"customPath": "modules/dnd5e-animations/assets/graphics/textures/InsectPlague.webp"
 				},
 				"sound": {
 					"enable": true,
@@ -142104,8 +142104,8 @@
 				"label": "Insect Plague",
 				"menu": "templatefx",
 				"name": "5e Animations",
-				"moduleVersion": "1.7.0",
-				"version": 1725493831639
+				"moduleVersion": "1.7.1",
+				"version": 1735493831639
 			}
 		},
 		{

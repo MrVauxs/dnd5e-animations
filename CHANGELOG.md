@@ -1,3 +1,6 @@
+# 1.7.1
+Fixed incorrect file extension used in new Insect Plague configuration
+
 # 1.7.0
 
 This is for Foundry V12 but will also work for V11 and should even work with V10 (untested.)

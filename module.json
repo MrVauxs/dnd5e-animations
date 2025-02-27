@@ -1,79 +1,97 @@
 {
-    "id": "dnd5e-animations",
-    "title": "D&D5e Animations",
-    "description": "<p>A module dedicated to making Dungeons & Dragons 5e shine.</p>",
-    "version": "1.7.0",
-    "authors": [
-        {
-            "name": "MrVauxs",
-            "discord": "vauxs",
-            "twitter": "@ThatVauxs",
-            "patreon": "mrvauxs",
-            "ko-fi": "mrvauxs",
-            "flags": {}
-        }
-    ],
-    "styles": [
-        "styles/dnd5e-animations.css"
-    ],
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "languages/en.json"
-        }
-    ],
-    "url": "https://github.com/MrVauxs/dnd5e-animations",
-    "compatibility": {
-        "minimum": "10",
-        "verified": "12"
+  "id": "dnd5e-animations",
+  "title": "D&D5e Animations",
+  "description": "<p>A module dedicated to making Dungeons &amp; Dragons 5e shine.</p>",
+  "version": "2.0.0",
+  "authors": [
+    {
+      "name": "MrVauxs",
+      "discord": "vauxs",
+      "twitter": "@ThatVauxs",
+      "patreon": "mrvauxs",
+      "ko-fi": "mrvauxs",
+      "flags": {}
     },
-    "esmodules": [
-        "module/utils.js",
-        "module/settings.js",
-        "module/updateMenu.js"
-    ],
-    "packs": [
-        {
-            "label": "D&D5e Animations Macros",
-            "name": "Macros",
-            "path": "packs/macros.db",
-            "type": "Macro",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "label": "D&D5e Animations Example Items",
-            "name": "Items",
-            "path": "packs/items.db",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        }
-    ],
-    "manifestPlusVersion": "1.2.0",
-    "relationships": {
-        "systems": [
-            {
-                "id": "dnd5e",
-                "type": "system",
-                "compatibility": {
-                    "minimum": "2.1.5"
-                }
-            }
-        ],
-        "requires": [
-            {
-                "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
-                "id": "autoanimations",
-                "type": "module",
-                "compatibility": {
-                    "minimum": "4.2.15"
-                }
-            }
-        ]
+    {
+      "name": "Sisimshow",
+      "discord": "sisimshow",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    "styles/dnd5e-animations.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MrVauxs/dnd5e-animations",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "module/utils.js",
+    "module/settings.js",
+    "module/updateMenu.js"
+  ],
+  "packs": [
+    {
+      "name": "Macros",
+      "label": "D&D5e Animations Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
-    "changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/master/CHANGELOG.md",
-    "manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
-    "download": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.zip"
+    {
+      "name": "Items",
+      "label": "D&D5e Animations Example Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.3.5"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
+        "id": "autoanimations",
+        "type": "module",
+        "compatibility": {
+          "minimum": "5.0.10"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "psfx",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/master/CHANGELOG.md",
+  "manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
+  "download": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.zip"
 }

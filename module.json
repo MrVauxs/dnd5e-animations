@@ -66,7 +66,7 @@
         "id": "dnd5e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.3.4"
+          "minimum": "4.3.5"
         }
       }
     ],
@@ -76,7 +76,7 @@
         "id": "autoanimations",
         "type": "module",
         "compatibility": {
-          "minimum": "5.0.9"
+          "minimum": "5.0.10"
         }
       }
     ],

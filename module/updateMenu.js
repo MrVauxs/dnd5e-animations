@@ -369,9 +369,9 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.deleted"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.deleted"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${removedEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${removedEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -381,9 +381,9 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.added"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.added"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${missingEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${missingEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -393,12 +393,12 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.custom"
-        )}</p>
+        "dnd5e-animations.updateMenu.custom"
+      )}</p>
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.customHint"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.customHint"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${customEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${customEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -408,9 +408,9 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.updated"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.updated"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${updatedEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${updatedEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -420,9 +420,9 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text">${game.i18n.localize(
-          "dnd5e-animations.updateMenu.blacklisted"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.blacklisted"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${blacklistEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${blacklistEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>
@@ -435,9 +435,9 @@ async function generateAutorecUpdateHTML() {
       html += `
 			<div class="dnd5e-animations-autorec-update-child">
 				<p class="dnd5e-animations-autorec-update-text"><strong>[DEBUG]</strong> ${game.i18n.localize(
-          "dnd5e-animations.updateMenu.debugCustom"
-        )}</p>
-				<ul class="dnd5e-animations-autorec-update-ul">
+        "dnd5e-animations.updateMenu.debugCustom"
+      )}</p>
+				<ul class="dnd5e-animations-autorec-update-ul ${customNewEntriesList.length % 3 === 0 ? "dnd5e-animations-columns-3" : ""}">
 					${customNewEntriesList.map((x) => `<li>${x}</li>`).join("")}
 				</ul>
 			</div>

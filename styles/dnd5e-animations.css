@@ -16,8 +16,12 @@
 
 .dnd5e-animations-autorec-update-ul {
     column-count: 2;
-    overflow-x: scroll;
+    overflow-x: auto;
     max-height: 400px;
+}
+
+.dnd5e-animations-columns-3 {
+    column-count: 3;
 }
 
 .dnd5e-animations-autorec-update-buttons {

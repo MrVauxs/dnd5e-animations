@@ -53,66 +53,88 @@ dnd5eAnimations.hooks.AutomatedAnimations.metaData = Hooks.on("AutomatedAnimatio
 	if (game.settings.get(moduleID, "debug")) {
 		dnd5eAnimations.debug("AutomatedAnimations.metaData hook", data);
 		let metaData = data.metaData;
-		await warpgate.menu(
-			{
-				inputs: [
-					{
-						label: `name${metaData.name ? "" : " (auto)"}`,
-						type: 'text',
-						options: metaData.name || "5e Animations"
-					},
-					{
-						label: `moduleVersion${metaData.moduleVersion ? "" : " (auto)"}`,
-						type: 'text',
-						options: metaData.moduleVersion || game.modules.get(moduleID).version
-					},
-					{
-						label: `version${metaData.version ? "" : " (auto)"}`,
-						type: 'number',
-						options: metaData.version || Number(game.modules.get(moduleID).version.replaceAll(".", ""))
-					}
-				],
-				buttons: [
-					{
-						label: 'Apply',
-						value: 1,
-						callback: async (options) => {
-							let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
-							let entry = settings.findIndex(obj => obj.label === data.label);
-							settings[entry].metaData.name = options.inputs[0] ?? settings[entry].metaData.name;
-							settings[entry].metaData.moduleVersion = options.inputs[1] ?? settings[entry].metaData.moduleVersion;
-							settings[entry].metaData.version = options.inputs[2] ?? settings[entry].metaData.version;
-							await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
-						}
-					},
-					{
-						label: 'Update',
-						value: 1,
-						callback: async (options) => {
-							let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
-							let entry = settings.findIndex(obj => obj.label === data.label);
-							settings[entry].metaData.name = "5e Animations";
-							settings[entry].metaData.moduleVersion = game.modules.get(moduleID).version;
-							settings[entry].metaData.version = (options.inputs[2] ?? settings[entry].metaData.version) + 1;
-							await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
-						}
-					},
-					{
-						label: 'Delete MetaData',
-						value: 1,
-						callback: async (options) => {
-							let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
-							let entry = settings.findIndex(obj => obj.label === data.label);
-							settings[entry].metaData = {};
-							await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
-						}
-					}
-				]
+		const fields = foundry.applications.fields;
+
+		const nameInput = fields.createTextInput({
+			label: `name${metaData.name ? "" : " (auto)"}`,
+			name: "name",
+			value: metaData.name || "5e Animations"
+		});
+		const nameGroup = fields.createFormGroup({
+			input: nameInput,
+			label: `Module Name ${metaData.name ? "" : " (auto)"}`
+		});
+
+		const modVersionInput = fields.createTextInput({
+			name: "modVersion",
+			label: `moduleVersion${metaData.moduleVersion ? "" : " (auto)"}`,
+			value: metaData.moduleVersion || game.modules.get(moduleID).version
+		});
+		const modVersionGroup = fields.createFormGroup({
+			input: modVersionInput,
+			label: `Module Version${metaData.moduleVersion ? "" : " (auto)"}`,
+		});
+
+		const versionInput = fields.createTextInput({
+			name: "version",
+			label: `Timestamp Version ${metaData.version ? "" : " (auto)"}`,
+			value: metaData.version || Number(Date.now())
+		});
+		const versionGroup = fields.createFormGroup({
+			input: versionInput,
+			label: `version${metaData.version ? "" : " (auto)"}`,
+		});
+
+		await foundry.applications.api.DialogV2.wait({
+			window: {
+				title: `DEBUG | Add Metadata to ${data.label}.`,
+				width: 600
 			},
-			{
-				title: `DEBUG | Add Metadata to ${data.label}.`
-			}
-		)
+			content: `${nameGroup.outerHTML} ${modVersionGroup.outerHTML} ${versionGroup.outerHTML}`,
+			modal: true,
+			rejectClose: false,
+			buttons: [
+				{
+					label: 'Apply',
+					action: 'apply',
+					callback: async (event, button, dialog) => {
+						const options = new FormDataExtended(button.form).object;
+
+						let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
+						let entry = settings.findIndex(obj => obj.label === data.label);
+						settings[entry].metaData.name = options.name ?? settings[entry].metaData.name;
+						settings[entry].metaData.moduleVersion = options.modVersion ?? settings[entry].metaData.moduleVersion;
+						settings[entry].metaData.version = options.version ?? settings[entry].metaData.version;
+						await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
+					}
+				},
+				{
+					label: 'Update',
+					action: 'update',
+					callback: async (event, button, dialog) => {
+						const options = new FormDataExtended(button.form).object;
+
+						let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
+						let entry = settings.findIndex(obj => obj.label === data.label);
+						settings[entry].metaData.name = "5e Animations";
+						settings[entry].metaData.moduleVersion = game.modules.get(moduleID).version;
+						settings[entry].metaData.version = (options.version ?? settings[entry].metaData.version) + 1;
+						await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
+					}
+				},
+				{
+					label: 'Delete MetaData',
+					action: 'delete',
+					callback: async (event, button, dialog) => {
+						let settings = await game.settings.get("autoanimations", `aaAutorec-${data.menu}`);
+						let entry = settings.findIndex(obj => obj.label === data.label);
+						settings[entry].metaData = {};
+						await AutomatedAnimations.AutorecManager.overwriteMenus(JSON.stringify({ version: await game.settings.get('autoanimations', 'aaAutorec').version, [data.menu]: settings }), { [data.menu]: true });
+						ui.notifications.warn(`Deleted metadata from "${data.label}"!`)
+					}
+				}
+			]
+		})
 	}
 });
 //#endregion

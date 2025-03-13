@@ -1,3 +1,8 @@
+# 2.1.0
+- Revisited all the weapons, spells, and character features in the new 2025 Player's Handbook, as well as Tasha's Cauldron of Everything, and Xanathar's Guide to Everything. 
+- Added some missing bits such as the spells of Acquisitions Incorporated.
+- Revisited animations using older JB2A animations for possible updates to new assets.
+
 # 1.7.1
 Fixed incorrect file extension used in new Insect Plague configuration
 

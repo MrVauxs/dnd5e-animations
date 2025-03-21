@@ -1,3 +1,6 @@
+# 2.2.0
+- Added 186 animations related to creatures in the Monster Manual (2024).
+
 # 2.1.1
 - Added metadata to missing animations.
 - Updated Paladin auras.

@@ -22,15 +22,18 @@ This autorec includes:
 - Most mundane weapons (including renaissance, modern, and futuristic weapons)
 - Many of the most popular abilities and class features
 - The most common monster attacks, as well as actions for iconic creatures
-- Most spells from the Player's Handbook
-- Many spells from other D&D books such as Tasha's Cauldron of Everything and Xanathar's Guide to Everything
-- Generic animations that may cover a variety of circumstances (one configuration can add animations for multiple spells or actions, so 500+ configurations doesn't mean only 500+ things are covered!)
+- Spells from the Player's Handbook (both 2014 and 2024 versions)
+- Spells from other D&D books such as Tasha's Cauldron of Everything and Xanathar's Guide to Everything
+- Generic animations that may cover a variety of circumstances
+- Over 1000 animation configurations in total!
 
 ## Installation
 
 Just install it from the Foundry VTT Add-on Modules page and enable it in your game. A message will pop up asking you to update and shows you what changes will be made. Your current animations will not be overwritten!
 
-This module requires Automated Animations 4.2.32 and the DnD5e game system version 2.1.5. If you do not these versions or newer, you will not see it in the Manage Modules page.
+This module requires Automated Animations 5.0.10 and the DnD5e game system version 4.3.5. If you do not these versions or newer, you will not see it in the Manage Modules page. If you are still using an older D&D system version, I suggest installing D&D5e Animations version 1.7.1.
+
+Version 2.0.0 and newer will recommended, but not require, the installation of PSFX. The module will work fine without it, but sound effects will be missing from some animations.
 
 Sound effects with wildcards that play random sound variants require players to have Use File Browser permissions under core settings. To enable this, open your world and go to Game Settings, Configure Settings, All or Core, Open Permission Configuration, make sure all roles have Use File Browser checked.
 

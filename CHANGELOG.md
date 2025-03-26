@@ -1,3 +1,7 @@
+# 2.2.1
+- Fixed the module playing animations of certain spells when using an item they enchanted.
+  - i.e. Magic Weapon casting animation will no longer play when attacking with a weapon enchanted by the spell
+
 # 2.2.0
 - Added 186 animations related to creatures in the Monster Manual (2024).
 

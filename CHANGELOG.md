@@ -1,3 +1,7 @@
+# 2.3.0
+- Verified Foundry VTT V13 compatibility
+- Updated Rend animation
+
 # 2.2.2
 - Updated sound effects for Magic Missile, Scorching Ray, and a few other animations.
 - Added animation configuration for the Vampire's Grave Strike attack.

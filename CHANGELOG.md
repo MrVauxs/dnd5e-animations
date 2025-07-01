@@ -1,5 +1,5 @@
 # 2.3.1
-- Restored 66 3D Canvas animations that had been accidently deleted since version 1.3.0 when they were first committed by @CosmicAfro and @theripper93
+- Restored 66 3D Canvas animations that had been accidentally deleted since version 1.3.0 when they were first committed by @CosmicAfro and @theripper93
 - Animations added since 1.3.0 will most likely not have 3D Canvas animations as I do not use the module, but hundreds of configurations should still be available
 
 # 2.3.0

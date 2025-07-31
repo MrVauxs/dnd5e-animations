@@ -41,5 +41,10 @@ Hooks.once("init", () => {
             entries: [],
         }
     });
+    game.settings.register("dnd5e-animations", "show-popup", {
+        scope: "world",
+        type: Boolean,
+        default: true
+    });
     //#endregion
 });

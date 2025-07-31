@@ -4,38 +4,11 @@ const moduleID = "dnd5e-animations"
 //#region Hooks
 dnd5eAnimations.hooks = {}
 
-dnd5eAnimations.hooks.ready = Hooks.once("ready", () => {
+dnd5eAnimations.hooks.ready = Hooks.once("ready", async () => {
 	console.log("5e Animations v" + game.modules.get(moduleID).version + " loaded.");
-	// Warn if no JB2A is found.
-	if (!game.modules.get("JB2A_DnD5e")?.active && !game.modules.get("jb2a_patreon")?.active) {
-		ui.notifications.error(dnd5eAnimations.localize("dnd5e-animations.notifications.noJB2A"), { permanent: true });
-	}
 
-	// Warn if one of the required modules is disabled.
-	if (!(game.modules.get(moduleID).relationships.requires.toObject().map(i => i.id).every(i => game.modules.get(i)?.active))) {
-		ui.notifications.error(dnd5eAnimations.localize(
-			"dnd5e-animations.notifications.noDependencies",
-			{
-				modules:
-					game.modules.get(moduleID).relationships.requires.toObject()
-						.filter(i => !game.modules.get(i.id)?.active).map(i => i.id).join(", ") || "Unknown"
-			}
-		), { permanent: true });
-	} else {
-		const wrongVersions = game.modules.get(moduleID).relationships.requires.toObject()
-			.map(i => { return { id: i.id, title: game.modules.get(i.id).title, version: i.compatibility.minimum } })
-			.filter(i => foundry.utils.isNewerVersion(i.version, game.modules.get(i.id).version?.replace("v", "")));
-
-		if (wrongVersions.length > 0) {
-			ui.notifications.error(dnd5eAnimations.localize(
-				"dnd5e-animations.notifications.wrongVersion",
-				{
-					modules:
-						wrongVersions.map(i => `${i.title} v${i.version}`).join(", ") || "Unknown"
-				}
-			), { permanent: true });
-		}
-	}
+	const proceed = await checkForModulesAndWarn()
+	if (!proceed) return;
 
 	if (game.settings.get(moduleID, "version-previous") !== game.modules.get(moduleID).version) {
 		ui.notifications.info(dnd5eAnimations.localize("dnd5e-animations.notifications.update", { version: game.modules.get(moduleID).version }))
@@ -154,3 +127,57 @@ dnd5eAnimations.localize = function localize(string = String, format = Object) {
 }
 
 self.dnd5eAnimations = dnd5eAnimations
+
+async function checkForModulesAndWarn() {
+	if (game.settings.get("dnd5e-animations", "show-popup") === false) return true;
+	const mods = {
+		jb2a: game.modules.get("jb2a_patreon")?.active,
+		psfx: game.modules.get("psfx")?.active,
+	}
+
+	if (mods.jb2a && mods.psfx) return true;
+
+	// I am sorry for anyone looking at this but this is so trivial I can't be arsed to make this prettier.
+
+	let content = "<p style='text-align:center'>Uh oh. D&D5e Animations requires both the JB2A and PSFX modules to work, and it looks like you are missing one of them. Please make sure you have both of them installed <b>and</b> enabled!</p>"
+
+	content += `<div style="display: flex;">`
+	content += `<div style="position:relative; max-width:50%;">
+		<img style="border:none; display:block; width:100%; ${mods.jb2a ? "filter:grayscale(75%) blur(2px);" : ""}" src="modules/dnd5e-animations/assets/graphics/logos/jb2a.webp">
+		<div style='text-align:center; padding-top: 0.25rem;'><a href="https://www.patreon.com/jb2a">JB2A</a></div>
+		${mods.jb2a
+			? `<i class="fas fa-check" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;"></i>`
+			: `<i class="fas fa-exclamation" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;"></i>`}
+		</div>`
+	content += `<div style="position:relative; max-width:50%;">
+		<img style="border:none; display:block; width:100%; ${mods.psfx ? "filter:grayscale(75%) blur(2px);" : ""}" src="modules/dnd5e-animations/assets/graphics/logos/psfx.webp">
+		<div style='text-align:center; padding-top: 0.25rem;'><a href="https://www.patreon.com/PeriSFX">PSFX</a></div>
+		${mods.psfx
+			? `<i class="fas fa-check" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;"></i>`
+			: `<i class="fas fa-exclamation" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; animation: bounce-dnd5e-animations 1s infinite;"></i>`}
+		</div>`
+	content += `</div>`
+
+	content += "<i style='text-align:center; font-size:0.75rem;'>Please do note that the free versions of above modules only offer limited functionality. If you accept that liability, feel free to press the \"Don't show this again\" button.</i>"
+
+	if (!mods.jb2a || !mods.psfx) {
+		const prompt = await foundry.applications.api.DialogV2.prompt({
+			window: { title: "D&D5e Animations - Warning" },
+			position: { width: 600, top: window.innerHeight / 4 },
+			content,
+			ok: { label: "I understand" },
+			buttons: [
+				{
+					label: "Don't show this again",
+					action: "dont",
+				}
+			],
+			modal: true,
+		})
+
+		if (prompt === "dont") game.settings.set("dnd5e-animations", "show-popup", false)
+		return prompt
+	}
+
+	return true;
+}

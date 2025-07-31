@@ -31,3 +31,14 @@
 .dnd5e-animations-muted {
     color: #777 !important;
 }
+
+@keyframes bounce-dnd5e-animations {
+  0%, 100% {
+    transform: translate(-50%,-50%) scale(5) translateY(-25%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translate(-50%,-50%) scale(5);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}

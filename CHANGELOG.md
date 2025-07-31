@@ -1,3 +1,8 @@
+# 3.0.0
+- Major overhall to sound effects, most animation configurations Updated
+- Minor tweaks to several animation graphics
+- More Active Effect animations
+
 # 2.3.1
 - Restored 66 3D Canvas animations that had been accidentally deleted since version 1.3.0 when they were first committed by @CosmicAfro and @theripper93
 - Animations added since 1.3.0 will most likely not have 3D Canvas animations as I do not use the module, but hundreds of configurations should still be available
@@ -27,6 +32,10 @@
 - Revisited all the weapons, spells, and character features in the new 2025 Player's Handbook, as well as Tasha's Cauldron of Everything, and Xanathar's Guide to Everything. 
 - Added some missing bits such as the spells of Acquisitions Incorporated.
 - Revisited animations using older JB2A animations for possible updates to new assets.
+
+# 2.0.0
+- Major update for D&D modern ruleset
+- Switched several sound effects over to PSFX
 
 # 1.7.1
 Fixed incorrect file extension used in new Insect Plague configuration

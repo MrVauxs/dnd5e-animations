@@ -132,14 +132,14 @@ async function checkForModulesAndWarn() {
 	if (game.settings.get("dnd5e-animations", "show-popup") === false) return true;
 	const mods = {
 		jb2a: game.modules.get("jb2a_patreon")?.active,
-		psfx: game.modules.get("psfx")?.active,
+		psfx: game.modules.get("psfx-patreon")?.active,
 	}
 
 	if (mods.jb2a && mods.psfx) return true;
 
 	// I am sorry for anyone looking at this but this is so trivial I can't be arsed to make this prettier.
 
-	let content = "<p style='text-align:center'>Uh oh. D&D5e Animations requires both the JB2A and PSFX modules to work, and it looks like you are missing one of them. Please make sure you have both of them installed <b>and</b> enabled!</p>"
+	let content = "<p style='text-align:center'>D&D5e Animations requires both the JB2A and PSFX modules to function, and <b>strongly</b> recommends using the Patreon versions. Make sure both are installed <b>and</b> enabled!</p>"
 
 	content += `<div style="display: flex;">`
 	content += `<div style="position:relative; max-width:50%;">
@@ -147,7 +147,7 @@ async function checkForModulesAndWarn() {
 		<div style='text-align:center; padding-top: 0.25rem;'><a href="https://www.patreon.com/jb2a">JB2A</a></div>
 		${mods.jb2a
 			? `<i class="fas fa-check" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;"></i>`
-			: `<i class="fas fa-exclamation" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;"></i>`}
+			: `<i class="fas fa-exclamation" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(5); color: white; text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; animation: bounce-dnd5e-animations 1s infinite;"></i>`}
 		</div>`
 	content += `<div style="position:relative; max-width:50%;">
 		<img style="border:none; display:block; width:100%; ${mods.psfx ? "filter:grayscale(75%) blur(2px);" : ""}" src="modules/dnd5e-animations/assets/graphics/logos/psfx.webp">
@@ -158,7 +158,7 @@ async function checkForModulesAndWarn() {
 		</div>`
 	content += `</div>`
 
-	content += "<i style='text-align:center; font-size:0.75rem;'>Please do note that the free versions of above modules only offer limited functionality. If you accept that liability, feel free to press the \"Don't show this again\" button.</i>"
+	content += "<i style='text-align:center; font-size:0.75rem;'>The free versions of the above modules work but only offer limited functionality. If you just want to try out D&D5e Animations before donating, press the \"Don't show this again\" button to continue.</i>"
 
 	if (!mods.jb2a || !mods.psfx) {
 		const prompt = await foundry.applications.api.DialogV2.prompt({

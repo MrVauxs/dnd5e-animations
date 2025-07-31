@@ -7,17 +7,16 @@
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fdnd5e-animations&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=dnd5e-animations)
 [![Foundry Hub Endorsements](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fdnd5e-animations%2Fshield%2Fendorsements)](https://www.foundryvtt-hub.com/package/dnd5e-animations/)
 
-Welcome to the D&D5e Animations! A fully automated preset of animations for the 5e system in FoundryVTT.
+
+Welcome to the D&D5e Animations, a fully automated preset of animations for D&D 5th Edition system in FoundryVTT.
 
 ## Overview
 
-This module uses the Patreon version of JB2A for most of the animations, but if you are using the free version of JB2A, animations should fall back to their free variants. As such, this module should be mostly compatible with the free version, but unintended variants of the effects may play.
-
-The mechanics of the module are kept as simple as possible. Anything that added an additional level of complexity to managing the game, such as dismissing sequencer effects or macros, were avoided (though you might still need to do that sometimes with auras.) There are lasting effects that are embedded into templates since the placement and dismissal of templates are a normal part of playing in Foundry, but the rest was kept simple. 
+This module automatically configures Automated Animations with over 1,000 animation setups tailored for modern D&D 5th Edition. It plays graphics and sounds whenever you activate abilities, spells, or items from official D&D sources, like the Player’s Handbook, Dungeon Master’s Guide, Monster Manual, and more. It uses the Patreon versions of JB2A and PSFX for its visuals and audio, though the free versions are supported to a limited extent. So if you just want to try out D&D5e Animations before supporting the creators on Patreon, feel free, and upgrade later if you like what you see and hear!
 
 ## Features
 
-This autorec includes:
+This module includes animation configurations for:
 
 - Most mundane weapons (including renaissance, modern, and futuristic weapons)
 - Many of the most popular abilities and class features
@@ -29,13 +28,19 @@ This autorec includes:
 
 ## Installation
 
-Just install it from the Foundry VTT Add-on Modules page and enable it in your game. A message will pop up asking you to update and shows you what changes will be made. Your current animations will not be overwritten!
+Just install it from the Foundry VTT Add-on Modules page and enable it in your game. A message will pop up asking you to update and shows you what changes will be made. Your custom animations will not be overwritten!
 
-This module requires Automated Animations 5.0.10 and the DnD5e game system version 4.3.5. If you do not these versions or newer, you will not see it in the Manage Modules page. If you are still using an older D&D system version, I suggest installing D&D5e Animations version 1.7.1.
+The Patreon versions of JB2A and PSFX are recommended. If you don't have them already, you can grab them below.
+- JB2A [Patreon](https://www.patreon.com/JB2A)
+- PSFX [Patreon](https://www.patreon.com/PeriSFX)
 
-Version 2.0.0 and newer will recommended, but not require, the installation of PSFX. The module will work fine without it, but sound effects will be missing from some animations.
+The free versions of JB2A and PSFX will work but there will be graphics and sounds that will be missing. You can use them if you just want to try D&D5e Animations first or if you're ok with missing out on the full experience. 
 
-Sound effects with wildcards that play random sound variants require players to have Use File Browser permissions under core settings. To enable this, open your world and go to Game Settings, Configure Settings, All or Core, Open Permission Configuration, make sure all roles have Use File Browser checked.
+D&D5e Animations requires Automated Animations 5.0.10 and the DnD5e game system version 4.3.5. If you do not these versions or newer, you will not see it in the Manage Modules page. If you are still using an older D&D system version, I suggest installing D&D5e Animations version 1.7.1.
+
+Version 2.0.0 and newer will recommended the installation of PSFX. The module will work without it, but sound effects will be missing from most animations.
+
+Note - Some sound effects use wildcards that play random sound variants. These require players to have Use File Browser permissions under core settings. To enable this, open your world and go to Game Settings, Configure Settings, All or Core, Open Permission Configuration, make sure all roles have Use File Browser checked.
 
 If you do not wish to have sound effects, you can turn them all off by going to Game Settings, Configure Settings, Sequencer, uncheck Enable Sounds (note, this is a per-player setting.)
 
@@ -43,7 +48,9 @@ If you do not wish to have sound effects, you can turn them all off by going to 
 
 - MrVauxs - Module programmer [Patreon](https://www.patreon.com/mrvauxs) & [Ko-Fi](https://ko-fi.com/mrvauxs)
 - Sisimshow - Animation configurations [Ko-Fi](https://ko-fi.com/sisimshow)
-- MorePurpleMoreBetter - Sound configurations [Patreon](https://www.patreon.com/morepurplemorebetter) & [website](https://www.flapkan.com/)
+- Ben and Jules - Graphics [Patreon](https://www.patreon.com/JB2A)
+- Peri - Sound effects [Patreon](https://www.patreon.com/PeriSFX)
+- MorePurpleMoreBetter - Original sound configurations [Patreon](https://www.patreon.com/morepurplemorebetter) & [website](https://www.flapkan.com/)
 - Prince Chicken Hair - Initial sound configuration
 
 Originally, the configurations for the animations started as a merge of available autorec files on the JB2A Discord. While hundreds of animations were added since then, some of contributors to the early version of the autorec include:
@@ -54,8 +61,6 @@ Originally, the configurations for the animations started as a merge of availabl
 - ArlosMolten
 - Aike
 - Zamrod
-
-The sound effects are from Dota 2 created by Valve and are under the Creative Commons Attribution NonCommercial license (“CC BY-NC-SA”) and are not to be used for commercial purposes. 
 
 ## Feedback
 

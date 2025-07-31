@@ -86,13 +86,6 @@
           "minimum": "5.0.10"
         }
       }
-    ],
-    "recommends": [
-      {
-        "id": "psfx",
-        "type": "module",
-        "compatibility": {}
-      }
     ]
   },
   "changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/master/CHANGELOG.md",

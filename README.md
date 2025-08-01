@@ -8,11 +8,11 @@
 [![Foundry Hub Endorsements](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fdnd5e-animations%2Fshield%2Fendorsements)](https://www.foundryvtt-hub.com/package/dnd5e-animations/)
 
 
-Welcome to the D&D5e Animations, a fully automated preset of animations for D&D 5th Edition system in FoundryVTT.
+Welcome to D&D5e Animations, a fully automated preset of animations for D&D 5th Edition system in FoundryVTT.
 
 ## Overview
 
-This module automatically configures Automated Animations with over 1,000 animation setups tailored for modern D&D 5th Edition. It plays graphics and sounds whenever you activate abilities, spells, or items from official D&D sources, like the Player’s Handbook, Dungeon Master’s Guide, Monster Manual, and more. It uses the Patreon versions of JB2A and PSFX for its visuals and audio, though the free versions are supported to a limited extent. So if you just want to try out D&D5e Animations before supporting the creators on Patreon, feel free, and upgrade later if you like what you see and hear!
+This module automatically configures Automated Animations with over 1,000 animation configurations tailored for modern D&D 5th Edition. It plays graphics and sounds whenever you activate abilities, spells, or items from official D&D sources, such as the 2024 Player’s Handbook, Dungeon Master’s Guide, Monster Manual, and more. It uses the Patreon versions of JB2A and PSFX for its visuals and audio, though the free versions are supported to a limited extent. So if you just want to try out D&D5e Animations before supporting the creators on Patreon, feel free, and upgrade later if you like what you see and hear!
 
 ## Features
 

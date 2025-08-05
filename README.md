@@ -8,7 +8,11 @@
 [![Foundry Hub Endorsements](https://img.shields.io/endpoint?logoColor=white&url=https%3A%2F%2Fwww.foundryvtt-hub.com%2Fwp-json%2Fhubapi%2Fv1%2Fpackage%2Fdnd5e-animations%2Fshield%2Fendorsements)](https://www.foundryvtt-hub.com/package/dnd5e-animations/)
 
 
-Welcome to D&D5e Animations, a fully automated preset of animations for D&D 5th Edition system in FoundryVTT.
+## Welcome to D&D5e Animations, a fully automated preset of animations and sound effects for Automated Animations and the D&D 5th Edition system in Foundry Virtual Tabletop.
+
+[![Animate Your D&D World](https://raw.githubusercontent.com/MrVauxs/dnd5e-animations/9094a66b63cb4585eee0659fc4fe082b445cbfeb/Banner.jpg)](http://www.youtube.com/watch?v=vGqeqMLzey8 "Animate Your D&D World - D&D5e Animations for Foundry VTT")
+
+Click the banner for the trailer! Note, most of the sound effects used in the video have been replaced.
 
 ## Overview
 
@@ -65,3 +69,4 @@ Originally, the configurations for the animations started as a merge of availabl
 ## Feedback
 
 We hope this module makes you as a GM or DM or player happy. Please, if you find any issues or have ways this can be improved, leave your feedback at the [JB2A Discord server](https://jb2a.com/home/patreon-discord/).
+

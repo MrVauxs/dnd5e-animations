@@ -1,3 +1,7 @@
+# 3.1.0
+- Full V3 release
+- Better compatibility with SRD 5.2 and official modules
+
 # 3.0.0
 - Major overhall to sound effects, most animation configurations Updated
 - Minor tweaks to several animation graphics

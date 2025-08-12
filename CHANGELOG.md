@@ -1,3 +1,17 @@
+# 3.1.1
+- Added Breath Weapon (Acid)
+- Added Breath Weapon (Cold)
+- Added Breath Weapon (Fire)
+- Added Breath Weapon (Lightning)
+- Added Breath Weapon (Poison)
+- Antilife Shell - Renamed to Concentrating: Antilife Shell
+- Antimagic Field - Renamed to Concentrating: Antimagic Field
+- Concentrating: Sunbeam - Replaced animation with "complete" version
+- Concentrating: Yolande's Regal Presence - Replaced animation with "complete" version
+- Conjure Celestial - Replaced animation with "complete" version
+- Guidance - Excluded "Concentrat"
+- Light - Made "exact match"
+
 # 3.1.0
 - Full V3 release
 - Better compatibility with SRD 5.2 and official modules

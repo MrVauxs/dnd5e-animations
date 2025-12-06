@@ -35,8 +35,8 @@ This module includes animation configurations for:
 Just install it from the Foundry VTT Add-on Modules page and enable it in your game. A message will pop up asking you to update and shows you what changes will be made. Your custom animations will not be overwritten!
 
 The Patreon versions of JB2A and PSFX are recommended. If you don't have them already, you can grab them below.
-- JB2A [Patreon](https://www.patreon.com/JB2A)
-- PSFX [Patreon](https://www.patreon.com/PeriSFX)
+- JB2A [Patreon](https://www.patreon.com/JB2A) Version 0.8.5 and later 
+- PSFX [Patreon](https://www.patreon.com/PeriSFX) Version 0.8.0 and later
 
 The free versions of JB2A and PSFX will work but there will be graphics and sounds that will be missing. You can use them if you just want to try D&D5e Animations first or if you're ok with missing out on the full experience. 
 
@@ -69,5 +69,6 @@ Originally, the configurations for the animations started as a merge of availabl
 ## Feedback
 
 We hope this module makes you as a GM or DM or player happy. Please, if you find any issues or have ways this can be improved, leave your feedback at the [JB2A Discord server](https://jb2a.com/home/patreon-discord/).
+
 
 

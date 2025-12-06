@@ -1,3 +1,9 @@
+# 3.2.0
+- Added and updated animations for content from Eberron: Forge of the Artificer
+- Added animations for the spells from Forgotten Realms: Heroes of Faerûn
+- Added back the Frightened and Stunned animations
+- Updated various graphics and sound effects
+
 # 3.1.1
 - Added Breath Weapon (Acid)
 - Added Breath Weapon (Cold)

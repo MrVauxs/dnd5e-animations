@@ -1,0 +1,47 @@
+{
+	"dnd5e-animations": {
+		"updateMenu": {
+		"deleted": "Následující efekty budou z předchozí verze modulu 'D&D5e Animations' ODSTRANĚNY.",
+		"added": "Následující efekty budou přidány do tvého menu Automatického rozpoznávání.",
+		"custom": "Následující efekty nebudou přidány, protože již existují z neznámého zdroje.",
+		"customHint": "Pokud chceš verzi z 'D&D5e Animations', odstraň je ze svého menu Automatického rozpoznávání.",
+		"updated": "Následující efekty budou aktualizovány z předchozí verze modulu 'D&D5e Animations' (nebo z výchozího menu Automated Animations = AA).",
+		"nothing": "Nebyly nalezeny žádné aktualizace.",
+		"blacklisted": "Následující efekty byly zařazeny na černou listinu a budou odstraněny z tvého menu Automatického rozpoznávání.",
+		"warning": "Nezapomeň si zálohovat své menu Automatického rozpoznávání! TENTO PROCES JE NEVRATNÝ.",
+		"debugCustom": "Následující efekty v 'D&D5e Animations' neexistují, jsou zcela nové a zůstanou ve tvém menu Automatického rozpoznávání."
+		},
+		"notifications": {
+			"update": "Verze {version} D&D5e Animations načtena. Zkontroluj, zda nemáš nové animace, které lze přidat do menu Automatického rozpoznávání!",
+			
+			"unevenGrid": "Mřížka tvé scény je nerovnoměrná ({grid}px). To pravděpodobně způsobí posunutí cílové pozice!",
+			"gridless": "Zaměřovač se doporučuje používat pouze na scéně s mřížkou. Scény bez mřížky mohou způsobovat problémy.",
+			"wrongVersion": "Chybí ti <b>{modules}</b> potřebné pro plnou funkčnost modulu D&D5e Animations! Aktualizuj, prosím, uvedené moduly!",
+			"noDependencies": "Chybí ti <b>{modules}</b> potřebné pro plnou funkčnost modulu D&D5e Animations! Aktivuj, prosím, uvedené moduly!",
+			"noJB2A": "Pro použití s modulem D&D5e Animations musíš mít aktivovaný <a href=\"https://jb2a.com/home/content-information/#free_library\">modul JB2A</a>!",
+			"noToken": "Nebyly nalezeny žádné výchozí tokeny.",
+			"noDummy": "Chybí panáci pro vyvolávací makra.",
+			"creatingDummy": " Vytváření panáků NP... ",
+			"outOfRange": "Cíl je mimo dosah.",
+			"noPack": "Nepodařilo se najít balíček 'pf2e-jb2a-macros.Actions', jak je to možné?",
+			"tooManyArgs": "Toto makro má příliš mnoho argumentů! Následující argumenty nejsou kompatibilní: {issues}",
+			"noPrem": "Aby šlo tuto animaci použít, chybí ti <a href='https://www.patreon.com/JB2A/membership'>prémiová verze JB2A</a>!",
+			"metaData": "Tato animace BUDE při aktualizaci nahrazena. Pokud to nechceš, nejlepší je dočasně změnit její <b>animaci</b>, nebo <b>variant</b>, případně v nastavení zapnout režim ladění a znovu stisknout tlačítko Metadata."
+		
+		},
+		"settings": {
+			"autoUpdate": {
+				"name": "Otevírat při aktualizaci menu?",
+				"hint": "Automaticky při aktualizaci modulu otevře menu aktualizace Automatického rozpoznávání."
+			},
+			"debug": {
+				"name": "Povolit režim ladění?",
+				"hint": "Povolí výpis do konzole o tom, co modul D&D5e Animations právě dělá."
+			},
+			"autorecUpdate": {
+				"name": "Aktualizace animací",
+				"label": "Aktualizační menu"
+			}
+		}
+	}
+}

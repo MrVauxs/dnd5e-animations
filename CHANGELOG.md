@@ -3,6 +3,7 @@
 - Added animations for the spells from Forgotten Realms: Heroes of Faerûn
 - Added back the Frightened and Stunned animations
 - Updated various graphics and sound effects
+- Merged in Czech langage pull request, thank you @Lethrendis
 
 # 3.1.1
 - Added Breath Weapon (Acid)

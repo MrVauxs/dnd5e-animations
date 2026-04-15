@@ -84,7 +84,7 @@
     ],
     "requires": [
       {
-        "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
+        "manifest": "https://github.com/theripper93/autoanimations/releases/latest/download/module.json",
         "id": "autoanimations",
         "type": "module",
         "compatibility": {

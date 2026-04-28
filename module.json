@@ -41,7 +41,7 @@
   "url": "https://github.com/MrVauxs/dnd5e-animations",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "esmodules": [
     "module/utils.js",

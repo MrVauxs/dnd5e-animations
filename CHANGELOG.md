@@ -1,3 +1,6 @@
+# 3.2.1
+- Added polish localization by [Delgar](https://github.com/delgar89)
+  
 # 3.2.0
 - Added and updated animations for content from Eberron: Forge of the Artificer
 - Added animations for the spells from Forgotten Realms: Heroes of Faerûn

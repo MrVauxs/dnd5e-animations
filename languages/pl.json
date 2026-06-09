@@ -1,0 +1,45 @@
+{
+  "dnd5e-animations": {
+    "updateMenu": {
+      "deleted": "Następujące efekty zostaną USUNIĘTE z poprzedniej wersji „D&D5e Animations”.",
+      "added": "Następujące efekty zostaną dodane do ustawień Automatycznego rozpoznawania.",
+      "custom": "Następujące efekty nie zostaną dodane, ponieważ już istnieją z nieznanego źródła.",
+      "customHint": "Jeśli chcesz użyć wersji z „D&D5e Animations”, usuń je z menu Automatycznego rozpoznawania.",
+      "updated": "Następujące efekty zostaną zaktualizowane z poprzedniej wersji „D&D5e Animations” (lub z domyślnego menu Automated Animations).",
+      "nothing": "Nie znaleziono żadnych aktualizacji.",
+      "blacklisted": "Następujące efekty zostały umieszczone na czarnej liście i zostaną usunięte z twojego menu Automatycznego rozpoznawania.",
+      "warning": "Pamiętaj, aby wykonać kopię zapasową menu Automatycznego rozpoznawania! TEGO PROCESU NIE DA SIĘ COFNĄĆ.",
+      "debugCustom": "Następujące efekty nie istnieją w D&D5e Animations, są całkowicie nowe i pozostaną w twoim menu Automatycznego rozpoznawania."
+    },
+    "notifications": {
+      "update": "D&D5e Animations v{version} załadowano. Sprawdź, czy nie masz nowych animacji do dodania do menu Automatycznego rozpoznawania!",
+      "unevenGrid": "Siatka twojej sceny jest nierówna ({grid}px). Prawdopodobnie spowoduje to przesunięcie lokalizacji celu!",
+      "gridless": "Celowniki zaleca się używać tylko na scenach z siatką. Sceny bez siatki mogą powodować problemy.",
+      "wrongVersion": "Brakuje <b>{modules}</b>, aby D&D5e Animations działało w pełni! Zaktualizuj wymienione moduły!",
+      "noDependencies": "Brakuje <b>{modules}</b>, aby D&D5e Animations działało w pełni! Włącz wymienione moduły!",
+      "noJB2A": "Aby używać modułu D&D5e Animations, musisz mieć włączony <a href=\"https://jb2a.com/home/content-information/#free_library\">moduł JB2A</a>!",
+      "noToken": "Nie znaleziono tokena źródłowego.",
+      "noDummy": "Brak fikcyjnych aktorów dla makr przywoływania.",
+      "creatingDummy": " Tworzenie fikcyjnych NPC… ",
+      "outOfRange": "Cel jest poza zasięgiem.",
+      "noPack": "Nie można znaleźć pakietu „pf2e-jb2a-macros.Actions”, jakimś cudem?",
+      "tooManyArgs": "Za dużo argumentów dla tego makra! Następujące argumenty są niekompatybilne: {issues}",
+      "noPrem": "Brakuje <a href='https://www.patreon.com/JB2A/membership'>wersji premium zasobów JB2A</a>, aby użyć tej animacji!",
+      "metaData": "Ta animacja ZOSTANIE zastąpiona podczas aktualizacji. Jeśli tego nie chcesz, najlepiej tymczasowo zmień jej <b>animację</b> albo <b>wariant</b> na coś innego lub włącz tryb debugowania w ustawieniach i ponownie naciśnij przycisk Metadane."
+    },
+    "settings": {
+      "autoUpdate": {
+        "name": "Otwórz menu aktualizacji po aktualizacji modułu",
+        "hint": "Automatycznie otwiera menu aktualizacji Automatycznego rozpoznawania po zaktualizowaniu modułu."
+      },
+      "debug": {
+        "name": "Tryb debugowania",
+        "hint": "Włącza logi w konsoli pokazujące, co robi moduł D&D5e Animations."
+      },
+      "autorecUpdate": {
+        "name": "Aktualizacja animacji",
+        "label": "Menu aktualizacji"
+      }
+    }
+  }
+}
